@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T19:19:06+03:00",
-  "overview": "The big story: US AI lab leaders signed a White House Accord on Super Intelligence, and much of the feed reacted to it. Stripe's Patrick Collison launched the OUSD stablecoin, Coinbase pitched accounts for AI agents, and SpaceX's Starship put its first Starlink V3 satellites in orbit. Note: your interests file is still the blank template, so this ranking is a general tech and markets guess. Fill in config/interests.md for sharper briefs.",
+  "generated_at": "2026-09-30T20:47:38+03:00",
+  "overview": "The big story is the White House Accord on Super Intelligence. Pichai, Huang, Zuckerberg, Sacks and Hassabis all posted that frontier labs committed to internal controls, outside evaluation and board oversight. Elsewhere, Stripe backed the launch of the OUSD stablecoin, DeepMind published protein watermarking in Nature, and Starship Flight 14 put the first Starlink V3 satellites in orbit. Your interests file is still the blank template, so this is ranked on tech, AI and markets, and political arguments are skipped.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "Pichai, Zuckerberg: AI labs sign White House Accord on Super Intelligence",
-      "notes": "Top AI lab leaders met Trump and signed the Accord plus a Joint Commitment on Frontier Responsibilities, promising internal controls, audits, testing and red-teaming. Pichai also said Google invested hundreds of billions in the last two years. Worth reading if you hold or watch AI names.\nhttps://x.com/sundarpichai/status/2105121763176894804",
+      "title": "Sundar Pichai - Top AI lab leaders signed the White House Accord on Super Intelligence plus a Joint Commitment on Frontier Responsibilities",
+      "notes": "https://x.com/sundarpichai/status/2105121763176894804",
       "url": "https://x.com/sundarpichai/status/2105121763176894804",
       "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Patrick Collison: OUSD stablecoin live, Stripe adopting it",
-      "notes": "Open Standard's new USD stablecoin launched with $400M+ liquidity on Tempo. It offers free 1:1 USD conversion via Coinbase, Mastercard, Stripe and Visa, and shares most yield with partners. Stripe is putting it into core product flows. Growth tracker: ousd.fyi.\nhttps://x.com/patrickc/status/2105321532440625424",
+      "title": "Patrick Collison - Open Standard's OUSD stablecoin is live with $400M+ liquidity at launch, and Stripe is adopting it in core product flows",
+      "notes": "https://x.com/patrickc/status/2105321532440625424",
       "url": "https://x.com/patrickc/status/2105321532440625424",
       "who": "patrickc",
       "platform": "X"
     },
     {
-      "title": "David Sacks: Q2 GDP revised up, inflation cooler than expected",
-      "notes": "Q2 GDP was revised to 2.2% (from 1.5%). Core PCE came in at 3.0% vs 3.3% expected, and ADP private jobs at +90k vs about 68k expected. This is a useful macro read for any rate-sensitive positions.\nhttps://x.com/DavidSacks/status/2105317744308879427",
-      "url": "https://x.com/DavidSacks/status/2105317744308879427",
-      "who": "DavidSacks",
+      "title": "Demis Hassabis - DeepMind's SynthID Bio watermarks AI-designed proteins; the method is published in Nature and the tools are open-sourced",
+      "notes": "https://x.com/demishassabis/status/2105348732464070823",
+      "url": "https://x.com/demishassabis/status/2105348732464070823",
+      "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "Brian Armstrong: Coinbase building accounts for AI agents",
-      "notes": "Coinbase says it is building the financial account for super intelligence: trading, payments and borrowing/lending, with agents getting their own accounts. Its agent trading volume just hit another all-time high, with Grok as the top tool used to drive it.\nhttps://x.com/brian_armstrong/status/2105307393487774153",
-      "url": "https://x.com/brian_armstrong/status/2105307393487774153",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk: Starship puts first 26 Starlink V3 satellites in orbit",
-      "notes": "Flight 14 was the first Starship not kept on a suborbital path, and the V3 satellites made contact. It is a milestone for SpaceX and Starlink. Starlink Mobile also went live in Ecuador.\nhttps://x.com/elonmusk/status/2105118961532596360",
+      "title": "Elon Musk - Starship Flight 14 went orbital for the first time and deployed the first 26 Starlink V3 satellites",
+      "notes": "https://x.com/elonmusk/status/2105118961532596360",
       "url": "https://x.com/elonmusk/status/2105118961532596360",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk: Tesla Roadster demo moved to October 15",
-      "notes": "Tesla postponed the outdoor Roadster event because of high winds. Update your calendar if you were planning to watch.\nhttps://x.com/elonmusk/status/2105090209897500828",
-      "url": "https://x.com/elonmusk/status/2105090209897500828",
-      "who": "elonmusk",
+      "title": "David Sacks - Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP +90k vs ~68k expected",
+      "notes": "https://x.com/DavidSacks/status/2105317744308879427",
+      "url": "https://x.com/DavidSacks/status/2105317744308879427",
+      "who": "DavidSacks",
       "platform": "X"
     },
     {
-      "title": "Burry Tracker: housing data weakening, Burry warns",
-      "notes": "Rates have risen 6 straight weeks, purchase applications are down 14% year over year, and serious delinquencies are up 19% year over year. Burry is quoted saying AI spending is the only thing holding the economy up. Worth a look if you hold housing or bank exposure.\nhttps://x.com/burrytracker/status/2105294564525310386",
-      "url": "https://x.com/burrytracker/status/2105294564525310386",
-      "who": "burrytracker",
+      "title": "Brian Armstrong - Coinbase is pitching itself as the financial account for super intelligence; its agent data shows Grok at 43.2% of volume, Claude Code 21.3%",
+      "notes": "https://x.com/brian_armstrong/status/2105307393487774153",
+      "url": "https://x.com/brian_armstrong/status/2105307393487774153",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "Peter Steinberger: Figma restricts MCP; OpenClaw goes enterprise",
-      "notes": "Steinberger calls Figma's MCP restriction silly and easy to get around, and MCP creator David Soria Parra (dsp_) pushed back publicly too. Separately, OpenClaw Enterprise launched with NVIDIA and Red Hat support.\nhttps://x.com/steipete/status/2105325370602135768",
+      "title": "steipete - Criticizes Figma's new MCP restrictions as silly and easy to work around; MCP creator @dsp_ says the protocol was meant as an open ecosystem",
+      "notes": "https://x.com/steipete/status/2105325370602135768",
       "url": "https://x.com/steipete/status/2105325370602135768",
       "who": "steipete",
       "platform": "X"
+    },
+    {
+      "title": "burrytracker - Claims housing stress is building: purchase mortgage applications down 14% YoY and 90+ day delinquencies up 19% YoY",
+      "notes": "https://x.com/burrytracker/status/2105294564525310386",
+      "url": "https://x.com/burrytracker/status/2105294564525310386",
+      "who": "burrytracker",
+      "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 30 Sep\n• Pichai, Zuckerberg: AI labs sign White House Accord on Super Intelligence\n• Patrick Collison: OUSD stablecoin live, Stripe adopting it\n• David Sacks: Q2 GDP revised up, inflation cooler than expected\n• Brian Armstrong: Coinbase building accounts for AI agents\n• Elon Musk: Starship puts first 26 Starlink V3 satellites in orbit"
+  "message": "Daily Brief Wed 30 Sep\n• Sundar Pichai - Top AI lab leaders signed the White House Accord on Super Intelligence plus a Joint Commitment on Frontier Responsibilities\n• Patrick Collison - Open Standard's OUSD stablecoin is live with $400M+ liquidity at launch, and Stripe is adopting it in core product flows\n• Demis Hassabis - DeepMind's SynthID Bio watermarks AI-designed proteins; the method is published in Nature and the tools are open-sourced\n• Elon Musk - Starship Flight 14 went orbital for the first time and deployed the first 26 Starlink V3 satellites\n• David Sacks - Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP +90k vs ~68k expected"
 }
