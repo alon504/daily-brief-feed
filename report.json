@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T20:47:38+03:00",
-  "overview": "The big story is the White House Accord on Super Intelligence. Pichai, Huang, Zuckerberg, Sacks and Hassabis all posted that frontier labs committed to internal controls, outside evaluation and board oversight. Elsewhere, Stripe backed the launch of the OUSD stablecoin, DeepMind published protein watermarking in Nature, and Starship Flight 14 put the first Starlink V3 satellites in orbit. Your interests file is still the blank template, so this is ranked on tech, AI and markets, and political arguments are skipped.",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:45:58+03:00",
+  "overview": "Google's Gemini 4 Argon dominated the day. Google says the model tops Text Arena and the Vals Index, offers a 1M-token output limit, and is going first to the US government and vetted cyber defenders, with wider access later. Also notable: Musk's comments on Starship Flight 14, xAI's Grok Bot and Grokipedia updates, the White House Super Intelligence Accord, and better-than-expected US economic data. Kalshi's CBS midterms deal also landed.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "Sundar Pichai - Top AI lab leaders signed the White House Accord on Super Intelligence plus a Joint Commitment on Frontier Responsibilities",
-      "notes": "https://x.com/sundarpichai/status/2105121763176894804",
-      "url": "https://x.com/sundarpichai/status/2105121763176894804",
+      "title": "GoogleAI - Gemini 4 Argon launches with a 1M-token output limit, going first to trusted cyber defenders in the Fairwind Program",
+      "notes": "https://x.com/GoogleAI/status/2105388478683119904",
+      "url": "https://x.com/GoogleAI/status/2105388478683119904",
+      "who": "GoogleAI",
+      "platform": "X"
+    },
+    {
+      "title": "sundarpichai - Pichai says Argon has frontier safeguards and is with the US government now, promising rapid iteration and broader release",
+      "notes": "https://x.com/sundarpichai/status/2105387952478277979",
+      "url": "https://x.com/sundarpichai/status/2105387952478277979",
       "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Patrick Collison - Open Standard's OUSD stablecoin is live with $400M+ liquidity at launch, and Stripe is adopting it in core product flows",
-      "notes": "https://x.com/patrickc/status/2105321532440625424",
-      "url": "https://x.com/patrickc/status/2105321532440625424",
-      "who": "patrickc",
-      "platform": "X"
-    },
-    {
-      "title": "Demis Hassabis - DeepMind's SynthID Bio watermarks AI-designed proteins; the method is published in Nature and the tools are open-sourced",
-      "notes": "https://x.com/demishassabis/status/2105348732464070823",
-      "url": "https://x.com/demishassabis/status/2105348732464070823",
-      "who": "demishassabis",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Starship Flight 14 went orbital for the first time and deployed the first 26 Starlink V3 satellites",
-      "notes": "https://x.com/elonmusk/status/2105118961532596360",
-      "url": "https://x.com/elonmusk/status/2105118961532596360",
+      "title": "elonmusk - Musk, after Starship reached orbit for the first time, says it will put much larger telescopes in orbit and giant ones on the Moon",
+      "notes": "https://x.com/elonmusk/status/2105353907799228549",
+      "url": "https://x.com/elonmusk/status/2105353907799228549",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "David Sacks - Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP +90k vs ~68k expected",
-      "notes": "https://x.com/DavidSacks/status/2105317744308879427",
-      "url": "https://x.com/DavidSacks/status/2105317744308879427",
+      "title": "elonmusk - Grok Bot can now hand coding tasks to Cursor cloud agents and manage GitHub PRs; Grokipedia v0.3 also released",
+      "notes": "https://x.com/elonmusk/status/2105543992637100269",
+      "url": "https://x.com/elonmusk/status/2105543992637100269",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "DavidSacks - Sacks: Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP jobs +90k vs ~68k",
+      "notes": "https://x.com/elonmusk/status/2105361313392476174",
+      "url": "https://x.com/elonmusk/status/2105361313392476174",
       "who": "DavidSacks",
       "platform": "X"
     },
     {
-      "title": "Brian Armstrong - Coinbase is pitching itself as the financial account for super intelligence; its agent data shows Grok at 43.2% of volume, Claude Code 21.3%",
-      "notes": "https://x.com/brian_armstrong/status/2105307393487774153",
-      "url": "https://x.com/brian_armstrong/status/2105307393487774153",
-      "who": "brian_armstrong",
+      "title": "chamath - Shared Jensen Huang's post that industry leaders signed the White House Accord on Super Intelligence at the White House",
+      "notes": "https://x.com/chamath/status/2105358648042213448",
+      "url": "https://x.com/chamath/status/2105358648042213448",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "steipete - Criticizes Figma's new MCP restrictions as silly and easy to work around; MCP creator @dsp_ says the protocol was meant as an open ecosystem",
-      "notes": "https://x.com/steipete/status/2105325370602135768",
-      "url": "https://x.com/steipete/status/2105325370602135768",
-      "who": "steipete",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Claims housing stress is building: purchase mortgage applications down 14% YoY and 90+ day delinquencies up 19% YoY",
-      "notes": "https://x.com/burrytracker/status/2105294564525310386",
-      "url": "https://x.com/burrytracker/status/2105294564525310386",
-      "who": "burrytracker",
+      "title": "mansourtarek_ - Kalshi partners with CBS News to put prediction-market forecasts for key races and Congress into midterm coverage",
+      "notes": "https://x.com/mansourtarek_/status/2105371908279607397",
+      "url": "https://x.com/mansourtarek_/status/2105371908279607397",
+      "who": "mansourtarek_",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 30 Sep\n• Sundar Pichai - Top AI lab leaders signed the White House Accord on Super Intelligence plus a Joint Commitment on Frontier Responsibilities\n• Patrick Collison - Open Standard's OUSD stablecoin is live with $400M+ liquidity at launch, and Stripe is adopting it in core product flows\n• Demis Hassabis - DeepMind's SynthID Bio watermarks AI-designed proteins; the method is published in Nature and the tools are open-sourced\n• Elon Musk - Starship Flight 14 went orbital for the first time and deployed the first 26 Starlink V3 satellites\n• David Sacks - Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP +90k vs ~68k expected"
+  "message": "Daily Brief Thu 01 Oct\n• GoogleAI - Gemini 4 Argon launches with a 1M-token output limit, going first to trusted cyber defenders in the Fairwind Program\n• sundarpichai - Pichai says Argon has frontier safeguards and is with the US government now, promising rapid iteration and broader release\n• elonmusk - Musk, after Starship reached orbit for the first time, says it will put much larger telescopes in orbit and giant ones on the Moon\n• elonmusk - Grok Bot can now hand coding tasks to Cursor cloud agents and manage GitHub PRs; Grokipedia v0.3 also released\n• DavidSacks - Sacks: Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP jobs +90k vs ~68k"
 }
