@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T09:45:58+03:00",
-  "overview": "Google's Gemini 4 Argon dominated the day. Google says the model tops Text Arena and the Vals Index, offers a 1M-token output limit, and is going first to the US government and vetted cyber defenders, with wider access later. Also notable: Musk's comments on Starship Flight 14, xAI's Grok Bot and Grokipedia updates, the White House Super Intelligence Accord, and better-than-expected US economic data. Kalshi's CBS midterms deal also landed.",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T18:58:52+03:00",
+  "overview": "Google launched its Project Suncatcher prototype satellite, which carries four TPUs, on SpaceX's Transporter-18 rideshare. Elon Musk revised the memory plans for Tesla's AI5 and AI6 chips. There was also a lot of AI model and tooling news: Gemini 4 Argon benchmarks, Coinbase's agent trading skill, Microsoft's cheaper voice model on Vercel, and Cloudflare's Clef decision models.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "GoogleAI - Gemini 4 Argon launches with a 1M-token output limit, going first to trusted cyber defenders in the Fairwind Program",
-      "notes": "https://x.com/GoogleAI/status/2105388478683119904",
-      "url": "https://x.com/GoogleAI/status/2105388478683119904",
+      "title": "GoogleAI - Project Suncatcher prototype with four TPUs reaches orbit on SpaceX Transporter-18 to test ML compute in space",
+      "notes": "https://x.com/GoogleAI/status/2106049984164463069",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069",
       "who": "GoogleAI",
       "platform": "X"
     },
     {
-      "title": "sundarpichai - Pichai says Argon has frontier safeguards and is with the US government now, promising rapid iteration and broader release",
-      "notes": "https://x.com/sundarpichai/status/2105387952478277979",
-      "url": "https://x.com/sundarpichai/status/2105387952478277979",
-      "who": "sundarpichai",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Musk, after Starship reached orbit for the first time, says it will put much larger telescopes in orbit and giant ones on the Moon",
-      "notes": "https://x.com/elonmusk/status/2105353907799228549",
-      "url": "https://x.com/elonmusk/status/2105353907799228549",
+      "title": "elonmusk - Tesla cut AI5 chip RAM to 72GB, then nudged it up to 96GB; AI6 drops to 144GB to reach Optimus production volume",
+      "notes": "https://x.com/elonmusk/status/2105747471045370250",
+      "url": "https://x.com/elonmusk/status/2105747471045370250",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Grok Bot can now hand coding tasks to Cursor cloud agents and manage GitHub PRs; Grokipedia v0.3 also released",
-      "notes": "https://x.com/elonmusk/status/2105543992637100269",
-      "url": "https://x.com/elonmusk/status/2105543992637100269",
-      "who": "elonmusk",
+      "title": "demishassabis - Shared Artificial Analysis finding that Gemini 4 Argon matches GPT-6 Astra on its index at 60% of the cost per task",
+      "notes": "https://x.com/demishassabis/status/2105803651864285301",
+      "url": "https://x.com/demishassabis/status/2105803651864285301",
+      "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "DavidSacks - Sacks: Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP jobs +90k vs ~68k",
-      "notes": "https://x.com/elonmusk/status/2105361313392476174",
-      "url": "https://x.com/elonmusk/status/2105361313392476174",
-      "who": "DavidSacks",
+      "title": "karpathy - Ask LLMs for ASD-STE100 plain writing, diagrams, HTML pages or custom explainer videos to understand outputs faster",
+      "notes": "https://x.com/karpathy/status/2105819303471976479",
+      "url": "https://x.com/karpathy/status/2105819303471976479",
+      "who": "karpathy",
       "platform": "X"
     },
     {
-      "title": "chamath - Shared Jensen Huang's post that industry leaders signed the White House Accord on Super Intelligence at the White House",
-      "notes": "https://x.com/chamath/status/2105358648042213448",
-      "url": "https://x.com/chamath/status/2105358648042213448",
-      "who": "chamath",
+      "title": "brian_armstrong - Coinbase skill lets your AI agent view your portfolio, trade crypto, stocks and derivatives, and pay for data via x402",
+      "notes": "https://x.com/brian_armstrong/status/2106042524389568900",
+      "url": "https://x.com/brian_armstrong/status/2106042524389568900",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "mansourtarek_ - Kalshi partners with CBS News to put prediction-market forecasts for key races and Congress into midterm coverage",
-      "notes": "https://x.com/mansourtarek_/status/2105371908279607397",
-      "url": "https://x.com/mansourtarek_/status/2105371908279607397",
-      "who": "mansourtarek_",
+      "title": "steipete - Flagged a report of 'several vulnerabilities' in the Linux kernel",
+      "notes": "https://x.com/steipete/status/2105805164305359019",
+      "url": "https://x.com/steipete/status/2105805164305359019",
+      "who": "steipete",
+      "platform": "X"
+    },
+    {
+      "title": "mustafasuleyman - Microsoft AI voice and streaming transcription models launch on Vercel, which he claims are 60% cheaper than ElevenLabs",
+      "notes": "https://x.com/mustafasuleyman/status/2106038354399920506",
+      "url": "https://x.com/mustafasuleyman/status/2106038354399920506",
+      "who": "mustafasuleyman",
+      "platform": "X"
+    },
+    {
+      "title": "steipete - Cloudflare releases two self-trained decision models, Clef and Clef-flash; he says he's never seen an idea spread so fast",
+      "notes": "https://x.com/steipete/status/2105778011635400949",
+      "url": "https://x.com/steipete/status/2105778011635400949",
+      "who": "steipete",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 01 Oct\n• GoogleAI - Gemini 4 Argon launches with a 1M-token output limit, going first to trusted cyber defenders in the Fairwind Program\n• sundarpichai - Pichai says Argon has frontier safeguards and is with the US government now, promising rapid iteration and broader release\n• elonmusk - Musk, after Starship reached orbit for the first time, says it will put much larger telescopes in orbit and giant ones on the Moon\n• elonmusk - Grok Bot can now hand coding tasks to Cursor cloud agents and manage GitHub PRs; Grokipedia v0.3 also released\n• DavidSacks - Sacks: Q2 GDP revised up to 2.2% from 1.5%, core PCE 3.0% vs 3.3% expected, ADP jobs +90k vs ~68k"
+  "message": "Daily Brief Fri 02 Oct\n• GoogleAI - Project Suncatcher prototype with four TPUs reaches orbit on SpaceX Transporter-18 to test ML compute in space\n• elonmusk - Tesla cut AI5 chip RAM to 72GB, then nudged it up to 96GB; AI6 drops to 144GB to reach Optimus production volume\n• demishassabis - Shared Artificial Analysis finding that Gemini 4 Argon matches GPT-6 Astra on its index at 60% of the cost per task\n• karpathy - Ask LLMs for ASD-STE100 plain writing, diagrams, HTML pages or custom explainer videos to understand outputs faster\n• brian_armstrong - Coinbase skill lets your AI agent view your portfolio, trade crypto, stocks and derivatives, and pay for data via x402"
 }
