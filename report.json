@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T18:58:52+03:00",
-  "overview": "Google launched its Project Suncatcher prototype satellite, which carries four TPUs, on SpaceX's Transporter-18 rideshare. Elon Musk revised the memory plans for Tesla's AI5 and AI6 chips. There was also a lot of AI model and tooling news: Gemini 4 Argon benchmarks, Coinbase's agent trading skill, Microsoft's cheaper voice model on Vercel, and Cloudflare's Clef decision models.",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:48:20+03:00",
+  "overview": "Heavy day for Musk-world: Tesla posted Q3 numbers and SpaceX closed a record week that included Starship's first orbital flight. In AI, OpenAI's Sam Altman addressed Cerebras speculation, Coinbase opened agent trading, and Google launched a TPU satellite prototype. On markets, a Burry-tracking account flagged a 5.34% 10-year Treasury yield and 7.28% mortgage rates.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "GoogleAI - Project Suncatcher prototype with four TPUs reaches orbit on SpaceX Transporter-18 to test ML compute in space",
-      "notes": "https://x.com/GoogleAI/status/2106049984164463069",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "who": "GoogleAI",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Tesla cut AI5 chip RAM to 72GB, then nudged it up to 96GB; AI6 drops to 144GB to reach Optimus production volume",
-      "notes": "https://x.com/elonmusk/status/2105747471045370250",
-      "url": "https://x.com/elonmusk/status/2105747471045370250",
+      "title": "elonmusk - Tesla Q3 2026: 486,532 deliveries vs 464,391 produced, plus 13.7 GWh of energy storage deployed",
+      "notes": "https://x.com/elonmusk/status/2106259023117050123",
+      "url": "https://x.com/elonmusk/status/2106259023117050123",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "demishassabis - Shared Artificial Analysis finding that Gemini 4 Argon matches GPT-6 Astra on its index at 60% of the cost per task",
-      "notes": "https://x.com/demishassabis/status/2105803651864285301",
-      "url": "https://x.com/demishassabis/status/2105803651864285301",
-      "who": "demishassabis",
+      "title": "elonmusk - SpaceX ran 3 Falcon launches, 4 landings and a Dragon docking in under 13 hours after Starship's first orbital flight",
+      "notes": "https://x.com/elonmusk/status/2106083414848028834",
+      "url": "https://x.com/elonmusk/status/2106083414848028834",
+      "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "karpathy - Ask LLMs for ASD-STE100 plain writing, diagrams, HTML pages or custom explainer videos to understand outputs faster",
-      "notes": "https://x.com/karpathy/status/2105819303471976479",
-      "url": "https://x.com/karpathy/status/2105819303471976479",
-      "who": "karpathy",
+      "title": "burrytracker - 10-year Treasury hits 5.34% and mortgage rates 7.28%; applications down four weeks in a row",
+      "notes": "https://x.com/burrytracker/status/2106083251311783986",
+      "url": "https://x.com/burrytracker/status/2106083251311783986",
+      "who": "burrytracker",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Coinbase skill lets your AI agent view your portfolio, trade crypto, stocks and derivatives, and pay for data via x402",
+      "title": "sama - Altman calls Cerebras a 'close partner' after speculation, and names 'dot' his favorite OpenAI product so far",
+      "notes": "https://x.com/sama/status/2106147184693620924",
+      "url": "https://x.com/sama/status/2106147184693620924",
+      "who": "sama",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Coinbase skill lets your AI agent see your portfolio and trade crypto, stocks and derivatives",
       "notes": "https://x.com/brian_armstrong/status/2106042524389568900",
       "url": "https://x.com/brian_armstrong/status/2106042524389568900",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "steipete - Flagged a report of 'several vulnerabilities' in the Linux kernel",
-      "notes": "https://x.com/steipete/status/2105805164305359019",
-      "url": "https://x.com/steipete/status/2105805164305359019",
-      "who": "steipete",
+      "title": "GoogleAI - Project Suncatcher launches a prototype satellite carrying Google TPUs on SpaceX's Transporter-18",
+      "notes": "https://x.com/GoogleAI/status/2106049984164463069",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069",
+      "who": "GoogleAI",
       "platform": "X"
     },
     {
-      "title": "mustafasuleyman - Microsoft AI voice and streaming transcription models launch on Vercel, which he claims are 60% cheaper than ElevenLabs",
-      "notes": "https://x.com/mustafasuleyman/status/2106038354399920506",
-      "url": "https://x.com/mustafasuleyman/status/2106038354399920506",
-      "who": "mustafasuleyman",
-      "platform": "X"
-    },
-    {
-      "title": "steipete - Cloudflare releases two self-trained decision models, Clef and Clef-flash; he says he's never seen an idea spread so fast",
-      "notes": "https://x.com/steipete/status/2105778011635400949",
-      "url": "https://x.com/steipete/status/2105778011635400949",
-      "who": "steipete",
+      "title": "JTLonsdale - Interview with Anthropic's Sholto Douglas and the_marwell aired after Anthropic comms objected to and delayed parts",
+      "notes": "https://x.com/JTLonsdale/status/2106132072045887684",
+      "url": "https://x.com/JTLonsdale/status/2106132072045887684",
+      "who": "JTLonsdale",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Fri 02 Oct\n• GoogleAI - Project Suncatcher prototype with four TPUs reaches orbit on SpaceX Transporter-18 to test ML compute in space\n• elonmusk - Tesla cut AI5 chip RAM to 72GB, then nudged it up to 96GB; AI6 drops to 144GB to reach Optimus production volume\n• demishassabis - Shared Artificial Analysis finding that Gemini 4 Argon matches GPT-6 Astra on its index at 60% of the cost per task\n• karpathy - Ask LLMs for ASD-STE100 plain writing, diagrams, HTML pages or custom explainer videos to understand outputs faster\n• brian_armstrong - Coinbase skill lets your AI agent view your portfolio, trade crypto, stocks and derivatives, and pay for data via x402"
+  "message": "Daily Brief Sat 03 Oct\n• elonmusk - Tesla Q3 2026: 486,532 deliveries vs 464,391 produced, plus 13.7 GWh of energy storage deployed\n• elonmusk - SpaceX ran 3 Falcon launches, 4 landings and a Dragon docking in under 13 hours after Starship's first orbital flight\n• burrytracker - 10-year Treasury hits 5.34% and mortgage rates 7.28%; applications down four weeks in a row\n• sama - Altman calls Cerebras a 'close partner' after speculation, and names 'dot' his favorite OpenAI product so far\n• brian_armstrong - Coinbase skill lets your AI agent see your portfolio and trade crypto, stocks and derivatives"
 }
