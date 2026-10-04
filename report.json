@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T09:48:20+03:00",
-  "overview": "Heavy day for Musk-world: Tesla posted Q3 numbers and SpaceX closed a record week that included Starship's first orbital flight. In AI, OpenAI's Sam Altman addressed Cerebras speculation, Coinbase opened agent trading, and Google launched a TPU satellite prototype. On markets, a Burry-tracking account flagged a 5.34% 10-year Treasury yield and 7.28% mortgage rates.",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T19:20:21+03:00",
+  "overview": "A heavy Elon day: he is pushing Grok 4.7 and Grok Bot hard, rebranding AI as 'SI', and calling SpaceX 'a super intelligence company'. On the money side, Coinbase added 26 tokenized stocks and set a $150k live trading contest for Oct 8, and Vistra reportedly got a $4B federal nuclear loan. Most of BillAckman's and some of Elon's feeds were politics and France riot reposts, which are skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - Tesla Q3 2026: 486,532 deliveries vs 464,391 produced, plus 13.7 GWh of energy storage deployed",
-      "notes": "https://x.com/elonmusk/status/2106259023117050123",
-      "url": "https://x.com/elonmusk/status/2106259023117050123",
+      "title": "Elon Musk - Endorses claims that Grok 4.7 'writes great code' and promotes Grok Bot, whose lead reportedly shipped 2,500 PRs in a month",
+      "notes": "https://x.com/elonmusk/status/2106769853575000431",
+      "url": "https://x.com/elonmusk/status/2106769853575000431",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "elonmusk - SpaceX ran 3 Falcon launches, 4 landings and a Dragon docking in under 13 hours after Starship's first orbital flight",
-      "notes": "https://x.com/elonmusk/status/2106083414848028834",
-      "url": "https://x.com/elonmusk/status/2106083414848028834",
+      "title": "Elon Musk - Posts 'SpaceX is a super intelligence company' after declaring 'No more AI, SI'; both posts drew millions of views",
+      "notes": "https://x.com/elonmusk/status/2106673377658413414",
+      "url": "https://x.com/elonmusk/status/2106673377658413414",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "burrytracker - 10-year Treasury hits 5.34% and mortgage rates 7.28%; applications down four weeks in a row",
-      "notes": "https://x.com/burrytracker/status/2106083251311783986",
-      "url": "https://x.com/burrytracker/status/2106083251311783986",
-      "who": "burrytracker",
+      "title": "Elon Musk - Says Dept of War revenue is about 3% of SpaceX's December ARR and roughly 1% across all his companies",
+      "notes": "https://x.com/elonmusk/status/2106486358311358550",
+      "url": "https://x.com/elonmusk/status/2106486358311358550",
+      "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "sama - Altman calls Cerebras a 'close partner' after speculation, and names 'dot' his favorite OpenAI product so far",
-      "notes": "https://x.com/sama/status/2106147184693620924",
-      "url": "https://x.com/sama/status/2106147184693620924",
-      "who": "sama",
-      "platform": "X"
-    },
-    {
-      "title": "brian_armstrong - Coinbase skill lets your AI agent see your portfolio and trade crypto, stocks and derivatives",
-      "notes": "https://x.com/brian_armstrong/status/2106042524389568900",
-      "url": "https://x.com/brian_armstrong/status/2106042524389568900",
+      "title": "Brian Armstrong - Coinbase Wallet adds 26 new tokenized stocks; $150k IRL trading contest streams from Singapore on Oct 8",
+      "notes": "https://x.com/brian_armstrong/status/2106517627266879972",
+      "url": "https://x.com/brian_armstrong/status/2106517627266879972",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "GoogleAI - Project Suncatcher launches a prototype satellite carrying Google TPUs on SpaceX's Transporter-18",
-      "notes": "https://x.com/GoogleAI/status/2106049984164463069",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "who": "GoogleAI",
+      "title": "burrytracker - Reposts report that the Trump administration is giving Vistra a $4B loan to upgrade 3 nuclear plants",
+      "notes": "https://x.com/burrytracker/status/2106547978966028433",
+      "url": "https://x.com/burrytracker/status/2106547978966028433",
+      "who": "burrytracker",
       "platform": "X"
     },
     {
-      "title": "JTLonsdale - Interview with Anthropic's Sholto Douglas and the_marwell aired after Anthropic comms objected to and delayed parts",
-      "notes": "https://x.com/JTLonsdale/status/2106132072045887684",
-      "url": "https://x.com/JTLonsdale/status/2106132072045887684",
-      "who": "JTLonsdale",
+      "title": "Elon Musk - Amplifies realtor Jason Oppenheim swapping his Bentley for a Model Y and buying Teslas with FSD for 10 employees",
+      "notes": "https://x.com/elonmusk/status/2106556694683677059",
+      "url": "https://x.com/elonmusk/status/2106556694683677059",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Highlights Farmersville, California voting 4-1 to have Grok draft council meeting minutes from recordings",
+      "notes": "https://x.com/elonmusk/status/2106761668256759878",
+      "url": "https://x.com/elonmusk/status/2106761668256759878",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Chamath Palihapitiya - Makes 'the case for giving everyone GLPs', citing a Social Capital estimate of ~$400B/yr in GDP per year of slowed aging",
+      "notes": "https://x.com/chamath/status/2106600791784194251",
+      "url": "https://x.com/chamath/status/2106600791784194251",
+      "who": "chamath",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sat 03 Oct\n• elonmusk - Tesla Q3 2026: 486,532 deliveries vs 464,391 produced, plus 13.7 GWh of energy storage deployed\n• elonmusk - SpaceX ran 3 Falcon launches, 4 landings and a Dragon docking in under 13 hours after Starship's first orbital flight\n• burrytracker - 10-year Treasury hits 5.34% and mortgage rates 7.28%; applications down four weeks in a row\n• sama - Altman calls Cerebras a 'close partner' after speculation, and names 'dot' his favorite OpenAI product so far\n• brian_armstrong - Coinbase skill lets your AI agent see your portfolio and trade crypto, stocks and derivatives"
+  "message": "Daily Brief Sun 04 Oct\n• Elon Musk - Endorses claims that Grok 4.7 'writes great code' and promotes Grok Bot, whose lead reportedly shipped 2,500 PRs in a month\n• Elon Musk - Posts 'SpaceX is a super intelligence company' after declaring 'No more AI, SI'; both posts drew millions of views\n• Elon Musk - Says Dept of War revenue is about 3% of SpaceX's December ARR and roughly 1% across all his companies\n• Brian Armstrong - Coinbase Wallet adds 26 new tokenized stocks; $150k IRL trading contest streams from Singapore on Oct 8\n• burrytracker - Reposts report that the Trump administration is giving Vistra a $4B loan to upgrade 3 nuclear plants"
 }
