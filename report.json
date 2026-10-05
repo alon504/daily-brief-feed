@@ -1,70 +1,13 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T19:20:21+03:00",
-  "overview": "A heavy Elon day: he is pushing Grok 4.7 and Grok Bot hard, rebranding AI as 'SI', and calling SpaceX 'a super intelligence company'. On the money side, Coinbase added 26 tokenized stocks and set a $150k live trading contest for Oct 8, and Vistra reportedly got a $4B federal nuclear loan. Most of BillAckman's and some of Elon's feeds were politics and France riot reposts, which are skipped here.",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T10:24:46+03:00",
+  "overview": "Nothing new came in between 4 Oct and 5 Oct 2026: no X posts and no YouTube videos. There is nothing to act on today. Also, your interests file is still the blank template, so fill in config/interests.md to make future briefs rank items properly.",
   "report_url": "",
   "status": {
-    "x": "ok",
+    "x": "login needed",
     "youtube": "ok",
     "ai": "ok"
   },
-  "top_items": [
-    {
-      "title": "Elon Musk - Endorses claims that Grok 4.7 'writes great code' and promotes Grok Bot, whose lead reportedly shipped 2,500 PRs in a month",
-      "notes": "https://x.com/elonmusk/status/2106769853575000431",
-      "url": "https://x.com/elonmusk/status/2106769853575000431",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Posts 'SpaceX is a super intelligence company' after declaring 'No more AI, SI'; both posts drew millions of views",
-      "notes": "https://x.com/elonmusk/status/2106673377658413414",
-      "url": "https://x.com/elonmusk/status/2106673377658413414",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Says Dept of War revenue is about 3% of SpaceX's December ARR and roughly 1% across all his companies",
-      "notes": "https://x.com/elonmusk/status/2106486358311358550",
-      "url": "https://x.com/elonmusk/status/2106486358311358550",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - Coinbase Wallet adds 26 new tokenized stocks; $150k IRL trading contest streams from Singapore on Oct 8",
-      "notes": "https://x.com/brian_armstrong/status/2106517627266879972",
-      "url": "https://x.com/brian_armstrong/status/2106517627266879972",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Reposts report that the Trump administration is giving Vistra a $4B loan to upgrade 3 nuclear plants",
-      "notes": "https://x.com/burrytracker/status/2106547978966028433",
-      "url": "https://x.com/burrytracker/status/2106547978966028433",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Amplifies realtor Jason Oppenheim swapping his Bentley for a Model Y and buying Teslas with FSD for 10 employees",
-      "notes": "https://x.com/elonmusk/status/2106556694683677059",
-      "url": "https://x.com/elonmusk/status/2106556694683677059",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Highlights Farmersville, California voting 4-1 to have Grok draft council meeting minutes from recordings",
-      "notes": "https://x.com/elonmusk/status/2106761668256759878",
-      "url": "https://x.com/elonmusk/status/2106761668256759878",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Chamath Palihapitiya - Makes 'the case for giving everyone GLPs', citing a Social Capital estimate of ~$400B/yr in GDP per year of slowed aging",
-      "notes": "https://x.com/chamath/status/2106600791784194251",
-      "url": "https://x.com/chamath/status/2106600791784194251",
-      "who": "chamath",
-      "platform": "X"
-    }
-  ],
-  "message": "Daily Brief Sun 04 Oct\n• Elon Musk - Endorses claims that Grok 4.7 'writes great code' and promotes Grok Bot, whose lead reportedly shipped 2,500 PRs in a month\n• Elon Musk - Posts 'SpaceX is a super intelligence company' after declaring 'No more AI, SI'; both posts drew millions of views\n• Elon Musk - Says Dept of War revenue is about 3% of SpaceX's December ARR and roughly 1% across all his companies\n• Brian Armstrong - Coinbase Wallet adds 26 new tokenized stocks; $150k IRL trading contest streams from Singapore on Oct 8\n• burrytracker - Reposts report that the Trump administration is giving Vistra a $4B loan to upgrade 3 nuclear plants"
+  "top_items": [],
+  "message": "Daily Brief Mon 05 Oct\n"
 }
