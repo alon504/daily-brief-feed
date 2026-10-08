@@ -1,13 +1,70 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T13:34:56+03:00",
-  "overview": "Unranked list (0 posts, 0 videos). The AI summary did not run today.",
+  "generated_at": "2026-10-08T13:58:14+03:00",
+  "overview": "The big tech news is Microsoft and NVIDIA launching a reworked Windows built for personal agents, and Coinbase bringing USDC to Samsung Wallet in the US. Elon Musk spent the night promoting Grok Bot's new features and Starlink's push into India and Bangladesh. Much of Bill Ackman's feed was October 7 politics, which is skipped here except for one Fannie/Freddie post.",
   "report_url": "",
   "status": {
-    "x": "failed",
+    "x": "ok",
     "youtube": "ok",
-    "ai": "failed"
+    "ai": "ok"
   },
-  "top_items": [],
-  "message": "Daily Brief Thu 08 Oct\n"
+  "top_items": [
+    {
+      "title": "Jensen Huang - NVIDIA and Microsoft unveil a new chapter for Windows, which Huang calls reinvented for personal agents after 4 years of joint work",
+      "notes": "https://x.com/JensenHuang/status/2108035064441520342",
+      "url": "https://x.com/JensenHuang/status/2108035064441520342",
+      "who": "JensenHuang",
+      "platform": "X"
+    },
+    {
+      "title": "Brian Armstrong - USDC is coming to Samsung Wallet as its first supported stablecoin, powered by Coinbase, available soon in the US",
+      "notes": "https://x.com/brian_armstrong/status/2108034153686151324",
+      "url": "https://x.com/brian_armstrong/status/2108034153686151324",
+      "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Grok Bot can now search, read and monitor X, link to bank accounts per promoters, and run team bots in Slack",
+      "notes": "https://x.com/elonmusk/status/2108036943879749830",
+      "url": "https://x.com/elonmusk/status/2108036943879749830",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Endorses Paul Graham's view that Amazon banning agents opens the first real opening for an Amazon competitor",
+      "notes": "https://x.com/elonmusk/status/2108062702778368023",
+      "url": "https://x.com/elonmusk/status/2108062702778368023",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Starlink Mobile is live in Bangladesh with Banglalink, reaching millions in cellular dead zones, as Musk pushes for India entry",
+      "notes": "https://x.com/elonmusk/status/2107998173663051794",
+      "url": "https://x.com/elonmusk/status/2107998173663051794",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Demis Hassabis - Shares Google's launch of EmbeddingGemma 2, a new open multimodal embedding model built for on-device efficiency",
+      "notes": "https://x.com/demishassabis/status/2108024511773937838",
+      "url": "https://x.com/demishassabis/status/2108024511773937838",
+      "who": "demishassabis",
+      "platform": "X"
+    },
+    {
+      "title": "Yann LeCun - Shares a Meta paper reporting scaling laws for robot world models, using an 8B-parameter JEPA model",
+      "notes": "https://x.com/ylecun/status/2108138276594851876",
+      "url": "https://x.com/ylecun/status/2108138276594851876",
+      "who": "ylecun",
+      "platform": "X"
+    },
+    {
+      "title": "Jeff Dean - Mourns Margaret Hamilton, who led the Apollo flight software at MIT, after MIT announced her death at 90",
+      "notes": "https://x.com/JeffDean/status/2108027570382086435",
+      "url": "https://x.com/JeffDean/status/2108027570382086435",
+      "who": "JeffDean",
+      "platform": "X"
+    }
+  ],
+  "message": "Daily Brief Thu 08 Oct\n• Jensen Huang - NVIDIA and Microsoft unveil a new chapter for Windows, which Huang calls reinvented for personal agents after 4 years of joint work\n• Brian Armstrong - USDC is coming to Samsung Wallet as its first supported stablecoin, powered by Coinbase, available soon in the US\n• Elon Musk - Grok Bot can now search, read and monitor X, link to bank accounts per promoters, and run team bots in Slack\n• Elon Musk - Endorses Paul Graham's view that Amazon banning agents opens the first real opening for an Amazon competitor\n• Elon Musk - Starlink Mobile is live in Bangladesh with Banglalink, reaching millions in cellular dead zones, as Musk pushes for India entry"
 }
