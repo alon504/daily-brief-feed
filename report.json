@@ -1,70 +1,13 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T10:39:31+03:00",
-  "overview": "A day heavy on AI and markets. Michael Burry is reportedly challenging Nvidia's chip-value claims while holding NVDA puts, OpenAI made its subscription models about 50% faster, and Reflection AI announced a large open-weights model. Crypto got a regulatory step forward with the CFTC opening public comment on rulemaking. Political posts from several accounts were skipped.",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T13:34:56+03:00",
+  "overview": "Unranked list (0 posts, 0 videos). The AI summary did not run today.",
   "report_url": "",
   "status": {
-    "x": "ok",
+    "x": "failed",
     "youtube": "ok",
-    "ai": "ok"
+    "ai": "failed"
   },
-  "top_items": [
-    {
-      "title": "burrytracker - Burry reportedly says Nvidia's chip resale-value claims rest on rental estimates; he holds Sept 2027 NVDA puts",
-      "notes": "https://x.com/burrytracker/status/2107133069089984895",
-      "url": "https://x.com/burrytracker/status/2107133069089984895",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "MatthewBerman - OpenAI says default speed is ~50% faster on GPT-6 Astra and GPT-6.1 Sol via subscription, no setup needed",
-      "notes": "https://x.com/MatthewBerman/status/2107214040837791906",
-      "url": "https://x.com/MatthewBerman/status/2107214040837791906",
-      "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "saranormous - Reflection AI unveils Beam, a 501B-parameter open model (23B active) aimed at coding and agents; weights due this month",
-      "notes": "https://x.com/saranormous/status/2107194757952991710",
-      "url": "https://x.com/saranormous/status/2107194757952991710",
-      "who": "saranormous",
-      "platform": "X"
-    },
-    {
-      "title": "brian_armstrong - Coinbase CEO welcomes CFTC opening a public comment period on crypto rulemaking",
-      "notes": "https://x.com/brian_armstrong/status/2107160204488126914",
-      "url": "https://x.com/brian_armstrong/status/2107160204488126914",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "zhihanyang_ - NVIDIA researchers scale continuous diffusion language models to 3B and 8B, the first at large scale",
-      "notes": "https://x.com/zhihanyang_/status/2107160950109544893",
-      "url": "https://x.com/zhihanyang_/status/2107160950109544893",
-      "who": "zhihanyang_",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Burry's MercadoLibre position is reportedly up 11.5% in 150 days as Brazil rallies on Bolsonaro's election lead",
-      "notes": "https://x.com/burrytracker/status/2107121030196285469",
-      "url": "https://x.com/burrytracker/status/2107121030196285469",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "chamath - Social Capital says ~90% of frontier lab compute now goes to post-training and inference",
-      "notes": "https://x.com/chamath/status/2107250394405781599",
-      "url": "https://x.com/chamath/status/2107250394405781599",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "sundarpichai - Google Drive and Docs now handle Markdown natively, including .md previews in Drive; Googlebook laptops hit shelves",
-      "notes": "https://x.com/sundarpichai/status/2107279536702501110",
-      "url": "https://x.com/sundarpichai/status/2107279536702501110",
-      "who": "sundarpichai",
-      "platform": "X"
-    }
-  ],
-  "message": "Daily Brief Tue 06 Oct\n• burrytracker - Burry reportedly says Nvidia's chip resale-value claims rest on rental estimates; he holds Sept 2027 NVDA puts\n• MatthewBerman - OpenAI says default speed is ~50% faster on GPT-6 Astra and GPT-6.1 Sol via subscription, no setup needed\n• saranormous - Reflection AI unveils Beam, a 501B-parameter open model (23B active) aimed at coding and agents; weights due this month\n• brian_armstrong - Coinbase CEO welcomes CFTC opening a public comment period on crypto rulemaking\n• zhihanyang_ - NVIDIA researchers scale continuous diffusion language models to 3B and 8B, the first at large scale"
+  "top_items": [],
+  "message": "Daily Brief Thu 08 Oct\n"
 }
