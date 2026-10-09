@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T14:20:03+03:00",
-  "overview": "The biggest product news is Microsoft and NVIDIA launching a reworked Windows built around personal agents, and Coinbase bringing USDC to Samsung Wallet. Elon Musk spent the day promoting Grok Bot's new X search and bank-connection features and pushing Starlink in India and Bangladesh. Google released EmbeddingGemma 2, and Margaret Hamilton, who led the Apollo flight software, has died at 90. Much of the remaining volume was October 7 political content, which is skipped here.",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T09:58:44+03:00",
+  "overview": "The biggest story is SpaceX's deal for nationwide 800 MHz low-band spectrum, which it says will turn Starlink Mobile into a full US phone carrier. Elon Musk and Chamath called it a very big deal, and one account reposted a jab at Verizon and AT&T. Also notable: an FT report via zerohedge that OpenAI's annualized revenue is about $20B below what it had signaled, Google's first Lancet paper on its AMIE diagnostic AI, and Anthropic's new rule banning abuse of Claude. Most of Bill Ackman's and Elon's political posts were skipped.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "Jensen Huang - NVIDIA and Microsoft unveil Windows 'reinvented for personal agents' after 4 years of joint engineering",
-      "notes": "https://x.com/JensenHuang/status/2108035064441520342",
-      "url": "https://x.com/JensenHuang/status/2108035064441520342",
-      "who": "JensenHuang",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - USDC is coming to Samsung Wallet as its first supported stablecoin, powered by Coinbase, soon in the US",
-      "notes": "https://x.com/brian_armstrong/status/2108034153686151324",
-      "url": "https://x.com/brian_armstrong/status/2108034153686151324",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Grok Bot can now search, read and monitor X, and is being pitched as a bank-connected 'personal CFO'",
-      "notes": "https://x.com/elonmusk/status/2108056430872064383",
-      "url": "https://x.com/elonmusk/status/2108056430872064383",
+      "title": "Elon Musk - SpaceX agrees to buy nationwide 800 MHz spectrum; Musk calls it the last piece needed for full US phone coverage",
+      "notes": "https://x.com/elonmusk/status/2108296638263652416",
+      "url": "https://x.com/elonmusk/status/2108296638263652416",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Starlink Mobile goes live in Bangladesh via Banglalink while Musk pushes hard for an India launch",
-      "notes": "https://x.com/elonmusk/status/2107998173663051794",
-      "url": "https://x.com/elonmusk/status/2107998173663051794",
+      "title": "burrytracker - FT via zerohedge: OpenAI told investors annualized revenue is near $50B, about $20B less than previously signaled",
+      "notes": "https://x.com/burrytracker/status/2108252950682374379",
+      "url": "https://x.com/burrytracker/status/2108252950682374379",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "Sundar Pichai - Google's AMIE study in The Lancet: AI diagnoses matched doctors' final calls 90% of the time in a real urgent-care clinic",
+      "notes": "https://x.com/sundarpichai/status/2108329198955958339",
+      "url": "https://x.com/sundarpichai/status/2108329198955958339",
+      "who": "sundarpichai",
+      "platform": "X"
+    },
+    {
+      "title": "David Sacks - Anthropic will treat abusive behavior toward Claude as a Usage Policy violation starting November 12, 2026",
+      "notes": "https://x.com/DavidSacks/status/2108323895623217285",
+      "url": "https://x.com/DavidSacks/status/2108323895623217285",
+      "who": "DavidSacks",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Grok Bot now uses Opus 5.5 when needed, runs much faster, has full X access, and connects to Shopify stores",
+      "notes": "https://x.com/elonmusk/status/2108298090755031284",
+      "url": "https://x.com/elonmusk/status/2108298090755031284",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Endorses Paul Graham's view that Amazon banning agents opens the first real opening for an Amazon competitor",
-      "notes": "https://x.com/elonmusk/status/2108062702778368023",
-      "url": "https://x.com/elonmusk/status/2108062702778368023",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Demis Hassabis - Shares Sundar Pichai's launch of EmbeddingGemma 2, an open multimodal model aimed at on-device efficiency",
-      "notes": "https://x.com/demishassabis/status/2108024511773937838",
-      "url": "https://x.com/demishassabis/status/2108024511773937838",
+      "title": "Demis Hassabis - Google DeepMind is putting $150M into the White House and Department of Energy's Genesis Mission science initiative",
+      "notes": "https://x.com/demishassabis/status/2108331042083872882",
+      "url": "https://x.com/demishassabis/status/2108331042083872882",
       "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "Yann LeCun - Shares a post saying Meta trained an 8B-parameter JEPA robot world model and found scaling laws",
-      "notes": "https://x.com/ylecun/status/2108138276594851876",
-      "url": "https://x.com/ylecun/status/2108138276594851876",
-      "who": "ylecun",
-      "platform": "X"
-    },
-    {
-      "title": "Jeff Dean - Pays tribute to Margaret Hamilton, MIT's Apollo flight software lead, who has died at 90",
-      "notes": "https://x.com/JeffDean/status/2108027570382086435",
-      "url": "https://x.com/JeffDean/status/2108027570382086435",
-      "who": "JeffDean",
+      "title": "Peter Steinberger - The OpenClaw Foundation won the .claw top-level domain in ICANN's 2026 round",
+      "notes": "https://x.com/steipete/status/2108374513931165759",
+      "url": "https://x.com/steipete/status/2108374513931165759",
+      "who": "steipete",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 08 Oct\n• Jensen Huang - NVIDIA and Microsoft unveil Windows 'reinvented for personal agents' after 4 years of joint engineering\n• Brian Armstrong - USDC is coming to Samsung Wallet as its first supported stablecoin, powered by Coinbase, soon in the US\n• Elon Musk - Grok Bot can now search, read and monitor X, and is being pitched as a bank-connected 'personal CFO'\n• Elon Musk - Starlink Mobile goes live in Bangladesh via Banglalink while Musk pushes hard for an India launch\n• Elon Musk - Endorses Paul Graham's view that Amazon banning agents opens the first real opening for an Amazon competitor"
+  "message": "Daily Brief Fri 09 Oct\n• Elon Musk - SpaceX agrees to buy nationwide 800 MHz spectrum; Musk calls it the last piece needed for full US phone coverage\n• burrytracker - FT via zerohedge: OpenAI told investors annualized revenue is near $50B, about $20B less than previously signaled\n• Sundar Pichai - Google's AMIE study in The Lancet: AI diagnoses matched doctors' final calls 90% of the time in a real urgent-care clinic\n• David Sacks - Anthropic will treat abusive behavior toward Claude as a Usage Policy violation starting November 12, 2026\n• Elon Musk - Grok Bot now uses Opus 5.5 when needed, runs much faster, has full X access, and connects to Shopify stores"
 }
