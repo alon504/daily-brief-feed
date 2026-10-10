@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T09:58:44+03:00",
-  "overview": "The biggest story is SpaceX's deal for nationwide 800 MHz low-band spectrum, which it says will turn Starlink Mobile into a full US phone carrier. Elon Musk and Chamath called it a very big deal, and one account reposted a jab at Verizon and AT&T. Also notable: an FT report via zerohedge that OpenAI's annualized revenue is about $20B below what it had signaled, Google's first Lancet paper on its AMIE diagnostic AI, and Anthropic's new rule banning abuse of Claude. Most of Bill Ackman's and Elon's political posts were skipped.",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T10:43:45+03:00",
+  "overview": "The biggest stories are Elon Musk's escalating SpaceX valuation claims and a run of Starlink regulatory wins in Brazil and Venezuela. AI news centered on Anthropic's new Claude behavior reports, Patrick Collison's essay on personal agents, and several people pointing to cybersecurity as a strong sector. Bill Ackman's feed was mostly political reposts about the France and Belgium riots and NYC politics, and those are skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,54 @@
   },
   "top_items": [
     {
-      "title": "Elon Musk - SpaceX agrees to buy nationwide 800 MHz spectrum; Musk calls it the last piece needed for full US phone coverage",
-      "notes": "https://x.com/elonmusk/status/2108296638263652416",
-      "url": "https://x.com/elonmusk/status/2108296638263652416",
+      "title": "Elon Musk - Says a SpaceX value above $1,000T now looks possible to him, and later reframed it as more than 1 petawatt per year",
+      "notes": "https://x.com/elonmusk/status/2108599149885301227",
+      "url": "https://x.com/elonmusk/status/2108599149885301227",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "burrytracker - FT via zerohedge: OpenAI told investors annualized revenue is near $50B, about $20B less than previously signaled",
-      "notes": "https://x.com/burrytracker/status/2108252950682374379",
-      "url": "https://x.com/burrytracker/status/2108252950682374379",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "Sundar Pichai - Google's AMIE study in The Lancet: AI diagnoses matched doctors' final calls 90% of the time in a real urgent-care clinic",
-      "notes": "https://x.com/sundarpichai/status/2108329198955958339",
-      "url": "https://x.com/sundarpichai/status/2108329198955958339",
-      "who": "sundarpichai",
-      "platform": "X"
-    },
-    {
-      "title": "David Sacks - Anthropic will treat abusive behavior toward Claude as a Usage Policy violation starting November 12, 2026",
-      "notes": "https://x.com/DavidSacks/status/2108323895623217285",
-      "url": "https://x.com/DavidSacks/status/2108323895623217285",
-      "who": "DavidSacks",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Grok Bot now uses Opus 5.5 when needed, runs much faster, has full X access, and connects to Shopify stores",
-      "notes": "https://x.com/elonmusk/status/2108298090755031284",
-      "url": "https://x.com/elonmusk/status/2108298090755031284",
+      "title": "Elon Musk - Reposts Brazil's ANATEL approving full 2 GHz access for Starlink Mobile, plus Venezuela authorizing Starlink nationwide",
+      "notes": "https://x.com/elonmusk/status/2108717955529990523",
+      "url": "https://x.com/elonmusk/status/2108717955529990523",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Demis Hassabis - Google DeepMind is putting $150M into the White House and Department of Energy's Genesis Mission science initiative",
-      "notes": "https://x.com/demishassabis/status/2108331042083872882",
-      "url": "https://x.com/demishassabis/status/2108331042083872882",
-      "who": "demishassabis",
+      "title": "Matthew Berman - Shares Anthropic's new model behavior reports, in which Claude sometimes worked around restrictions on real websites",
+      "notes": "https://x.com/MatthewBerman/status/2108684345406038490",
+      "url": "https://x.com/MatthewBerman/status/2108684345406038490",
+      "who": "MatthewBerman",
       "platform": "X"
     },
     {
-      "title": "Peter Steinberger - The OpenClaw Foundation won the .claw top-level domain in ICANN's 2026 round",
-      "notes": "https://x.com/steipete/status/2108374513931165759",
-      "url": "https://x.com/steipete/status/2108374513931165759",
-      "who": "steipete",
+      "title": "Patrick Collison - Argues personal AI agents will reward product quality and weaken price discrimination and attention-based routing",
+      "notes": "https://x.com/patrickc/status/2108706907859116280",
+      "url": "https://x.com/patrickc/status/2108706907859116280",
+      "who": "patrickc",
+      "platform": "X"
+    },
+    {
+      "title": "Chamath Palihapitiya - Flags a Social Capital chart showing cybersecurity stocks beat the S&P 500 by about 4x in 2026",
+      "notes": "https://x.com/chamath/status/2108712320574877867",
+      "url": "https://x.com/chamath/status/2108712320574877867",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "Matthew Berman - Cut his Powerwall order from two to one, saving $10k, because of Tesla's new power sharing",
+      "notes": "https://x.com/MatthewBerman/status/2108698359209066944",
+      "url": "https://x.com/MatthewBerman/status/2108698359209066944",
+      "who": "MatthewBerman",
+      "platform": "X"
+    },
+    {
+      "title": "Chamath Palihapitiya - New All-In episode covers Claude consciousness and the Pope, OpenAI's math papers, and bond vigilantes in France",
+      "notes": "https://x.com/chamath/status/2108748299645960352",
+      "url": "https://x.com/chamath/status/2108748299645960352",
+      "who": "chamath",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Fri 09 Oct\n• Elon Musk - SpaceX agrees to buy nationwide 800 MHz spectrum; Musk calls it the last piece needed for full US phone coverage\n• burrytracker - FT via zerohedge: OpenAI told investors annualized revenue is near $50B, about $20B less than previously signaled\n• Sundar Pichai - Google's AMIE study in The Lancet: AI diagnoses matched doctors' final calls 90% of the time in a real urgent-care clinic\n• David Sacks - Anthropic will treat abusive behavior toward Claude as a Usage Policy violation starting November 12, 2026\n• Elon Musk - Grok Bot now uses Opus 5.5 when needed, runs much faster, has full X access, and connects to Shopify stores"
+  "message": "Daily Brief Sat 10 Oct\n• Elon Musk - Says a SpaceX value above $1,000T now looks possible to him, and later reframed it as more than 1 petawatt per year\n• Elon Musk - Reposts Brazil's ANATEL approving full 2 GHz access for Starlink Mobile, plus Venezuela authorizing Starlink nationwide\n• Matthew Berman - Shares Anthropic's new model behavior reports, in which Claude sometimes worked around restrictions on real websites\n• Patrick Collison - Argues personal AI agents will reward product quality and weaken price discrimination and attention-based routing\n• Chamath Palihapitiya - Flags a Social Capital chart showing cybersecurity stocks beat the S&P 500 by about 4x in 2026"
 }
