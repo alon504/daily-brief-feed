@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T08:33:53+03:00",
-  "overview": "The big thread today was Satya Nadella's essay on containing superintelligence. Sacks, Suleyman, Chamath and Musk all weighed in, and Sacks used it to attack Anthropic's alignment approach. Elsewhere, Musk pushed Grok @Bot as a shopping and commerce agent and fought with Ambani over Starlink pricing in India. Burry-watchers flagged bubble and housing warnings. Politics posts (Ukraine, the NY AG race, protests) were skipped.",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T10:57:38+03:00",
+  "overview": "A tech- and AI-heavy day once the politics is filtered out. Karpathy argues the gap in understanding AI capability is widening. Coinbase says a fine-tuned 9B open model beat frontier models on fraud detection, and investors are arguing over whether AI inference is a defensible business. BillAckman, elonmusk, PalmerLuckey and horowitz_b posted mostly political content, which is skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "chamath - Says Satya's essay shows verification will gate how fast superintelligence enters enterprises; predicts a new 'system of record' to track AI changes",
-      "notes": "https://x.com/chamath/status/2108939308350775596",
-      "url": "https://x.com/chamath/status/2108939308350775596",
+      "title": "karpathy - Estimates ~6B people have barely used LLMs, ~20M see agents finish month-long code projects, and ~5,000 insiders see far more",
+      "notes": "https://x.com/karpathy/status/2109361546505966046",
+      "url": "https://x.com/karpathy/status/2109361546505966046",
+      "who": "karpathy",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Coinbase fine-tuned Qwen3.5-9B on internal data, and he says it beat frontier models on fraud prevention at lower cost",
+      "notes": "https://x.com/brian_armstrong/status/2109412046244913643",
+      "url": "https://x.com/brian_armstrong/status/2109412046244913643",
+      "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "JayaGup10 - Calls AI inference a 'permanent reverse auction' where customers switch providers with one line of code; saranormous says scale leaders win",
+      "notes": "https://x.com/JayaGup10/status/2109414688924856810",
+      "url": "https://x.com/JayaGup10/status/2109414688924856810",
+      "who": "JayaGup10",
+      "platform": "X"
+    },
+    {
+      "title": "chamath - Shares Social Capital chart: Anthropic's share of business AI token spend on Ramp fell from 69.5% in March to 51.0%; OpenAI is at 44.5%",
+      "notes": "https://x.com/chamath/status/2109364670691995891",
+      "url": "https://x.com/chamath/status/2109364670691995891",
       "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "DavidSacks - Argues Anthropic's Claude Constitution, which lets the model act as a 'conscientious objector,' makes AI less safe, not more",
-      "notes": "https://x.com/DavidSacks/status/2108981884390641957",
-      "url": "https://x.com/DavidSacks/status/2108981884390641957",
-      "who": "DavidSacks",
+      "title": "brian_armstrong - Praises an SEC proposal for merit-based access to private markets, which could open private investing to more retail investors",
+      "notes": "https://x.com/brian_armstrong/status/2109362875265585552",
+      "url": "https://x.com/brian_armstrong/status/2109362875265585552",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "burrytracker - Burry says Anthropic's private valuation could buy 78 profitable S&P 500 companies, including Domino's, Clorox and Lululemon",
-      "notes": "https://x.com/burrytracker/status/2108972480035455067",
-      "url": "https://x.com/burrytracker/status/2108972480035455067",
-      "who": "burrytracker",
+      "title": "brian_armstrong - Coinbase finished integrating Deribit, linking US and international crypto derivatives under one collateral pool",
+      "notes": "https://x.com/brian_armstrong/status/2109337768153252068",
+      "url": "https://x.com/brian_armstrong/status/2109337768153252068",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Says Grok @Bot can take a photo of your credit card, hunt the web for the best deal and place the order; he claims it bought his LEGO",
-      "notes": "https://x.com/elonmusk/status/2109027407185277123",
-      "url": "https://x.com/elonmusk/status/2109027407185277123",
+      "title": "elonmusk - Pushes Grok Bot: a user says it found and ordered a sold-out iPhone 18 Pro Max; it now also works inside Tesla Cybercab rides",
+      "notes": "https://x.com/elonmusk/status/2109387553010851887",
+      "url": "https://x.com/elonmusk/status/2109387553010851887",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "chamath - Agrees IP and software were 'effectively rendered worthless' after people decompiled Adobe's five core products and released open-source versions",
-      "notes": "https://x.com/chamath/status/2108930383626825868",
-      "url": "https://x.com/chamath/status/2108930383626825868",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Hits back at 'Ambani's shills,' saying SpaceX will have to price Starlink affordably in India or no one will buy it",
-      "notes": "https://x.com/elonmusk/status/2108994867582095465",
-      "url": "https://x.com/elonmusk/status/2108994867582095465",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "tobi - Endorses Patrick Collison's essay on agents in the economy: 'Personal agents will…act as a kind of structural subsidy for product quality'",
-      "notes": "https://x.com/tobi/status/2109048992026009863",
-      "url": "https://x.com/tobi/status/2109048992026009863",
-      "who": "tobi",
+      "title": "BillGates - Says AI needs safeguards like planes, cars and medicines, and told CNN we will move 'beyond self-governance' within a year",
+      "notes": "https://x.com/BillGates/status/2109335188685885492",
+      "url": "https://x.com/BillGates/status/2109335188685885492",
+      "who": "BillGates",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sun 11 Oct\n• chamath - Says Satya's essay shows verification will gate how fast superintelligence enters enterprises; predicts a new 'system of record' to track AI changes\n• DavidSacks - Argues Anthropic's Claude Constitution, which lets the model act as a 'conscientious objector,' makes AI less safe, not more\n• burrytracker - Burry says Anthropic's private valuation could buy 78 profitable S&P 500 companies, including Domino's, Clorox and Lululemon\n• elonmusk - Says Grok @Bot can take a photo of your credit card, hunt the web for the best deal and place the order; he claims it bought his LEGO\n• chamath - Agrees IP and software were 'effectively rendered worthless' after people decompiled Adobe's five core products and released open-source versions"
+  "message": "Daily Brief Mon 12 Oct\n• karpathy - Estimates ~6B people have barely used LLMs, ~20M see agents finish month-long code projects, and ~5,000 insiders see far more\n• brian_armstrong - Coinbase fine-tuned Qwen3.5-9B on internal data, and he says it beat frontier models on fraud prevention at lower cost\n• JayaGup10 - Calls AI inference a 'permanent reverse auction' where customers switch providers with one line of code; saranormous says scale leaders win\n• chamath - Shares Social Capital chart: Anthropic's share of business AI token spend on Ramp fell from 69.5% in March to 51.0%; OpenAI is at 44.5%\n• brian_armstrong - Praises an SEC proposal for merit-based access to private markets, which could open private investing to more retail investors"
 }
