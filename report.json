@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T11:24:52+03:00",
-  "overview": "Meta's Muse Wonder frontier model launched, with strong early praise from Tobi Lütke and Matthew Berman despite quota limits at launch that Berman says were quickly fixed. Microsoft committed to its own Maia chips at multi-gigawatt scale, and X merged Grok, Cursor and X Premium into one subscription while Elon Musk spent the night promoting Grok Bot. Chamath shared a study arguing that model leaderboards can mislead without harness testing.",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:41:26+03:00",
+  "overview": "Google launched Gemini 4 Argon, and xAI pushed a large Grok Bot update while Elon Musk amplified many user examples. OpenAI disclosed a hidden recording device planted in its office that led to an FBI arrest. SpaceX's first returned Starship is back at Starbase, and Tesla has scheduled a Roadster event for Thursday.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "tobi - Meta's new Muse Wonder frontier model is 'very very good' and handled tasks other top models failed, says Shopify's CEO",
-      "notes": "https://x.com/tobi/status/2109693718978842715",
-      "url": "https://x.com/tobi/status/2109693718978842715",
-      "who": "tobi",
-      "platform": "X"
-    },
-    {
-      "title": "saranormous - Microsoft says its Maia 300 chip gives 40% more tokens per watt and will scale to multi-gigawatt deployments next year",
-      "notes": "https://x.com/saranormous/status/2109749964645777461",
-      "url": "https://x.com/saranormous/status/2109749964645777461",
-      "who": "saranormous",
-      "platform": "X"
-    },
-    {
-      "title": "chamath - 8090 Labs test: same model scored 24% or 59% on 113 coding tasks depending on harness; Claude Fable 5.1 did better in Codex",
-      "notes": "https://x.com/chamath/status/2109703737493344363",
-      "url": "https://x.com/chamath/status/2109703737493344363",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "X - New 'X Subscription' bundles Grok, Cursor and X Premium; X says it costs the same as Premium or less",
-      "notes": "https://x.com/X/status/2109787535509799385",
-      "url": "https://x.com/X/status/2109787535509799385",
-      "who": "X",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Musk spent the night promoting Grok Bot, including a new feature that imports memory from ChatGPT or Claude",
-      "notes": "https://x.com/elonmusk/status/2109867516646637579",
-      "url": "https://x.com/elonmusk/status/2109867516646637579",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Tesla Robotaxi now runs 6am-11pm with shorter waits, an auto-opening trunk and Grok Bot inside the Cybercab",
-      "notes": "https://x.com/elonmusk/status/2109803903256502307",
-      "url": "https://x.com/elonmusk/status/2109803903256502307",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "demishassabis - The Lancet published Google's AMIE study, the first prospective real-clinic trial of a patient-facing AI diagnostic chat",
-      "notes": "https://x.com/demishassabis/status/2109813775377563908",
-      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "title": "demishassabis - Gemini 4 Argon is rolling out to Google Ultra and Pro subscribers in the Gemini app and Search, and to Ultra in Antigravity",
+      "notes": "https://x.com/demishassabis/status/2110052931110318464",
+      "url": "https://x.com/demishassabis/status/2110052931110318464",
       "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "DavidSacks - Sacks says Anthropic reports cutting data harvested from Claude in distillation attacks by around 90-99%",
-      "notes": "https://x.com/DavidSacks/status/2109849209742450696",
-      "url": "https://x.com/DavidSacks/status/2109849209742450696",
-      "who": "DavidSacks",
+      "title": "elonmusk - Grok Bot 0.70.2 gives each bot its own email address, adds Figma/Notion/Canva cards and an approval step before irreversible actions",
+      "notes": "https://x.com/elonmusk/status/2110127808718741920",
+      "url": "https://x.com/elonmusk/status/2110127808718741920",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "MatthewBerman - OpenAI says an employee hid a recording device in its office; its models helped trace it, and the FBI made an arrest",
+      "notes": "https://x.com/MatthewBerman/status/2110105139248037986",
+      "url": "https://x.com/MatthewBerman/status/2110105139248037986",
+      "who": "MatthewBerman",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - SpaceX's Ship 40, the first Starship returned to its launch site, now stands in a Starbase Megabay for heatshield and Raptor data",
+      "notes": "https://x.com/elonmusk/status/2110127406258286757",
+      "url": "https://x.com/elonmusk/status/2110127406258286757",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Tesla will stream its Roadster event live this Thursday at 7:55pm CST; Musk's only comment was 'Timing is everything'",
+      "notes": "https://x.com/elonmusk/status/2110222071229989249",
+      "url": "https://x.com/elonmusk/status/2110222071229989249",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "tobi - Shopify put its shop CLI in the browser via WebMCP, letting agents search 1B+ products, check out and use single-use payment credentials",
+      "notes": "https://x.com/tobi/status/2110138457951539610",
+      "url": "https://x.com/tobi/status/2110138457951539610",
+      "who": "tobi",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Base launches Earn & Borrow, a stack for apps to offer stablecoin yield and loans against crypto",
+      "notes": "https://x.com/brian_armstrong/status/2110121697689116752",
+      "url": "https://x.com/brian_armstrong/status/2110121697689116752",
+      "who": "brian_armstrong",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Tue 13 Oct\n• tobi - Meta's new Muse Wonder frontier model is 'very very good' and handled tasks other top models failed, says Shopify's CEO\n• saranormous - Microsoft says its Maia 300 chip gives 40% more tokens per watt and will scale to multi-gigawatt deployments next year\n• chamath - 8090 Labs test: same model scored 24% or 59% on 113 coding tasks depending on harness; Claude Fable 5.1 did better in Codex\n• X - New 'X Subscription' bundles Grok, Cursor and X Premium; X says it costs the same as Premium or less\n• elonmusk - Musk spent the night promoting Grok Bot, including a new feature that imports memory from ChatGPT or Claude"
+  "message": "Daily Brief Wed 14 Oct\n• demishassabis - Gemini 4 Argon is rolling out to Google Ultra and Pro subscribers in the Gemini app and Search, and to Ultra in Antigravity\n• elonmusk - Grok Bot 0.70.2 gives each bot its own email address, adds Figma/Notion/Canva cards and an approval step before irreversible actions\n• MatthewBerman - OpenAI says an employee hid a recording device in its office; its models helped trace it, and the FBI made an arrest\n• elonmusk - SpaceX's Ship 40, the first Starship returned to its launch site, now stands in a Starbase Megabay for heatshield and Raptor data\n• elonmusk - Tesla will stream its Roadster event live this Thursday at 7:55pm CST; Musk's only comment was 'Timing is everything'"
 }
