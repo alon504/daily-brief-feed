@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:41:26+03:00",
-  "overview": "Google launched Gemini 4 Argon, and xAI pushed a large Grok Bot update while Elon Musk amplified many user examples. OpenAI disclosed a hidden recording device planted in its office that led to an FBI arrest. SpaceX's first returned Starship is back at Starbase, and Tesla has scheduled a Roadster event for Thursday.",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:24:34+03:00",
+  "overview": "Musk's feed was dominated by xAI/SpaceX AI news: Grok Voice 3.0 launched at #1 on a speech-to-speech benchmark, and Amazon started blocking Grok Bot shopping agents. Tesla's Roadster event streams Thursday. Elsewhere, Chamath urged Anthropic to IPO fast as its implied valuation slid, and Google's Gemini 4 Argon topped a Scale AI benchmark.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "demishassabis - Gemini 4 Argon is rolling out to Google Ultra and Pro subscribers in the Gemini app and Search, and to Ultra in Antigravity",
-      "notes": "https://x.com/demishassabis/status/2110052931110318464",
-      "url": "https://x.com/demishassabis/status/2110052931110318464",
+      "title": "Elon Musk - Grok Voice 3.0 debuts #1 on Artificial Analysis speech-to-speech index (86.9), priced at $0.08 per minute via API",
+      "notes": "https://x.com/elonmusk/status/2110483960312799675",
+      "url": "https://x.com/elonmusk/status/2110483960312799675",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Tesla Roadster event streams live this Thursday at 7:55pm CST; Musk calls it a candidate for greatest product demo ever",
+      "notes": "https://x.com/elonmusk/status/2110549986643517600",
+      "url": "https://x.com/elonmusk/status/2110549986643517600",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Chamath Palihapitiya - Anthropic pre-IPO perpetual fell below $2T on Liquid, down 10%+ in a month; he says list at ~$1T and raise $200B",
+      "notes": "https://x.com/chamath/status/2110446110540288152",
+      "url": "https://x.com/chamath/status/2110446110540288152",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Amazon now blocks Grok Bot agents as 'unauthorized AI agents'; Musk tells users to shop elsewhere",
+      "notes": "https://x.com/elonmusk/status/2110602585572860213",
+      "url": "https://x.com/elonmusk/status/2110602585572860213",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Demis Hassabis - Shared Scale AI's congrats to Gemini 4 Argon for taking the top spot on its Humanity's Sixth Sense benchmark",
+      "notes": "https://x.com/demishassabis/status/2110509864657313963",
+      "url": "https://x.com/demishassabis/status/2110509864657313963",
       "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Grok Bot 0.70.2 gives each bot its own email address, adds Figma/Notion/Canva cards and an approval step before irreversible actions",
-      "notes": "https://x.com/elonmusk/status/2110127808718741920",
-      "url": "https://x.com/elonmusk/status/2110127808718741920",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "MatthewBerman - OpenAI says an employee hid a recording device in its office; its models helped trace it, and the FBI made an arrest",
-      "notes": "https://x.com/MatthewBerman/status/2110105139248037986",
-      "url": "https://x.com/MatthewBerman/status/2110105139248037986",
-      "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - SpaceX's Ship 40, the first Starship returned to its launch site, now stands in a Starbase Megabay for heatshield and Raptor data",
-      "notes": "https://x.com/elonmusk/status/2110127406258286757",
-      "url": "https://x.com/elonmusk/status/2110127406258286757",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Tesla will stream its Roadster event live this Thursday at 7:55pm CST; Musk's only comment was 'Timing is everything'",
-      "notes": "https://x.com/elonmusk/status/2110222071229989249",
-      "url": "https://x.com/elonmusk/status/2110222071229989249",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "tobi - Shopify put its shop CLI in the browser via WebMCP, letting agents search 1B+ products, check out and use single-use payment credentials",
-      "notes": "https://x.com/tobi/status/2110138457951539610",
-      "url": "https://x.com/tobi/status/2110138457951539610",
-      "who": "tobi",
-      "platform": "X"
-    },
-    {
-      "title": "brian_armstrong - Base launches Earn & Borrow, a stack for apps to offer stablecoin yield and loans against crypto",
-      "notes": "https://x.com/brian_armstrong/status/2110121697689116752",
-      "url": "https://x.com/brian_armstrong/status/2110121697689116752",
+      "title": "Brian Armstrong - Coinbase MCP now supports agentic trading of US perps, a day after users requested it through its feedback API",
+      "notes": "https://x.com/brian_armstrong/status/2110562521786507570",
+      "url": "https://x.com/brian_armstrong/status/2110562521786507570",
       "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Polymarket reports gasoline-only cars fell below 50% of global new vehicle sales for the first time",
+      "notes": "https://x.com/elonmusk/status/2110511855731159239",
+      "url": "https://x.com/elonmusk/status/2110511855731159239",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Reposted Raymond James reiterating Strong Buy on $SPCX with a Street-high $800 price target, citing an FAA filing",
+      "notes": "https://x.com/elonmusk/status/2110566590748258731",
+      "url": "https://x.com/elonmusk/status/2110566590748258731",
+      "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 14 Oct\n• demishassabis - Gemini 4 Argon is rolling out to Google Ultra and Pro subscribers in the Gemini app and Search, and to Ultra in Antigravity\n• elonmusk - Grok Bot 0.70.2 gives each bot its own email address, adds Figma/Notion/Canva cards and an approval step before irreversible actions\n• MatthewBerman - OpenAI says an employee hid a recording device in its office; its models helped trace it, and the FBI made an arrest\n• elonmusk - SpaceX's Ship 40, the first Starship returned to its launch site, now stands in a Starbase Megabay for heatshield and Raptor data\n• elonmusk - Tesla will stream its Roadster event live this Thursday at 7:55pm CST; Musk's only comment was 'Timing is everything'"
+  "message": "Daily Brief Thu 15 Oct\n• Elon Musk - Grok Voice 3.0 debuts #1 on Artificial Analysis speech-to-speech index (86.9), priced at $0.08 per minute via API\n• Elon Musk - Tesla Roadster event streams live this Thursday at 7:55pm CST; Musk calls it a candidate for greatest product demo ever\n• Chamath Palihapitiya - Anthropic pre-IPO perpetual fell below $2T on Liquid, down 10%+ in a month; he says list at ~$1T and raise $200B\n• Elon Musk - Amazon now blocks Grok Bot agents as 'unauthorized AI agents'; Musk tells users to shop elsewhere\n• Demis Hassabis - Shared Scale AI's congrats to Gemini 4 Argon for taking the top spot on its Humanity's Sixth Sense benchmark"
 }
