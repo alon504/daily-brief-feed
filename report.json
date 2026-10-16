@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T09:24:34+03:00",
-  "overview": "Musk's feed was dominated by xAI/SpaceX AI news: Grok Voice 3.0 launched at #1 on a speech-to-speech benchmark, and Amazon started blocking Grok Bot shopping agents. Tesla's Roadster event streams Thursday. Elsewhere, Chamath urged Anthropic to IPO fast as its implied valuation slid, and Google's Gemini 4 Argon topped a Scale AI benchmark.",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T05:17:12+03:00",
+  "overview": "A heavy AI and Tesla day. Tesla's Roadster event drew a stunt-filled demo that Musk billed as a 'flying car'. Google pushed Gemini 4 Argon and a quantum error-correction result, and Meta released open weights for Muse Spark Open. On the money side, Chamath questions how good AI revenue really is, Ramp raised at a $60B valuation, and burrytracker says the market is back in 'Fear'.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "Elon Musk - Grok Voice 3.0 debuts #1 on Artificial Analysis speech-to-speech index (86.9), priced at $0.08 per minute via API",
-      "notes": "https://x.com/elonmusk/status/2110483960312799675",
-      "url": "https://x.com/elonmusk/status/2110483960312799675",
+      "title": "elonmusk - Tesla Roadster unveil: Musk says 'the future does have flying cars'; Tesla lists active aero, suction system and cold-gas thrusters",
+      "notes": "https://x.com/elonmusk/status/2110913107094606330",
+      "url": "https://x.com/elonmusk/status/2110913107094606330",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Tesla Roadster event streams live this Thursday at 7:55pm CST; Musk calls it a candidate for greatest product demo ever",
-      "notes": "https://x.com/elonmusk/status/2110549986643517600",
-      "url": "https://x.com/elonmusk/status/2110549986643517600",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Chamath Palihapitiya - Anthropic pre-IPO perpetual fell below $2T on Liquid, down 10%+ in a month; he says list at ~$1T and raise $200B",
-      "notes": "https://x.com/chamath/status/2110446110540288152",
-      "url": "https://x.com/chamath/status/2110446110540288152",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - Amazon now blocks Grok Bot agents as 'unauthorized AI agents'; Musk tells users to shop elsewhere",
-      "notes": "https://x.com/elonmusk/status/2110602585572860213",
-      "url": "https://x.com/elonmusk/status/2110602585572860213",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Demis Hassabis - Shared Scale AI's congrats to Gemini 4 Argon for taking the top spot on its Humanity's Sixth Sense benchmark",
-      "notes": "https://x.com/demishassabis/status/2110509864657313963",
-      "url": "https://x.com/demishassabis/status/2110509864657313963",
+      "title": "demishassabis - Gemini 4 Argon posts 97.5% on ARC-AGI-3 at $4.8K, per ARC Prize; now rolling out to Google AI Pro users in Antigravity",
+      "notes": "https://x.com/demishassabis/status/2110877072990052822",
+      "url": "https://x.com/demishassabis/status/2110877072990052822",
       "who": "demishassabis",
       "platform": "X"
     },
     {
-      "title": "Brian Armstrong - Coinbase MCP now supports agentic trading of US perps, a day after users requested it through its feedback API",
-      "notes": "https://x.com/brian_armstrong/status/2110562521786507570",
-      "url": "https://x.com/brian_armstrong/status/2110562521786507570",
-      "who": "brian_armstrong",
+      "title": "finkd - Meta releases weights for Muse Spark Open, billed as the most capable US open-weight model, and says it runs well on new Mac Studios",
+      "notes": "https://x.com/finkd/status/2110778025629347999",
+      "url": "https://x.com/finkd/status/2110778025629347999",
+      "who": "finkd",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Polymarket reports gasoline-only cars fell below 50% of global new vehicle sales for the first time",
-      "notes": "https://x.com/elonmusk/status/2110511855731159239",
-      "url": "https://x.com/elonmusk/status/2110511855731159239",
+      "title": "sundarpichai - Google Quantum AI demonstrates 'magic state cultivation' on Willow hardware: 40x error reduction, 99.99% logical fidelity",
+      "notes": "https://x.com/sundarpichai/status/2110804295352488143",
+      "url": "https://x.com/sundarpichai/status/2110804295352488143",
+      "who": "sundarpichai",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Musk says the SpaceX–Nvidia 'Star Mind' space server will reach volume production next year, and 10GW of compute could be 'maybe more'",
+      "notes": "https://x.com/elonmusk/status/2110789964430786745",
+      "url": "https://x.com/elonmusk/status/2110789964430786745",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Reposted Raymond James reiterating Strong Buy on $SPCX with a Street-high $800 price target, citing an FAA filing",
-      "notes": "https://x.com/elonmusk/status/2110566590748258731",
-      "url": "https://x.com/elonmusk/status/2110566590748258731",
-      "who": "elonmusk",
+      "title": "saranormous - Greg Brockman on No Priors: OpenAI pulled 25% of its production engineers onto security only, with its top model hunting bugs",
+      "notes": "https://x.com/saranormous/status/2110885913291375093",
+      "url": "https://x.com/saranormous/status/2110885913291375093",
+      "who": "saranormous",
+      "platform": "X"
+    },
+    {
+      "title": "chamath - Chamath suspects 70-80% of AI company revenue comes from other VC-funded AI companies, as AI takes ~83% of US venture funding",
+      "notes": "https://x.com/chamath/status/2110865418416177457",
+      "url": "https://x.com/chamath/status/2110865418416177457",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "JTLonsdale - Ramp raises $1.85B at a $60B valuation, with revenue reportedly growing over 100% year on year at multi-billion scale",
+      "notes": "https://x.com/JTLonsdale/status/2110785286510887240",
+      "url": "https://x.com/JTLonsdale/status/2110785286510887240",
+      "who": "JTLonsdale",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 15 Oct\n• Elon Musk - Grok Voice 3.0 debuts #1 on Artificial Analysis speech-to-speech index (86.9), priced at $0.08 per minute via API\n• Elon Musk - Tesla Roadster event streams live this Thursday at 7:55pm CST; Musk calls it a candidate for greatest product demo ever\n• Chamath Palihapitiya - Anthropic pre-IPO perpetual fell below $2T on Liquid, down 10%+ in a month; he says list at ~$1T and raise $200B\n• Elon Musk - Amazon now blocks Grok Bot agents as 'unauthorized AI agents'; Musk tells users to shop elsewhere\n• Demis Hassabis - Shared Scale AI's congrats to Gemini 4 Argon for taking the top spot on its Humanity's Sixth Sense benchmark"
+  "message": "Daily Brief Fri 16 Oct\n• elonmusk - Tesla Roadster unveil: Musk says 'the future does have flying cars'; Tesla lists active aero, suction system and cold-gas thrusters\n• demishassabis - Gemini 4 Argon posts 97.5% on ARC-AGI-3 at $4.8K, per ARC Prize; now rolling out to Google AI Pro users in Antigravity\n• finkd - Meta releases weights for Muse Spark Open, billed as the most capable US open-weight model, and says it runs well on new Mac Studios\n• sundarpichai - Google Quantum AI demonstrates 'magic state cultivation' on Willow hardware: 40x error reduction, 99.99% logical fidelity\n• elonmusk - Musk says the SpaceX–Nvidia 'Star Mind' space server will reach volume production next year, and 10GW of compute could be 'maybe more'"
 }
