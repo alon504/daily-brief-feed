@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T05:17:12+03:00",
-  "overview": "A heavy AI and Tesla day. Tesla's Roadster event drew a stunt-filled demo that Musk billed as a 'flying car'. Google pushed Gemini 4 Argon and a quantum error-correction result, and Meta released open weights for Muse Spark Open. On the money side, Chamath questions how good AI revenue really is, Ramp raised at a $60B valuation, and burrytracker says the market is back in 'Fear'.",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T00:20:44+03:00",
+  "overview": "Tesla's new Roadster unveil dominated the feed, with Musk claiming it will beat F1 lap times. On the AI side, Google's Gemini 4 Argon launched with a claimed new benchmark record, and Accenture reportedly capped staff Claude spending at $29 a month. Markets look nervous: Bank of America is reported to warn of an AI boom-and-bust pattern, and the Fear & Greed index hit 'Extreme Fear'.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - Tesla Roadster unveil: Musk says 'the future does have flying cars'; Tesla lists active aero, suction system and cold-gas thrusters",
+      "title": "Elon Musk - Tesla unveiled the new Roadster as a 'flying car'; Tesla claims 0-60 mph in 0.81 seconds",
       "notes": "https://x.com/elonmusk/status/2110913107094606330",
       "url": "https://x.com/elonmusk/status/2110913107094606330",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "demishassabis - Gemini 4 Argon posts 97.5% on ARC-AGI-3 at $4.8K, per ARC Prize; now rolling out to Google AI Pro users in Antigravity",
-      "notes": "https://x.com/demishassabis/status/2110877072990052822",
-      "url": "https://x.com/demishassabis/status/2110877072990052822",
-      "who": "demishassabis",
-      "platform": "X"
-    },
-    {
-      "title": "finkd - Meta releases weights for Muse Spark Open, billed as the most capable US open-weight model, and says it runs well on new Mac Studios",
-      "notes": "https://x.com/finkd/status/2110778025629347999",
-      "url": "https://x.com/finkd/status/2110778025629347999",
-      "who": "finkd",
-      "platform": "X"
-    },
-    {
-      "title": "sundarpichai - Google Quantum AI demonstrates 'magic state cultivation' on Willow hardware: 40x error reduction, 99.99% logical fidelity",
-      "notes": "https://x.com/sundarpichai/status/2110804295352488143",
-      "url": "https://x.com/sundarpichai/status/2110804295352488143",
+      "title": "Sundar Pichai - Shared Perplexity's claim that Gemini 4 Argon set a new record on the WANDR research benchmark and is available now",
+      "notes": "https://x.com/sundarpichai/status/2111167465317392758",
+      "url": "https://x.com/sundarpichai/status/2111167465317392758",
       "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Musk says the SpaceX–Nvidia 'Star Mind' space server will reach volume production next year, and 10GW of compute could be 'maybe more'",
-      "notes": "https://x.com/elonmusk/status/2110789964430786745",
-      "url": "https://x.com/elonmusk/status/2110789964430786745",
+      "title": "Brian Armstrong - Called it 'NGMI' that Accenture reportedly caps staff Claude use at $29/month, when some spent up to $1,000",
+      "notes": "https://x.com/brian_armstrong/status/2111204883148034433",
+      "url": "https://x.com/brian_armstrong/status/2111204883148034433",
+      "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Bank of America reportedly warns the AI boom looks like boom-and-bust: surging spending, more competition, falling prices",
+      "notes": "https://x.com/burrytracker/status/2111159538120564972",
+      "url": "https://x.com/burrytracker/status/2111159538120564972",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "Brian Armstrong - Says Coinbase's new matching engine gives 60x faster median order response and 480x faster tail latency",
+      "notes": "https://x.com/brian_armstrong/status/2111143831957651543",
+      "url": "https://x.com/brian_armstrong/status/2111143831957651543",
+      "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "Mustafa Suleyman - Says MAI-Transcribe-2 is the most accurate and most popular transcription model on OpenRouter",
+      "notes": "https://x.com/mustafasuleyman/status/2111116657964036324",
+      "url": "https://x.com/mustafasuleyman/status/2111116657964036324",
+      "who": "mustafasuleyman",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - X says it will bar advertisers whose ads are 'ugly, shrill, strident' or overstate product claims",
+      "notes": "https://x.com/elonmusk/status/2111131160348688395",
+      "url": "https://x.com/elonmusk/status/2111131160348688395",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "saranormous - Greg Brockman on No Priors: OpenAI pulled 25% of its production engineers onto security only, with its top model hunting bugs",
-      "notes": "https://x.com/saranormous/status/2110885913291375093",
-      "url": "https://x.com/saranormous/status/2110885913291375093",
-      "who": "saranormous",
-      "platform": "X"
-    },
-    {
-      "title": "chamath - Chamath suspects 70-80% of AI company revenue comes from other VC-funded AI companies, as AI takes ~83% of US venture funding",
-      "notes": "https://x.com/chamath/status/2110865418416177457",
-      "url": "https://x.com/chamath/status/2110865418416177457",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "JTLonsdale - Ramp raises $1.85B at a $60B valuation, with revenue reportedly growing over 100% year on year at multi-billion scale",
-      "notes": "https://x.com/JTLonsdale/status/2110785286510887240",
-      "url": "https://x.com/JTLonsdale/status/2110785286510887240",
-      "who": "JTLonsdale",
+      "title": "Elon Musk - Shared news that Southwest plans to put Starlink Wi-Fi on its entire fleet by fall 2027, a first for a major US airline",
+      "notes": "https://x.com/elonmusk/status/2111135753732301178",
+      "url": "https://x.com/elonmusk/status/2111135753732301178",
+      "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Fri 16 Oct\n• elonmusk - Tesla Roadster unveil: Musk says 'the future does have flying cars'; Tesla lists active aero, suction system and cold-gas thrusters\n• demishassabis - Gemini 4 Argon posts 97.5% on ARC-AGI-3 at $4.8K, per ARC Prize; now rolling out to Google AI Pro users in Antigravity\n• finkd - Meta releases weights for Muse Spark Open, billed as the most capable US open-weight model, and says it runs well on new Mac Studios\n• sundarpichai - Google Quantum AI demonstrates 'magic state cultivation' on Willow hardware: 40x error reduction, 99.99% logical fidelity\n• elonmusk - Musk says the SpaceX–Nvidia 'Star Mind' space server will reach volume production next year, and 10GW of compute could be 'maybe more'"
+  "message": "Daily Brief Sat 17 Oct\n• Elon Musk - Tesla unveiled the new Roadster as a 'flying car'; Tesla claims 0-60 mph in 0.81 seconds\n• Sundar Pichai - Shared Perplexity's claim that Gemini 4 Argon set a new record on the WANDR research benchmark and is available now\n• Brian Armstrong - Called it 'NGMI' that Accenture reportedly caps staff Claude use at $29/month, when some spent up to $1,000\n• burrytracker - Bank of America reportedly warns the AI boom looks like boom-and-bust: surging spending, more competition, falling prices\n• Brian Armstrong - Says Coinbase's new matching engine gives 60x faster median order response and 480x faster tail latency"
 }
