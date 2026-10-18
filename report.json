@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T00:20:44+03:00",
-  "overview": "Tesla's new Roadster unveil dominated the feed, with Musk claiming it will beat F1 lap times. On the AI side, Google's Gemini 4 Argon launched with a claimed new benchmark record, and Accenture reportedly capped staff Claude spending at $29 a month. Markets look nervous: Bank of America is reported to warn of an AI boom-and-bust pattern, and the Fear & Greed index hit 'Extreme Fear'.",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T04:24:09+03:00",
+  "overview": "The biggest story in the feed was a night of riots and looting across France, plus Milan. Bill Ackman reposted dozens of posts about it. Practical items were few: an OpenCode security breach linked to AI provider accounts, two Coinbase product changes, and Elon Musk promoting Grok Bot as an agent that can pay for itself. Most of the rest is political commentary, which you can skip.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "Elon Musk - Tesla unveiled the new Roadster as a 'flying car'; Tesla claims 0-60 mph in 0.81 seconds",
-      "notes": "https://x.com/elonmusk/status/2110913107094606330",
-      "url": "https://x.com/elonmusk/status/2110913107094606330",
-      "who": "elonmusk",
+      "title": "saranormous - OpenCode reports a breach from a 'distillation attack' hitting 1.4% of Console users with external AI providers linked",
+      "notes": "https://x.com/saranormous/status/2111572880450601016",
+      "url": "https://x.com/saranormous/status/2111572880450601016",
+      "who": "saranormous",
       "platform": "X"
     },
     {
-      "title": "Sundar Pichai - Shared Perplexity's claim that Gemini 4 Argon set a new record on the WANDR research benchmark and is available now",
-      "notes": "https://x.com/sundarpichai/status/2111167465317392758",
-      "url": "https://x.com/sundarpichai/status/2111167465317392758",
-      "who": "sundarpichai",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - Called it 'NGMI' that Accenture reportedly caps staff Claude use at $29/month, when some spent up to $1,000",
-      "notes": "https://x.com/brian_armstrong/status/2111204883148034433",
-      "url": "https://x.com/brian_armstrong/status/2111204883148034433",
+      "title": "brian_armstrong - Coinbase says it is building 'the most AI-enabled financial account' to help users manage money and decide",
+      "notes": "https://x.com/brian_armstrong/status/2111583268063871414",
+      "url": "https://x.com/brian_armstrong/status/2111583268063871414",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "burrytracker - Bank of America reportedly warns the AI boom looks like boom-and-bust: surging spending, more competition, falling prices",
-      "notes": "https://x.com/burrytracker/status/2111159538120564972",
-      "url": "https://x.com/burrytracker/status/2111159538120564972",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - Says Coinbase's new matching engine gives 60x faster median order response and 480x faster tail latency",
-      "notes": "https://x.com/brian_armstrong/status/2111143831957651543",
-      "url": "https://x.com/brian_armstrong/status/2111143831957651543",
+      "title": "brian_armstrong - Reposts user pitdesi: Coinbase dropped a default that pushed customers toward a high-fee payout option",
+      "notes": "https://x.com/brian_armstrong/status/2111627178672828441",
+      "url": "https://x.com/brian_armstrong/status/2111627178672828441",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "Mustafa Suleyman - Says MAI-Transcribe-2 is the most accurate and most popular transcription model on OpenRouter",
-      "notes": "https://x.com/mustafasuleyman/status/2111116657964036324",
-      "url": "https://x.com/mustafasuleyman/status/2111116657964036324",
-      "who": "mustafasuleyman",
+      "title": "BillAckman - Reposts show riots and looting on Oct 17 in Paris, Bordeaux, Marseille, Lille and Limoges, plus Milan",
+      "notes": "https://x.com/BillAckman/status/2111594387809399210",
+      "url": "https://x.com/BillAckman/status/2111594387809399210",
+      "who": "BillAckman",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - X says it will bar advertisers whose ads are 'ugly, shrill, strident' or overstate product claims",
-      "notes": "https://x.com/elonmusk/status/2111131160348688395",
-      "url": "https://x.com/elonmusk/status/2111131160348688395",
+      "title": "elonmusk - Promotes Grok Bot as able to 'pay for itself' and reposts a user saying it chased a lost DHL delivery for her",
+      "notes": "https://x.com/elonmusk/status/2111612315204272233",
+      "url": "https://x.com/elonmusk/status/2111612315204272233",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Shared news that Southwest plans to put Starlink Wi-Fi on its entire fleet by fall 2027, a first for a major US airline",
-      "notes": "https://x.com/elonmusk/status/2111135753732301178",
-      "url": "https://x.com/elonmusk/status/2111135753732301178",
+      "title": "BillAckman - Open letter asks MIT to restore David Sabatini's tenure after a jury awarded him $6M in a defamation case",
+      "notes": "https://x.com/BillAckman/status/2111586471945568388",
+      "url": "https://x.com/BillAckman/status/2111586471945568388",
+      "who": "BillAckman",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Endorses Tim Sweeney's view that AI will make once-unprofitable games viable, a 'new golden age of gaming'",
+      "notes": "https://x.com/elonmusk/status/2111571645131534641",
+      "url": "https://x.com/elonmusk/status/2111571645131534641",
       "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sat 17 Oct\n• Elon Musk - Tesla unveiled the new Roadster as a 'flying car'; Tesla claims 0-60 mph in 0.81 seconds\n• Sundar Pichai - Shared Perplexity's claim that Gemini 4 Argon set a new record on the WANDR research benchmark and is available now\n• Brian Armstrong - Called it 'NGMI' that Accenture reportedly caps staff Claude use at $29/month, when some spent up to $1,000\n• burrytracker - Bank of America reportedly warns the AI boom looks like boom-and-bust: surging spending, more competition, falling prices\n• Brian Armstrong - Says Coinbase's new matching engine gives 60x faster median order response and 480x faster tail latency"
+  "message": "Daily Brief Sun 18 Oct\n• saranormous - OpenCode reports a breach from a 'distillation attack' hitting 1.4% of Console users with external AI providers linked\n• brian_armstrong - Coinbase says it is building 'the most AI-enabled financial account' to help users manage money and decide\n• brian_armstrong - Reposts user pitdesi: Coinbase dropped a default that pushed customers toward a high-fee payout option\n• BillAckman - Reposts show riots and looting on Oct 17 in Paris, Bordeaux, Marseille, Lille and Limoges, plus Milan\n• elonmusk - Promotes Grok Bot as able to 'pay for itself' and reposts a user saying it chased a lost DHL delivery for her"
 }
