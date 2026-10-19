@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T04:24:09+03:00",
-  "overview": "The biggest story in the feed was a night of riots and looting across France, plus Milan. Bill Ackman reposted dozens of posts about it. Practical items were few: an OpenCode security breach linked to AI provider accounts, two Coinbase product changes, and Elon Musk promoting Grok Bot as an agent that can pay for itself. Most of the rest is political commentary, which you can skip.",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T04:24:08+03:00",
+  "overview": "The big AI story is Anthropic putting about 5% of its shares into a new Public Benefit Fund, which could grow to roughly 20% of all shares counting earlier pledges; Musk and Sacks both pushed back. Elsewhere, Musk heavily promoted Tesla's new Roadster and Grok Bot, and Sacks argued that AI safety filters hurt cyber defenders. A large share of the feed, mostly Bill Ackman reposts, was politics and footage of European riots, which is skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "saranormous - OpenCode reports a breach from a 'distillation attack' hitting 1.4% of Console users with external AI providers linked",
-      "notes": "https://x.com/saranormous/status/2111572880450601016",
-      "url": "https://x.com/saranormous/status/2111572880450601016",
-      "who": "saranormous",
+      "title": "AnthropicAI - New Public Benefit Fund starts with 5% of shares and can grow 2% per 50% valuation rise; ~20% of equity now pledged",
+      "notes": "https://x.com/AnthropicAI/status/2111881963657412903",
+      "url": "https://x.com/AnthropicAI/status/2111881963657412903",
+      "who": "AnthropicAI",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Coinbase says it is building 'the most AI-enabled financial account' to help users manage money and decide",
-      "notes": "https://x.com/brian_armstrong/status/2111583268063871414",
-      "url": "https://x.com/brian_armstrong/status/2111583268063871414",
-      "who": "brian_armstrong",
+      "title": "DavidSacks - OpenCode, under attack, found frontier models refused to analyze exploits; Sacks says Chinese models are 6-9 months behind",
+      "notes": "https://x.com/DavidSacks/status/2111867605388493282",
+      "url": "https://x.com/DavidSacks/status/2111867605388493282",
+      "who": "DavidSacks",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Reposts user pitdesi: Coinbase dropped a default that pushed customers toward a high-fee payout option",
-      "notes": "https://x.com/brian_armstrong/status/2111627178672828441",
-      "url": "https://x.com/brian_armstrong/status/2111627178672828441",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "BillAckman - Reposts show riots and looting on Oct 17 in Paris, Bordeaux, Marseille, Lille and Limoges, plus Milan",
-      "notes": "https://x.com/BillAckman/status/2111594387809399210",
-      "url": "https://x.com/BillAckman/status/2111594387809399210",
-      "who": "BillAckman",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Promotes Grok Bot as able to 'pay for itself' and reposts a user saying it chased a lost DHL delivery for her",
-      "notes": "https://x.com/elonmusk/status/2111612315204272233",
-      "url": "https://x.com/elonmusk/status/2111612315204272233",
+      "title": "elonmusk - Musk says new Tesla Roadster out-accelerates a carrier-launched fighter jet, citing claimed >80 kN cold-gas thrust",
+      "notes": "https://x.com/elonmusk/status/2111838943016833235",
+      "url": "https://x.com/elonmusk/status/2111838943016833235",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "BillAckman - Open letter asks MIT to restore David Sabatini's tenure after a jury awarded him $6M in a defamation case",
-      "notes": "https://x.com/BillAckman/status/2111586471945568388",
-      "url": "https://x.com/BillAckman/status/2111586471945568388",
-      "who": "BillAckman",
+      "title": "brian_armstrong - Coinbase CEO cites TSLA perps trading after the Roadster event to argue for 24/7 tokenized stock markets",
+      "notes": "https://x.com/brian_armstrong/status/2111903467954438387",
+      "url": "https://x.com/brian_armstrong/status/2111903467954438387",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Endorses Tim Sweeney's view that AI will make once-unprofitable games viable, a 'new golden age of gaming'",
-      "notes": "https://x.com/elonmusk/status/2111571645131534641",
-      "url": "https://x.com/elonmusk/status/2111571645131534641",
+      "title": "elonmusk - Musk pushes Grok Bot, sharing user posts on it phoning restaurants, ordering products by text and auditing bank accounts",
+      "notes": "https://x.com/elonmusk/status/2111867437238853726",
+      "url": "https://x.com/elonmusk/status/2111867437238853726",
       "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "chamath - NY restaurant count fell ~2,000 year over year in Q1 2026, the worst drop in at least 36 years, per Kobeissi Letter",
+      "notes": "https://x.com/chamath/status/2111848266971439192",
+      "url": "https://x.com/chamath/status/2111848266971439192",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Musk says X is at all-time high usage, citing Similarweb's 13.43B visits in Q3 2026, up 6% on the quarter",
+      "notes": "https://x.com/elonmusk/status/2111842588126818619",
+      "url": "https://x.com/elonmusk/status/2111842588126818619",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "steipete - Post on Amazon staff tuning out suspected AI-written 6-page memos, now tagged 'AI;DR' (AI, didn't read)",
+      "notes": "https://x.com/steipete/status/2111918049116987476",
+      "url": "https://x.com/steipete/status/2111918049116987476",
+      "who": "steipete",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sun 18 Oct\n• saranormous - OpenCode reports a breach from a 'distillation attack' hitting 1.4% of Console users with external AI providers linked\n• brian_armstrong - Coinbase says it is building 'the most AI-enabled financial account' to help users manage money and decide\n• brian_armstrong - Reposts user pitdesi: Coinbase dropped a default that pushed customers toward a high-fee payout option\n• BillAckman - Reposts show riots and looting on Oct 17 in Paris, Bordeaux, Marseille, Lille and Limoges, plus Milan\n• elonmusk - Promotes Grok Bot as able to 'pay for itself' and reposts a user saying it chased a lost DHL delivery for her"
+  "message": "Daily Brief Mon 19 Oct\n• AnthropicAI - New Public Benefit Fund starts with 5% of shares and can grow 2% per 50% valuation rise; ~20% of equity now pledged\n• DavidSacks - OpenCode, under attack, found frontier models refused to analyze exploits; Sacks says Chinese models are 6-9 months behind\n• elonmusk - Musk says new Tesla Roadster out-accelerates a carrier-launched fighter jet, citing claimed >80 kN cold-gas thrust\n• brian_armstrong - Coinbase CEO cites TSLA perps trading after the Roadster event to argue for 24/7 tokenized stock markets\n• elonmusk - Musk pushes Grok Bot, sharing user posts on it phoning restaurants, ordering products by text and auditing bank accounts"
 }
