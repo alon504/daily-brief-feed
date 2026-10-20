@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T04:24:08+03:00",
-  "overview": "The big AI story is Anthropic putting about 5% of its shares into a new Public Benefit Fund, which could grow to roughly 20% of all shares counting earlier pledges; Musk and Sacks both pushed back. Elsewhere, Musk heavily promoted Tesla's new Roadster and Grok Bot, and Sacks argued that AI safety filters hurt cyber defenders. A large share of the feed, mostly Bill Ackman reposts, was politics and footage of European riots, which is skipped here.",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T04:24:14+03:00",
+  "overview": "A tech-and-markets-heavy day: SpaceX posts Q3 2026 results on Oct 20, Tesla is pushing shareholder votes ahead of its Dec 3 meeting, and Coinbase now lets AI agents trade index and crypto perps. Agent products dominated the feed, including Wabi 2.0's group-chat agent and Musk's heavy promotion of Grok Bot. Political posts, much of the Ackman and horowitz_b feeds, were skipped.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "AnthropicAI - New Public Benefit Fund starts with 5% of shares and can grow 2% per 50% valuation rise; ~20% of equity now pledged",
-      "notes": "https://x.com/AnthropicAI/status/2111881963657412903",
-      "url": "https://x.com/AnthropicAI/status/2111881963657412903",
-      "who": "AnthropicAI",
-      "platform": "X"
-    },
-    {
-      "title": "DavidSacks - OpenCode, under attack, found frontier models refused to analyze exploits; Sacks says Chinese models are 6-9 months behind",
-      "notes": "https://x.com/DavidSacks/status/2111867605388493282",
-      "url": "https://x.com/DavidSacks/status/2111867605388493282",
-      "who": "DavidSacks",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Musk says new Tesla Roadster out-accelerates a carrier-launched fighter jet, citing claimed >80 kN cold-gas thrust",
-      "notes": "https://x.com/elonmusk/status/2111838943016833235",
-      "url": "https://x.com/elonmusk/status/2111838943016833235",
+      "title": "elonmusk - SpaceX will post Q3 2026 financial and operational results on Oct 20, with a live audio-only webcast at 3:30",
+      "notes": "https://x.com/elonmusk/status/2112230439515779249",
+      "url": "https://x.com/elonmusk/status/2112230439515779249",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Coinbase CEO cites TSLA perps trading after the Roadster event to argue for 24/7 tokenized stock markets",
-      "notes": "https://x.com/brian_armstrong/status/2111903467954438387",
-      "url": "https://x.com/brian_armstrong/status/2111903467954438387",
+      "title": "elonmusk - Tesla's annual meeting is set for Dec 3, and the company is asking shareholders to vote 'FOR' all three proposals",
+      "notes": "https://x.com/elonmusk/status/2112230308913242411",
+      "url": "https://x.com/elonmusk/status/2112230308913242411",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Coinbase for Agents now lets AI agents trade perps on S&P-style, top-100 tech and top-10 AI indices, plus 20+ tokens",
+      "notes": "https://x.com/brian_armstrong/status/2112197034866315327",
+      "url": "https://x.com/brian_armstrong/status/2112197034866315327",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Musk pushes Grok Bot, sharing user posts on it phoning restaurants, ordering products by text and auditing bank accounts",
-      "notes": "https://x.com/elonmusk/status/2111867437238853726",
-      "url": "https://x.com/elonmusk/status/2111867437238853726",
+      "title": "elonmusk - Musk says he will give one of his SpaceX shares to every kid in America next year, calling it 'the first of many'",
+      "notes": "https://x.com/elonmusk/status/2112089556615123114",
+      "url": "https://x.com/elonmusk/status/2112089556615123114",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "chamath - NY restaurant count fell ~2,000 year over year in Q1 2026, the worst drop in at least 36 years, per Kobeissi Letter",
-      "notes": "https://x.com/chamath/status/2111848266971439192",
-      "url": "https://x.com/chamath/status/2111848266971439192",
-      "who": "chamath",
+      "title": "tobi - Shopify's CEO says Wabi 2.0, a shared AI agent that a family or friend group uses in one thread, is 'extremely well crafted'",
+      "notes": "https://x.com/tobi/status/2112263294031385028",
+      "url": "https://x.com/tobi/status/2112263294031385028",
+      "who": "tobi",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Musk says X is at all-time high usage, citing Similarweb's 13.43B visits in Q3 2026, up 6% on the quarter",
-      "notes": "https://x.com/elonmusk/status/2111842588126818619",
-      "url": "https://x.com/elonmusk/status/2111842588126818619",
+      "title": "tobi - Lütke shares Anthropic's research on employment at Anthropic, alongside the same visualization built from inside Shopify",
+      "notes": "https://x.com/tobi/status/2111999594414665895",
+      "url": "https://x.com/tobi/status/2111999594414665895",
+      "who": "tobi",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Shares a Reuters-attributed warning that the $1.7T US auto loan market is headed for a crash, with 1 in 5 Americans behind on a loan",
+      "notes": "https://x.com/burrytracker/status/2112217153256763480",
+      "url": "https://x.com/burrytracker/status/2112217153256763480",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Musk pushes Grok Bot hard as an agent with its own computer, email and voice that can even make purchases with your card",
+      "notes": "https://x.com/elonmusk/status/2112219181500281276",
+      "url": "https://x.com/elonmusk/status/2112219181500281276",
       "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "steipete - Post on Amazon staff tuning out suspected AI-written 6-page memos, now tagged 'AI;DR' (AI, didn't read)",
-      "notes": "https://x.com/steipete/status/2111918049116987476",
-      "url": "https://x.com/steipete/status/2111918049116987476",
-      "who": "steipete",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Mon 19 Oct\n• AnthropicAI - New Public Benefit Fund starts with 5% of shares and can grow 2% per 50% valuation rise; ~20% of equity now pledged\n• DavidSacks - OpenCode, under attack, found frontier models refused to analyze exploits; Sacks says Chinese models are 6-9 months behind\n• elonmusk - Musk says new Tesla Roadster out-accelerates a carrier-launched fighter jet, citing claimed >80 kN cold-gas thrust\n• brian_armstrong - Coinbase CEO cites TSLA perps trading after the Roadster event to argue for 24/7 tokenized stock markets\n• elonmusk - Musk pushes Grok Bot, sharing user posts on it phoning restaurants, ordering products by text and auditing bank accounts"
+  "message": "Daily Brief Tue 20 Oct\n• elonmusk - SpaceX will post Q3 2026 financial and operational results on Oct 20, with a live audio-only webcast at 3:30\n• elonmusk - Tesla's annual meeting is set for Dec 3, and the company is asking shareholders to vote 'FOR' all three proposals\n• brian_armstrong - Coinbase for Agents now lets AI agents trade perps on S&P-style, top-100 tech and top-10 AI indices, plus 20+ tokens\n• elonmusk - Musk says he will give one of his SpaceX shares to every kid in America next year, calling it 'the first of many'\n• tobi - Shopify's CEO says Wabi 2.0, a shared AI agent that a family or friend group uses in one thread, is 'extremely well crafted'"
 }
