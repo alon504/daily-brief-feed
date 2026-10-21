@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T04:24:14+03:00",
-  "overview": "A tech-and-markets-heavy day: SpaceX posts Q3 2026 results on Oct 20, Tesla is pushing shareholder votes ahead of its Dec 3 meeting, and Coinbase now lets AI agents trade index and crypto perps. Agent products dominated the feed, including Wabi 2.0's group-chat agent and Musk's heavy promotion of Grok Bot. Political posts, much of the Ackman and horowitz_b feeds, were skipped.",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T04:24:13+03:00",
+  "overview": "SpaceX reported Q3 2026 results, and Musk said $1T in SpaceX revenue in 2028 is 'no longer impossible.' On the AI side, Aleksander Madry is returning to OpenAI to work on safety, OpenAI is acquiring Orchestra Bio, and steipete reported big speedups from agent-driven rewrites. Much of the remaining feed was election and politics content, which we skipped.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - SpaceX will post Q3 2026 financial and operational results on Oct 20, with a live audio-only webcast at 3:30",
-      "notes": "https://x.com/elonmusk/status/2112230439515779249",
-      "url": "https://x.com/elonmusk/status/2112230439515779249",
+      "title": "Elon Musk - After SpaceX's Q3 2026 earnings call, Musk says $1T in SpaceX revenue in 2028 is 'no longer impossible'",
+      "notes": "https://x.com/elonmusk/status/2112666467712073815",
+      "url": "https://x.com/elonmusk/status/2112666467712073815",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Tesla's annual meeting is set for Dec 3, and the company is asking shareholders to vote 'FOR' all three proposals",
-      "notes": "https://x.com/elonmusk/status/2112230308913242411",
-      "url": "https://x.com/elonmusk/status/2112230308913242411",
-      "who": "elonmusk",
+      "title": "Sam Altman - Aleksander Madry returns to OpenAI to work on safety and security challenges as AI approaches superintelligence",
+      "notes": "https://x.com/sama/status/2112652656602923366",
+      "url": "https://x.com/sama/status/2112652656602923366",
+      "who": "sama",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Coinbase for Agents now lets AI agents trade perps on S&P-style, top-100 tech and top-10 AI indices, plus 20+ tokens",
-      "notes": "https://x.com/brian_armstrong/status/2112197034866315327",
-      "url": "https://x.com/brian_armstrong/status/2112197034866315327",
+      "title": "Joe Lonsdale - 8VC says portfolio company Orchestra Bio is joining OpenAI, adding a biology team to the lab",
+      "notes": "https://x.com/JTLonsdale/status/2112615427788677390",
+      "url": "https://x.com/JTLonsdale/status/2112615427788677390",
+      "who": "JTLonsdale",
+      "platform": "X"
+    },
+    {
+      "title": "steipete - An agent loop moved OpenClaw's web frontend from Lit to Solid 2.0 in about 600 PRs over roughly two weeks",
+      "notes": "https://x.com/steipete/status/2112597162924351909",
+      "url": "https://x.com/steipete/status/2112597162924351909",
+      "who": "steipete",
+      "platform": "X"
+    },
+    {
+      "title": "steipete - VoidZero's tsrs, a Rust port of the TypeScript compiler, was a drop-in swap and made OpenClaw around 5x faster",
+      "notes": "https://x.com/steipete/status/2112571535731106013",
+      "url": "https://x.com/steipete/status/2112571535731106013",
+      "who": "steipete",
+      "platform": "X"
+    },
+    {
+      "title": "Brian Armstrong - Coinbase published a blog post on preparing Bitcoin for a post-quantum world with industry partners",
+      "notes": "https://x.com/brian_armstrong/status/2112598169817153754",
+      "url": "https://x.com/brian_armstrong/status/2112598169817153754",
       "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Musk says he will give one of his SpaceX shares to every kid in America next year, calling it 'the first of many'",
-      "notes": "https://x.com/elonmusk/status/2112089556615123114",
-      "url": "https://x.com/elonmusk/status/2112089556615123114",
-      "who": "elonmusk",
+      "title": "Sundar Pichai - On the Big Technology Podcast, Pichai discusses recursive self-improvement, world models and DeepMind compute vs. Cloud profits",
+      "notes": "https://x.com/sundarpichai/status/2112712141908423134",
+      "url": "https://x.com/sundarpichai/status/2112712141908423134",
+      "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "tobi - Shopify's CEO says Wabi 2.0, a shared AI agent that a family or friend group uses in one thread, is 'extremely well crafted'",
-      "notes": "https://x.com/tobi/status/2112263294031385028",
-      "url": "https://x.com/tobi/status/2112263294031385028",
-      "who": "tobi",
-      "platform": "X"
-    },
-    {
-      "title": "tobi - Lütke shares Anthropic's research on employment at Anthropic, alongside the same visualization built from inside Shopify",
-      "notes": "https://x.com/tobi/status/2111999594414665895",
-      "url": "https://x.com/tobi/status/2111999594414665895",
-      "who": "tobi",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Shares a Reuters-attributed warning that the $1.7T US auto loan market is headed for a crash, with 1 in 5 Americans behind on a loan",
-      "notes": "https://x.com/burrytracker/status/2112217153256763480",
-      "url": "https://x.com/burrytracker/status/2112217153256763480",
+      "title": "burrytracker - Michael Burry reportedly warns stocks sit on a 'supervolcano' and predicts decades of flat returns rather than a crash",
+      "notes": "https://x.com/burrytracker/status/2112539508495319371",
+      "url": "https://x.com/burrytracker/status/2112539508495319371",
       "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Musk pushes Grok Bot hard as an agent with its own computer, email and voice that can even make purchases with your card",
-      "notes": "https://x.com/elonmusk/status/2112219181500281276",
-      "url": "https://x.com/elonmusk/status/2112219181500281276",
-      "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Tue 20 Oct\n• elonmusk - SpaceX will post Q3 2026 financial and operational results on Oct 20, with a live audio-only webcast at 3:30\n• elonmusk - Tesla's annual meeting is set for Dec 3, and the company is asking shareholders to vote 'FOR' all three proposals\n• brian_armstrong - Coinbase for Agents now lets AI agents trade perps on S&P-style, top-100 tech and top-10 AI indices, plus 20+ tokens\n• elonmusk - Musk says he will give one of his SpaceX shares to every kid in America next year, calling it 'the first of many'\n• tobi - Shopify's CEO says Wabi 2.0, a shared AI agent that a family or friend group uses in one thread, is 'extremely well crafted'"
+  "message": "Daily Brief Wed 21 Oct\n• Elon Musk - After SpaceX's Q3 2026 earnings call, Musk says $1T in SpaceX revenue in 2028 is 'no longer impossible'\n• Sam Altman - Aleksander Madry returns to OpenAI to work on safety and security challenges as AI approaches superintelligence\n• Joe Lonsdale - 8VC says portfolio company Orchestra Bio is joining OpenAI, adding a biology team to the lab\n• steipete - An agent loop moved OpenClaw's web frontend from Lit to Solid 2.0 in about 600 PRs over roughly two weeks\n• steipete - VoidZero's tsrs, a Rust port of the TypeScript compiler, was a drop-in swap and made OpenClaw around 5x faster"
 }
