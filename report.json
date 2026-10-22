@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T04:24:13+03:00",
-  "overview": "SpaceX reported Q3 2026 results, and Musk said $1T in SpaceX revenue in 2028 is 'no longer impossible.' On the AI side, Aleksander Madry is returning to OpenAI to work on safety, OpenAI is acquiring Orchestra Bio, and steipete reported big speedups from agent-driven rewrites. Much of the remaining feed was election and politics content, which we skipped.",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:24:13+03:00",
+  "overview": "The main stories are earnings and AI products. Tesla beat on EPS but missed on revenue in Q3. Anthropic launched Claude Duet, a proactive agent app, and Gemini 4 Argon topped an accounting benchmark. Other notable posts: OpenAI led a fix for a severe open-source bug (php2shell), Ray Dalio warned about AI concentration risk, and there were several funding rounds and model releases. Much of Musk's feed was midterm politics, which is skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "Elon Musk - After SpaceX's Q3 2026 earnings call, Musk says $1T in SpaceX revenue in 2028 is 'no longer impossible'",
-      "notes": "https://x.com/elonmusk/status/2112666467712073815",
-      "url": "https://x.com/elonmusk/status/2112666467712073815",
+      "title": "elonmusk - Tesla Q3: EPS $0.48 vs $0.45 est, revenue $28.05B (missed), FSD subs up 67% to 1.74M, Semi in volume production",
+      "notes": "https://x.com/elonmusk/status/2113011056847278486",
+      "url": "https://x.com/elonmusk/status/2113011056847278486",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Sam Altman - Aleksander Madry returns to OpenAI to work on safety and security challenges as AI approaches superintelligence",
-      "notes": "https://x.com/sama/status/2112652656602923366",
-      "url": "https://x.com/sama/status/2112652656602923366",
-      "who": "sama",
+      "title": "MatthewBerman - Anthropic opens a research preview of Claude Duet, a proactive agent that keeps working and checks before acting",
+      "notes": "https://x.com/MatthewBerman/status/2112988762976444610",
+      "url": "https://x.com/MatthewBerman/status/2112988762976444610",
+      "who": "MatthewBerman",
       "platform": "X"
     },
     {
-      "title": "Joe Lonsdale - 8VC says portfolio company Orchestra Bio is joining OpenAI, adding a biology team to the lab",
-      "notes": "https://x.com/JTLonsdale/status/2112615427788677390",
-      "url": "https://x.com/JTLonsdale/status/2112615427788677390",
-      "who": "JTLonsdale",
+      "title": "gdb - OpenAI spent two months leading a coalition to mitigate php2shell, which he calls one of the most severe open-source bugs in recent memory",
+      "notes": "https://x.com/gdb/status/2112921529650688312",
+      "url": "https://x.com/gdb/status/2112921529650688312",
+      "who": "gdb",
       "platform": "X"
     },
     {
-      "title": "steipete - An agent loop moved OpenClaw's web frontend from Lit to Solid 2.0 in about 600 PRs over roughly two weeks",
-      "notes": "https://x.com/steipete/status/2112597162924351909",
-      "url": "https://x.com/steipete/status/2112597162924351909",
-      "who": "steipete",
-      "platform": "X"
-    },
-    {
-      "title": "steipete - VoidZero's tsrs, a Rust port of the TypeScript compiler, was a drop-in swap and made OpenClaw around 5x faster",
-      "notes": "https://x.com/steipete/status/2112571535731106013",
-      "url": "https://x.com/steipete/status/2112571535731106013",
-      "who": "steipete",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - Coinbase published a blog post on preparing Bitcoin for a post-quantum world with industry partners",
-      "notes": "https://x.com/brian_armstrong/status/2112598169817153754",
-      "url": "https://x.com/brian_armstrong/status/2112598169817153754",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "Sundar Pichai - On the Big Technology Podcast, Pichai discusses recursive self-improvement, world models and DeepMind compute vs. Cloud profits",
-      "notes": "https://x.com/sundarpichai/status/2112712141908423134",
-      "url": "https://x.com/sundarpichai/status/2112712141908423134",
+      "title": "sundarpichai - Ramp says Gemini 4 Argon tops its Accounting Bench at 61.1%, 10.6 points ahead of Opus 5.5",
+      "notes": "https://x.com/sundarpichai/status/2112937295699751366",
+      "url": "https://x.com/sundarpichai/status/2112937295699751366",
       "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "burrytracker - Michael Burry reportedly warns stocks sit on a 'supervolcano' and predicts decades of flat returns rather than a crash",
-      "notes": "https://x.com/burrytracker/status/2112539508495319371",
-      "url": "https://x.com/burrytracker/status/2112539508495319371",
-      "who": "burrytracker",
+      "title": "RayDalio - Watch Treasury yields and spreads, and the heavy AI concentration in markets; he is diversifying away from it",
+      "notes": "https://x.com/RayDalio/status/2112919385006358629",
+      "url": "https://x.com/RayDalio/status/2112919385006358629",
+      "who": "RayDalio",
+      "platform": "X"
+    },
+    {
+      "title": "MatthewBerman - Sam Altman interview: AI and coding jobs, personal assistants, why ChatGPT is too agreeable, OpenAI's chip bet",
+      "notes": "https://x.com/MatthewBerman/status/2112930776811806874",
+      "url": "https://x.com/MatthewBerman/status/2112930776811806874",
+      "who": "MatthewBerman",
+      "platform": "X"
+    },
+    {
+      "title": "saranormous - Conviction co-led a $35M seed for Watchtower Labs, an AI decision layer for military logistics, with Founders Fund",
+      "notes": "https://x.com/saranormous/status/2112962576359608465",
+      "url": "https://x.com/saranormous/status/2112962576359608465",
+      "who": "saranormous",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Mastercard is using Coinbase's x402 infrastructure, via Cloudflare, so AI agents can pay for digital services",
+      "notes": "https://x.com/brian_armstrong/status/2112919939686240703",
+      "url": "https://x.com/brian_armstrong/status/2112919939686240703",
+      "who": "brian_armstrong",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 21 Oct\n• Elon Musk - After SpaceX's Q3 2026 earnings call, Musk says $1T in SpaceX revenue in 2028 is 'no longer impossible'\n• Sam Altman - Aleksander Madry returns to OpenAI to work on safety and security challenges as AI approaches superintelligence\n• Joe Lonsdale - 8VC says portfolio company Orchestra Bio is joining OpenAI, adding a biology team to the lab\n• steipete - An agent loop moved OpenClaw's web frontend from Lit to Solid 2.0 in about 600 PRs over roughly two weeks\n• steipete - VoidZero's tsrs, a Rust port of the TypeScript compiler, was a drop-in swap and made OpenClaw around 5x faster"
+  "message": "Daily Brief Thu 22 Oct\n• elonmusk - Tesla Q3: EPS $0.48 vs $0.45 est, revenue $28.05B (missed), FSD subs up 67% to 1.74M, Semi in volume production\n• MatthewBerman - Anthropic opens a research preview of Claude Duet, a proactive agent that keeps working and checks before acting\n• gdb - OpenAI spent two months leading a coalition to mitigate php2shell, which he calls one of the most severe open-source bugs in recent memory\n• sundarpichai - Ramp says Gemini 4 Argon tops its Accounting Bench at 61.1%, 10.6 points ahead of Opus 5.5\n• RayDalio - Watch Treasury yields and spreads, and the heavy AI concentration in markets; he is diversifying away from it"
 }
