@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T04:24:13+03:00",
-  "overview": "The main stories are earnings and AI products. Tesla beat on EPS but missed on revenue in Q3. Anthropic launched Claude Duet, a proactive agent app, and Gemini 4 Argon topped an accounting benchmark. Other notable posts: OpenAI led a fix for a severe open-source bug (php2shell), Ray Dalio warned about AI concentration risk, and there were several funding rounds and model releases. Much of Musk's feed was midterm politics, which is skipped here.",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T04:24:14+03:00",
+  "overview": "The main thread today is AI agents touching money. An Axios scoop says banks are finding unauthorized AI agents in customer accounts, while Coinbase and Grok Bot push deeper into agent access to financial accounts. Also notable: SpaceX is finalizing a $40B debt raise at higher rates, Dwarkesh's Intel fab episode flags a chipmaking tool bottleneck, and Microsoft reports an AI diagnosis result published in Science.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - Tesla Q3: EPS $0.48 vs $0.45 est, revenue $28.05B (missed), FSD subs up 67% to 1.74M, Semi in volume production",
-      "notes": "https://x.com/elonmusk/status/2113011056847278486",
-      "url": "https://x.com/elonmusk/status/2113011056847278486",
-      "who": "elonmusk",
+      "title": "David Sacks - Disputes an Axios scoop on rogue AI agents in bank accounts, saying most activity is user-authorized and not cyberattacks",
+      "notes": "https://x.com/DavidSacks/status/2113317306398879787",
+      "url": "https://x.com/DavidSacks/status/2113317306398879787",
+      "who": "DavidSacks",
       "platform": "X"
     },
     {
-      "title": "MatthewBerman - Anthropic opens a research preview of Claude Duet, a proactive agent that keeps working and checks before acting",
-      "notes": "https://x.com/MatthewBerman/status/2112988762976444610",
-      "url": "https://x.com/MatthewBerman/status/2112988762976444610",
-      "who": "MatthewBerman",
+      "title": "Chamath Palihapitiya - SpaceX is finalizing a $40B debt raise, with its riskiest slice at about 8.3%, per Semafor",
+      "notes": "https://x.com/chamath/status/2113398247469555993",
+      "url": "https://x.com/chamath/status/2113398247469555993",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "gdb - OpenAI spent two months leading a coalition to mitigate php2shell, which he calls one of the most severe open-source bugs in recent memory",
-      "notes": "https://x.com/gdb/status/2112921529650688312",
-      "url": "https://x.com/gdb/status/2112921529650688312",
-      "who": "gdb",
+      "title": "Dwarkesh Patel - Intel's CTO says today's global tool stock could only double leading-edge wafer output, while AI compute grows 3x a year",
+      "notes": "https://x.com/dwarkesh_sp/status/2113299640875422101",
+      "url": "https://x.com/dwarkesh_sp/status/2113299640875422101",
+      "who": "dwarkesh_sp",
       "platform": "X"
     },
     {
-      "title": "sundarpichai - Ramp says Gemini 4 Argon tops its Accounting Bench at 61.1%, 10.6 points ahead of Opus 5.5",
-      "notes": "https://x.com/sundarpichai/status/2112937295699751366",
-      "url": "https://x.com/sundarpichai/status/2112937295699751366",
-      "who": "sundarpichai",
+      "title": "Mustafa Suleyman - Microsoft says in a Science paper that its MAI Diagnostic is 1.7x more accurate than ER doctors who can use the web",
+      "notes": "https://x.com/mustafasuleyman/status/2113332931423039945",
+      "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+      "who": "mustafasuleyman",
       "platform": "X"
     },
     {
-      "title": "RayDalio - Watch Treasury yields and spreads, and the heavy AI concentration in markets; he is diversifying away from it",
-      "notes": "https://x.com/RayDalio/status/2112919385006358629",
-      "url": "https://x.com/RayDalio/status/2112919385006358629",
-      "who": "RayDalio",
+      "title": "Brian Armstrong - Coinbase launches a page for connecting ChatGPT, Grok or Muse to research, manage and trade crypto and stocks",
+      "notes": "https://x.com/brian_armstrong/status/2113372150253924804",
+      "url": "https://x.com/brian_armstrong/status/2113372150253924804",
+      "who": "brian_armstrong",
       "platform": "X"
     },
     {
-      "title": "MatthewBerman - Sam Altman interview: AI and coding jobs, personal assistants, why ChatGPT is too agreeable, OpenAI's chip bet",
-      "notes": "https://x.com/MatthewBerman/status/2112930776811806874",
-      "url": "https://x.com/MatthewBerman/status/2112930776811806874",
-      "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "saranormous - Conviction co-led a $35M seed for Watchtower Labs, an AI decision layer for military logistics, with Founders Fund",
-      "notes": "https://x.com/saranormous/status/2112962576359608465",
-      "url": "https://x.com/saranormous/status/2112962576359608465",
+      "title": "Sarah Guo - Kevin Weil's Warp Sciences raises a $215M Series A led by Lightspeed for AI and robotics drug-discovery labs",
+      "notes": "https://x.com/saranormous/status/2113352850122363291",
+      "url": "https://x.com/saranormous/status/2113352850122363291",
       "who": "saranormous",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Mastercard is using Coinbase's x402 infrastructure, via Cloudflare, so AI agents can pay for digital services",
-      "notes": "https://x.com/brian_armstrong/status/2112919939686240703",
-      "url": "https://x.com/brian_armstrong/status/2112919939686240703",
-      "who": "brian_armstrong",
+      "title": "Bill Ackman - Gave bullish public remarks on Fannie $FNMA and Freddie $FMCC, and endorsed a summary calling current valuations 'absurd'",
+      "notes": "https://x.com/BillAckman/status/2113316038846951517",
+      "url": "https://x.com/BillAckman/status/2113316038846951517",
+      "who": "BillAckman",
+      "platform": "X"
+    },
+    {
+      "title": "Matthew Berman - In his interview, Sam Altman says OpenAI's edge is that its internal models are far ahead of its public ones",
+      "notes": "https://x.com/MatthewBerman/status/2113302574053134553",
+      "url": "https://x.com/MatthewBerman/status/2113302574053134553",
+      "who": "MatthewBerman",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 22 Oct\n• elonmusk - Tesla Q3: EPS $0.48 vs $0.45 est, revenue $28.05B (missed), FSD subs up 67% to 1.74M, Semi in volume production\n• MatthewBerman - Anthropic opens a research preview of Claude Duet, a proactive agent that keeps working and checks before acting\n• gdb - OpenAI spent two months leading a coalition to mitigate php2shell, which he calls one of the most severe open-source bugs in recent memory\n• sundarpichai - Ramp says Gemini 4 Argon tops its Accounting Bench at 61.1%, 10.6 points ahead of Opus 5.5\n• RayDalio - Watch Treasury yields and spreads, and the heavy AI concentration in markets; he is diversifying away from it"
+  "message": "Daily Brief Fri 23 Oct\n• David Sacks - Disputes an Axios scoop on rogue AI agents in bank accounts, saying most activity is user-authorized and not cyberattacks\n• Chamath Palihapitiya - SpaceX is finalizing a $40B debt raise, with its riskiest slice at about 8.3%, per Semafor\n• Dwarkesh Patel - Intel's CTO says today's global tool stock could only double leading-edge wafer output, while AI compute grows 3x a year\n• Mustafa Suleyman - Microsoft says in a Science paper that its MAI Diagnostic is 1.7x more accurate than ER doctors who can use the web\n• Brian Armstrong - Coinbase launches a page for connecting ChatGPT, Grok or Muse to research, manage and trade crypto and stocks"
 }
