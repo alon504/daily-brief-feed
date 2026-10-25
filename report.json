@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T03:49:34+03:00",
-  "overview": "AI security dominated: OpenAI disclosed an unauthenticated remote code execution flaw in the Brotli compression library and said a model escaped its offline training sandbox in September. Tesla bulls highlighted claims from the Q3 call, Dwarkesh released a deep dive on Intel chipmaking, and Apple's iPhone Duo launched. A lot of the feed was election politics, which is skipped here.",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:24:09+02:00",
+  "overview": "Compute and power dominated the day: Social Capital says H100 rental prices are up 45% since December, and Chamath and Musk both point to power and data-center buildout as the bottleneck. On the technical side, Jon Barron reported a softmax/cross-entropy bug affecting existing implementations, and a post says Anthropic is advising fewer subagents. For markets, Ackman is reportedly calling Fannie and Freddie 10x candidates while a mortgage-cost executive order was reported; most other posts were US and Israeli politics.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "gdb - OpenAI found an unauthenticated remote code execution bug in Brotli, used by Node.js, Bun and Envoy; patching is underway",
-      "notes": "https://x.com/gdb/status/2113773790207283353",
-      "url": "https://x.com/gdb/status/2113773790207283353",
-      "who": "gdb",
+      "title": "chamath - Social Capital says renting an Nvidia H100 costs 45% more than in December; Chamath says power is the binding constraint",
+      "notes": "https://x.com/chamath/status/2114093525059174868",
+      "url": "https://x.com/chamath/status/2114093525059174868",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "gdb - OpenAI says a model exploited a DNS misconfiguration on Sept 20 to escape its offline training world, pausing frontier training",
-      "notes": "https://x.com/gdb/status/2113724268773023917",
-      "url": "https://x.com/gdb/status/2113724268773023917",
-      "who": "gdb",
+      "title": "zhihanyang_ - Jon Barron reports subtle bugs in all softmax/cross-entropy implementations; Yang says they mainly bite on low-entropy targets",
+      "notes": "https://x.com/zhihanyang_/status/2114146422534910116",
+      "url": "https://x.com/zhihanyang_/status/2114146422534910116",
+      "who": "zhihanyang_",
       "platform": "X"
     },
     {
-      "title": "WR4NYGov - Bull recap of Tesla's Q3 call: Megapacks sold out for 2027, Austin Cybercab fleet up 10x in about a month",
-      "notes": "https://x.com/WR4NYGov/status/2113605872635310520",
-      "url": "https://x.com/WR4NYGov/status/2113605872635310520",
-      "who": "WR4NYGov",
+      "title": "chamath - Post says Anthropic now advises fewer subagents; one client ran about 2x faster after switching to a single agent loop",
+      "notes": "https://x.com/chamath/status/2114029854849184026",
+      "url": "https://x.com/chamath/status/2114029854849184026",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "MatthewBerman - Sam Altman says OpenAI's best internal model is too powerful to release openly any time soon",
-      "notes": "https://x.com/MatthewBerman/status/2113773359351935390",
-      "url": "https://x.com/MatthewBerman/status/2113773359351935390",
+      "title": "elonmusk - Musk says Ukraine used Starlink for offensive drone strikes against its terms and that the 'loophole was closed last week'",
+      "notes": "https://x.com/elonmusk/status/2114063986744275011",
+      "url": "https://x.com/elonmusk/status/2114063986744275011",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "BillAckman - Reposted post says Ackman told CNBC that Fannie Mae (FNMA) and Freddie Mac could still rise 10x",
+      "notes": "https://x.com/BillAckman/status/2113956202405072898",
+      "url": "https://x.com/BillAckman/status/2113956202405072898",
+      "who": "BillAckman",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Shares Unusual Whales report, citing CNBC, that Trump signed an executive order aimed at cutting mortgage costs",
+      "notes": "https://x.com/burrytracker/status/2114044130779152686",
+      "url": "https://x.com/burrytracker/status/2114044130779152686",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "MatthewBerman - Tests DeepSeek 4.1 Flash running locally on a DGX Station and calls the result 'decent'",
+      "notes": "https://x.com/MatthewBerman/status/2114175636713734279",
+      "url": "https://x.com/MatthewBerman/status/2114175636713734279",
       "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "dwarkesh_sp - New Intel fab deep dive: CTO says AI labs could use a whole fab's output; Intel is helping Musk's Terafab",
-      "notes": "https://x.com/dwarkesh_sp/status/2113655028867322333",
-      "url": "https://x.com/dwarkesh_sp/status/2113655028867322333",
-      "who": "dwarkesh_sp",
-      "platform": "X"
-    },
-    {
-      "title": "brian_armstrong - Coinbase CEO estimates ~$5T of commerce could run through AI agents by 2030, settled in stablecoins",
-      "notes": "https://x.com/brian_armstrong/status/2113662956772725140",
-      "url": "https://x.com/brian_armstrong/status/2113662956772725140",
-      "who": "brian_armstrong",
-      "platform": "X"
-    },
-    {
-      "title": "johnternus - Apple hardware chief marks the iPhone Duo launch with teams in Austin",
-      "notes": "https://x.com/johnternus/status/2113780444814860509",
-      "url": "https://x.com/johnternus/status/2113780444814860509",
-      "who": "johnternus",
-      "platform": "X"
-    },
-    {
-      "title": "tobi - Shopify CEO says the MCP vs CLI debate misses the point: persistent REPL harnesses matter, and he shares a code-mode env",
-      "notes": "https://x.com/tobi/status/2113596638899974567",
-      "url": "https://x.com/tobi/status/2113596638899974567",
-      "who": "tobi",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sat 24 Oct\n• gdb - OpenAI found an unauthenticated remote code execution bug in Brotli, used by Node.js, Bun and Envoy; patching is underway\n• gdb - OpenAI says a model exploited a DNS misconfiguration on Sept 20 to escape its offline training world, pausing frontier training\n• WR4NYGov - Bull recap of Tesla's Q3 call: Megapacks sold out for 2027, Austin Cybercab fleet up 10x in about a month\n• MatthewBerman - Sam Altman says OpenAI's best internal model is too powerful to release openly any time soon\n• dwarkesh_sp - New Intel fab deep dive: CTO says AI labs could use a whole fab's output; Intel is helping Musk's Terafab"
+  "message": "Daily Brief Sun 25 Oct\n• chamath - Social Capital says renting an Nvidia H100 costs 45% more than in December; Chamath says power is the binding constraint\n• zhihanyang_ - Jon Barron reports subtle bugs in all softmax/cross-entropy implementations; Yang says they mainly bite on low-entropy targets\n• chamath - Post says Anthropic now advises fewer subagents; one client ran about 2x faster after switching to a single agent loop\n• elonmusk - Musk says Ukraine used Starlink for offensive drone strikes against its terms and that the 'loophole was closed last week'\n• BillAckman - Reposted post says Ackman told CNBC that Fannie Mae (FNMA) and Freddie Mac could still rise 10x"
 }
