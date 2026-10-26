@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T04:24:09+02:00",
-  "overview": "Compute and power dominated the day: Social Capital says H100 rental prices are up 45% since December, and Chamath and Musk both point to power and data-center buildout as the bottleneck. On the technical side, Jon Barron reported a softmax/cross-entropy bug affecting existing implementations, and a post says Anthropic is advising fewer subagents. For markets, Ackman is reportedly calling Fannie and Freddie 10x candidates while a mortgage-cost executive order was reported; most other posts were US and Israeli politics.",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T04:24:12+02:00",
+  "overview": "The main theme is AI compute economics. Elon Musk says debt markets have largely shut off financing for AI cloud companies without outside revenue, and Chamath and Sarah Guo add their own views on stranded compute and inference supply. Grok Bot added phone calling, and SpaceX ran a full static fire ahead of Starship Flight 15. Much of the feed was politics (US races, Ukraine, Toronto, Israel), which is skipped here.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "chamath - Social Capital says renting an Nvidia H100 costs 45% more than in December; Chamath says power is the binding constraint",
-      "notes": "https://x.com/chamath/status/2114093525059174868",
-      "url": "https://x.com/chamath/status/2114093525059174868",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "zhihanyang_ - Jon Barron reports subtle bugs in all softmax/cross-entropy implementations; Yang says they mainly bite on low-entropy targets",
-      "notes": "https://x.com/zhihanyang_/status/2114146422534910116",
-      "url": "https://x.com/zhihanyang_/status/2114146422534910116",
-      "who": "zhihanyang_",
-      "platform": "X"
-    },
-    {
-      "title": "chamath - Post says Anthropic now advises fewer subagents; one client ran about 2x faster after switching to a single agent loop",
-      "notes": "https://x.com/chamath/status/2114029854849184026",
-      "url": "https://x.com/chamath/status/2114029854849184026",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Musk says Ukraine used Starlink for offensive drone strikes against its terms and that the 'loophole was closed last week'",
-      "notes": "https://x.com/elonmusk/status/2114063986744275011",
-      "url": "https://x.com/elonmusk/status/2114063986744275011",
+      "title": "elonmusk - Debt markets have nearly shut off for AI clouds without non-AI revenue; SpaceX closed $40B GPU debt, 200+ neoclouds face consolidation",
+      "notes": "https://x.com/elonmusk/status/2114434646914068862",
+      "url": "https://x.com/elonmusk/status/2114434646914068862",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "BillAckman - Reposted post says Ackman told CNBC that Fannie Mae (FNMA) and Freddie Mac could still rise 10x",
-      "notes": "https://x.com/BillAckman/status/2113956202405072898",
-      "url": "https://x.com/BillAckman/status/2113956202405072898",
-      "who": "BillAckman",
+      "title": "Chamath Palihapitiya - Predicts lots of partly stranded or idle compute in 2027 from pipeline delays, hitting everyone but one player",
+      "notes": "https://x.com/chamath/status/2114389987563381004",
+      "url": "https://x.com/chamath/status/2114389987563381004",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "burrytracker - Shares Unusual Whales report, citing CNBC, that Trump signed an executive order aimed at cutting mortgage costs",
-      "notes": "https://x.com/burrytracker/status/2114044130779152686",
-      "url": "https://x.com/burrytracker/status/2114044130779152686",
-      "who": "burrytracker",
+      "title": "elonmusk - Grok Bot can now phone people or businesses for you, wait on hold, and send a summary; v0.77 also adds Tailscale and payments screens",
+      "notes": "https://x.com/elonmusk/status/2114365361068138990",
+      "url": "https://x.com/elonmusk/status/2114365361068138990",
+      "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "MatthewBerman - Tests DeepSeek 4.1 Flash running locally on a DGX Station and calls the result 'decent'",
-      "notes": "https://x.com/MatthewBerman/status/2114175636713734279",
-      "url": "https://x.com/MatthewBerman/status/2114175636713734279",
+      "title": "Greg Brockman - Quotes a mathematician calling OpenAI's math paper 'maybe beyond what a human could have come up with'",
+      "notes": "https://x.com/gdb/status/2114483026608755082",
+      "url": "https://x.com/gdb/status/2114483026608755082",
+      "who": "gdb",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Super Heavy completed a full-duration 33-engine static fire ahead of Starship Flight 15",
+      "notes": "https://x.com/elonmusk/status/2114513919566033266",
+      "url": "https://x.com/elonmusk/status/2114513919566033266",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Matthew Berman - Says image, video and voice generation now run well locally; a LTX 2.5 video took minutes on his DGX Station",
+      "notes": "https://x.com/MatthewBerman/status/2114530916735553655",
+      "url": "https://x.com/MatthewBerman/status/2114530916735553655",
       "who": "MatthewBerman",
+      "platform": "X"
+    },
+    {
+      "title": "Sarah Guo - Argues AI startups need inference vendors with freely allocatable capacity, since closed labs ration GPUs; owning power and chips repeats colo's mistake",
+      "notes": "https://x.com/saranormous/status/2114365108432544118",
+      "url": "https://x.com/saranormous/status/2114365108432544118",
+      "who": "saranormous",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Aer Lingus now offers free Starlink Wi-Fi on all U.S. routes; a shared post says Starlink passed AT&T Fiber in subscribers",
+      "notes": "https://x.com/elonmusk/status/2114370625582330326",
+      "url": "https://x.com/elonmusk/status/2114370625582330326",
+      "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sun 25 Oct\n• chamath - Social Capital says renting an Nvidia H100 costs 45% more than in December; Chamath says power is the binding constraint\n• zhihanyang_ - Jon Barron reports subtle bugs in all softmax/cross-entropy implementations; Yang says they mainly bite on low-entropy targets\n• chamath - Post says Anthropic now advises fewer subagents; one client ran about 2x faster after switching to a single agent loop\n• elonmusk - Musk says Ukraine used Starlink for offensive drone strikes against its terms and that the 'loophole was closed last week'\n• BillAckman - Reposted post says Ackman told CNBC that Fannie Mae (FNMA) and Freddie Mac could still rise 10x"
+  "message": "Daily Brief Mon 26 Oct\n• elonmusk - Debt markets have nearly shut off for AI clouds without non-AI revenue; SpaceX closed $40B GPU debt, 200+ neoclouds face consolidation\n• Chamath Palihapitiya - Predicts lots of partly stranded or idle compute in 2027 from pipeline delays, hitting everyone but one player\n• elonmusk - Grok Bot can now phone people or businesses for you, wait on hold, and send a summary; v0.77 also adds Tailscale and payments screens\n• Greg Brockman - Quotes a mathematician calling OpenAI's math paper 'maybe beyond what a human could have come up with'\n• elonmusk - Super Heavy completed a full-duration 33-engine static fire ahead of Starship Flight 15"
 }
