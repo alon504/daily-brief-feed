@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T04:24:12+02:00",
-  "overview": "The main theme is AI compute economics. Elon Musk says debt markets have largely shut off financing for AI cloud companies without outside revenue, and Chamath and Sarah Guo add their own views on stranded compute and inference supply. Grok Bot added phone calling, and SpaceX ran a full static fire ahead of Starship Flight 15. Much of the feed was politics (US races, Ukraine, Toronto, Israel), which is skipped here.",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T04:24:13+02:00",
+  "overview": "Big day for AI and markets: Anthropic filed its S-1 for an IPO, and OpenAI shipped GPT-6.1 Terra, pitched on computer use, alongside three AI-assisted science results. On the market side, Burry (via a tracker account) compares today's S&P breadth to 2000, and Tesla added Latvia as the 10th European country for supervised FSD. A lot of the feed was election and politics noise, which is skipped below.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - Debt markets have nearly shut off for AI clouds without non-AI revenue; SpaceX closed $40B GPU debt, 200+ neoclouds face consolidation",
-      "notes": "https://x.com/elonmusk/status/2114434646914068862",
-      "url": "https://x.com/elonmusk/status/2114434646914068862",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Chamath Palihapitiya - Predicts lots of partly stranded or idle compute in 2027 from pipeline delays, hitting everyone but one player",
-      "notes": "https://x.com/chamath/status/2114389987563381004",
-      "url": "https://x.com/chamath/status/2114389987563381004",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Grok Bot can now phone people or businesses for you, wait on hold, and send a summary; v0.77 also adds Tailscale and payments screens",
-      "notes": "https://x.com/elonmusk/status/2114365361068138990",
-      "url": "https://x.com/elonmusk/status/2114365361068138990",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Greg Brockman - Quotes a mathematician calling OpenAI's math paper 'maybe beyond what a human could have come up with'",
-      "notes": "https://x.com/gdb/status/2114483026608755082",
-      "url": "https://x.com/gdb/status/2114483026608755082",
-      "who": "gdb",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Super Heavy completed a full-duration 33-engine static fire ahead of Starship Flight 15",
-      "notes": "https://x.com/elonmusk/status/2114513919566033266",
-      "url": "https://x.com/elonmusk/status/2114513919566033266",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Matthew Berman - Says image, video and voice generation now run well locally; a LTX 2.5 video took minutes on his DGX Station",
-      "notes": "https://x.com/MatthewBerman/status/2114530916735553655",
-      "url": "https://x.com/MatthewBerman/status/2114530916735553655",
-      "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "Sarah Guo - Argues AI startups need inference vendors with freely allocatable capacity, since closed labs ration GPUs; owning power and chips repeats colo's mistake",
-      "notes": "https://x.com/saranormous/status/2114365108432544118",
-      "url": "https://x.com/saranormous/status/2114365108432544118",
+      "title": "saranormous - Anthropic filed its S-1; she flags rising operating profit and a staggered year-plus lockup instead of a 180-day cliff",
+      "notes": "https://x.com/saranormous/status/2114718016286200111",
+      "url": "https://x.com/saranormous/status/2114718016286200111",
       "who": "saranormous",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Aer Lingus now offers free Starlink Wi-Fi on all U.S. routes; a shared post says Starlink passed AT&T Fiber in subscribers",
-      "notes": "https://x.com/elonmusk/status/2114370625582330326",
-      "url": "https://x.com/elonmusk/status/2114370625582330326",
+      "title": "Sam Altman - OpenAI launched GPT-6.1 Terra, pitched on faster, cheaper computer use across apps",
+      "notes": "https://x.com/sama/status/2114818620782248024",
+      "url": "https://x.com/sama/status/2114818620782248024",
+      "who": "sama",
+      "platform": "X"
+    },
+    {
+      "title": "Greg Brockman - OpenAI announces AI-aided discoveries in harmonic analysis, complexity theory and quantum field theory",
+      "notes": "https://x.com/gdb/status/2114837059462627533",
+      "url": "https://x.com/gdb/status/2114837059462627533",
+      "who": "gdb",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Burry says 23% of S&P stocks are down 40%+ and only 15 hit new highs, likening it to just before 2000",
+      "notes": "https://x.com/burrytracker/status/2114736135553339737",
+      "url": "https://x.com/burrytracker/status/2114736135553339737",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "Peter Steinberger - After weekend tests, he says Bun's AOT compiler gave 2-3x performance and under half the memory use",
+      "notes": "https://x.com/steipete/status/2114879798434758905",
+      "url": "https://x.com/steipete/status/2114879798434758905",
+      "who": "steipete",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - Supervised FSD approved in Latvia, the 10th European country; Tesla robotaxi also widened its Houston area",
+      "notes": "https://x.com/elonmusk/status/2114773746510946544",
+      "url": "https://x.com/elonmusk/status/2114773746510946544",
       "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "Jensen Huang - At GTC Berlin he pitched Vera Rubin DSX POD factories, an Agent Toolkit, and RTX Spark agents for Windows PCs",
+      "notes": "https://x.com/JensenHuang/status/2114773600574279837",
+      "url": "https://x.com/JensenHuang/status/2114773600574279837",
+      "who": "JensenHuang",
+      "platform": "X"
+    },
+    {
+      "title": "Patrick Collison - Stripe's Link launches 'Link balance' so AI agents can spend a set budget on your behalf",
+      "notes": "https://x.com/patrickc/status/2114814824580620307",
+      "url": "https://x.com/patrickc/status/2114814824580620307",
+      "who": "patrickc",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Mon 26 Oct\n• elonmusk - Debt markets have nearly shut off for AI clouds without non-AI revenue; SpaceX closed $40B GPU debt, 200+ neoclouds face consolidation\n• Chamath Palihapitiya - Predicts lots of partly stranded or idle compute in 2027 from pipeline delays, hitting everyone but one player\n• elonmusk - Grok Bot can now phone people or businesses for you, wait on hold, and send a summary; v0.77 also adds Tailscale and payments screens\n• Greg Brockman - Quotes a mathematician calling OpenAI's math paper 'maybe beyond what a human could have come up with'\n• elonmusk - Super Heavy completed a full-duration 33-engine static fire ahead of Starship Flight 15"
+  "message": "Daily Brief Tue 27 Oct\n• saranormous - Anthropic filed its S-1; she flags rising operating profit and a staggered year-plus lockup instead of a 180-day cliff\n• Sam Altman - OpenAI launched GPT-6.1 Terra, pitched on faster, cheaper computer use across apps\n• Greg Brockman - OpenAI announces AI-aided discoveries in harmonic analysis, complexity theory and quantum field theory\n• burrytracker - Burry says 23% of S&P stocks are down 40%+ and only 15 hit new highs, likening it to just before 2000\n• Peter Steinberger - After weekend tests, he says Bun's AOT compiler gave 2-3x performance and under half the memory use"
 }
