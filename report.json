@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T00:08:02+02:00",
-  "overview": "A heavy AI-launch day. Google shipped Genie 4, its world model, as a research preview. Microsoft's image-editing model reached #2 on a benchmark. Matthew Berman called DeepSeek v4.1 Flash the best open-weights model. On the markets side, Kalshi and S&P Dow Jones Indices announced event-contract indices, Anduril and Qualcomm unveiled BlueChip, a US-built laptop, and Burry backed Ken Griffin's AI-bubble warning. Israeli election retweets and US culture-war posts are skipped.",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T04:24:09+02:00",
+  "overview": "Google dominated the day: Sundar Pichai announced Gemini 4 Carbon, two weeks after Argon, and Alphabet Q3 results with Cloud up 103%. One reposted claim said GOOGL fell 8% on an earnings miss, which conflicts with Pichai's upbeat numbers. Also notable: Michael Burry's warning on Anthropic's IPO filing, Shopify's Fall Edition, which includes the Shop.app to Shop.com move, and Tesla's Robotaxi expansion in Houston. Political posts were skipped.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,54 @@
   },
   "top_items": [
     {
-      "title": "Sundar Pichai - Google's Genie 4 world model is steerable in real time with native audio; trusted testers first, AI Ultra and Gemini API next",
-      "notes": "https://x.com/sundarpichai/status/2115115252690145519",
-      "url": "https://x.com/sundarpichai/status/2115115252690145519",
+      "title": "sundarpichai - Gemini 4 Carbon ranks #1 on Artificial Analysis v5.0 at 59, two weeks after Argon; cyber defenders get it first",
+      "notes": "https://x.com/sundarpichai/status/2115489219804352921",
+      "url": "https://x.com/sundarpichai/status/2115489219804352921",
       "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Tarek Mansour - Kalshi and S&P Dow Jones Indices will build indices of event contracts and list contracts on the S&P 500 and Dow",
-      "notes": "https://x.com/mansourtarek_/status/2115072132480651733",
-      "url": "https://x.com/mansourtarek_/status/2115072132480651733",
-      "who": "mansourtarek_",
+      "title": "sundarpichai - Alphabet Q3: half-trillion annual run rate, revenue up 25%, Google Cloud up 103%, model APIs at ~32B tokens/min",
+      "notes": "https://x.com/sundarpichai/status/2115535455156642066",
+      "url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Palmer Luckey - Anduril and Qualcomm unveil BlueChip, a Snapdragon X laptop he calls the first American-built computer in decades",
-      "notes": "https://x.com/PalmerLuckey/status/2115137978880434222",
-      "url": "https://x.com/PalmerLuckey/status/2115137978880434222",
-      "who": "PalmerLuckey",
-      "platform": "X"
-    },
-    {
-      "title": "Matthew Berman - Calls DeepSeek v4.1 Flash the best open-weights model, saying the 1017 build is 'basically Opus 5.3 if it existed'",
-      "notes": "https://x.com/MatthewBerman/status/2115129395195302282",
-      "url": "https://x.com/MatthewBerman/status/2115129395195302282",
-      "who": "MatthewBerman",
-      "platform": "X"
-    },
-    {
-      "title": "Mustafa Suleyman - MAI-Image-2.7-Preview ranks #2 in Artificial Analysis image-editing tests; MAI Cyber adoption doubled to 50% in 30 days",
-      "notes": "https://x.com/mustafasuleyman/status/2115099284224008200",
-      "url": "https://x.com/mustafasuleyman/status/2115099284224008200",
-      "who": "mustafasuleyman",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Says Burry backs Ken Griffin's view that AI is 'almost certainly' in a bubble, with chip overbuild risking a price freefall",
-      "notes": "https://x.com/burrytracker/status/2115073535043317961",
-      "url": "https://x.com/burrytracker/status/2115073535043317961",
+      "title": "burrytracker - Burry says Anthropic's IPO filing shows $537B in compute obligations against ~$65B revenue, calling AI 'catastrophically vulnerable'",
+      "notes": "https://x.com/burrytracker/status/2115448038605107677",
+      "url": "https://x.com/burrytracker/status/2115448038605107677",
       "who": "burrytracker",
       "platform": "X"
     },
     {
-      "title": "Joe Lonsdale - Highlights an Anthropic and BigHat Bio therapeutics deal in which Claude helped optimize two novel antibodies",
-      "notes": "https://x.com/JTLonsdale/status/2115179222234694132",
-      "url": "https://x.com/JTLonsdale/status/2115179222234694132",
-      "who": "JTLonsdale",
+      "title": "tobi - Shopify's Fall 2026 Edition is out: Shop.app becomes Shop.com and Campaign Autopilot opens to all merchants",
+      "notes": "https://x.com/tobi/status/2115476197572506077",
+      "url": "https://x.com/tobi/status/2115476197572506077",
+      "who": "tobi",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Shares news that Starlink Mobile is live across Brazil with Vivo (50M customers) and United is adding Starlink to ~3 planes a day",
-      "notes": "https://x.com/elonmusk/status/2115092766275543266",
-      "url": "https://x.com/elonmusk/status/2115092766275543266",
+      "title": "elonmusk - Tesla is expanding its Cybercab/Robotaxi service area across Houston, per a Houston police post Musk amplified",
+      "notes": "https://x.com/elonmusk/status/2115501119296463056",
+      "url": "https://x.com/elonmusk/status/2115501119296463056",
+      "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "brian_armstrong - Armstrong pitches stablecoins plus x402 for per-article micropayments made by AI agents instead of subscriptions",
+      "notes": "https://x.com/brian_armstrong/status/2115582379951608180",
+      "url": "https://x.com/brian_armstrong/status/2115582379951608180",
+      "who": "brian_armstrong",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Neuralink shares early speech-restoration data, saying it enables speech-to-text and voice at conversational rates",
+      "notes": "https://x.com/elonmusk/status/2115626951607996734",
+      "url": "https://x.com/elonmusk/status/2115626951607996734",
       "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 28 Oct\n• Sundar Pichai - Google's Genie 4 world model is steerable in real time with native audio; trusted testers first, AI Ultra and Gemini API next\n• Tarek Mansour - Kalshi and S&P Dow Jones Indices will build indices of event contracts and list contracts on the S&P 500 and Dow\n• Palmer Luckey - Anduril and Qualcomm unveil BlueChip, a Snapdragon X laptop he calls the first American-built computer in decades\n• Matthew Berman - Calls DeepSeek v4.1 Flash the best open-weights model, saying the 1017 build is 'basically Opus 5.3 if it existed'\n• Mustafa Suleyman - MAI-Image-2.7-Preview ranks #2 in Artificial Analysis image-editing tests; MAI Cyber adoption doubled to 50% in 30 days"
+  "message": "Daily Brief Thu 29 Oct\n• sundarpichai - Gemini 4 Carbon ranks #1 on Artificial Analysis v5.0 at 59, two weeks after Argon; cyber defenders get it first\n• sundarpichai - Alphabet Q3: half-trillion annual run rate, revenue up 25%, Google Cloud up 103%, model APIs at ~32B tokens/min\n• burrytracker - Burry says Anthropic's IPO filing shows $537B in compute obligations against ~$65B revenue, calling AI 'catastrophically vulnerable'\n• tobi - Shopify's Fall 2026 Edition is out: Shop.app becomes Shop.com and Campaign Autopilot opens to all merchants\n• elonmusk - Tesla is expanding its Cybercab/Robotaxi service area across Houston, per a Houston police post Musk amplified"
 }
