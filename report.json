@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T04:24:09+02:00",
-  "overview": "Google dominated the day: Sundar Pichai announced Gemini 4 Carbon, two weeks after Argon, and Alphabet Q3 results with Cloud up 103%. One reposted claim said GOOGL fell 8% on an earnings miss, which conflicts with Pichai's upbeat numbers. Also notable: Michael Burry's warning on Anthropic's IPO filing, Shopify's Fall Edition, which includes the Shop.app to Shop.com move, and Tesla's Robotaxi expansion in Houston. Political posts were skipped.",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T14:48:51+02:00",
+  "overview": "The day was dominated by SpaceX's Starship Flight 15: Ship 42 was caught by the tower arms for the first time, though the booster was lost after running slightly low on fuel. On the AI side, Dwarkesh Patel argued AI research may soon automate itself, Patrick Collison questioned what a post-work society looks like, and Musk pushed Grok Bot's new phone-call feature. The Jensen Huang controversy kept rippling through tech accounts.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,54 @@
   },
   "top_items": [
     {
-      "title": "sundarpichai - Gemini 4 Carbon ranks #1 on Artificial Analysis v5.0 at 59, two weeks after Argon; cyber defenders get it first",
-      "notes": "https://x.com/sundarpichai/status/2115489219804352921",
-      "url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "who": "sundarpichai",
-      "platform": "X"
-    },
-    {
-      "title": "sundarpichai - Alphabet Q3: half-trillion annual run rate, revenue up 25%, Google Cloud up 103%, model APIs at ~32B tokens/min",
-      "notes": "https://x.com/sundarpichai/status/2115535455156642066",
-      "url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "who": "sundarpichai",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Burry says Anthropic's IPO filing shows $537B in compute obligations against ~$65B revenue, calling AI 'catastrophically vulnerable'",
-      "notes": "https://x.com/burrytracker/status/2115448038605107677",
-      "url": "https://x.com/burrytracker/status/2115448038605107677",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "tobi - Shopify's Fall 2026 Edition is out: Shop.app becomes Shop.com and Campaign Autopilot opens to all merchants",
-      "notes": "https://x.com/tobi/status/2115476197572506077",
-      "url": "https://x.com/tobi/status/2115476197572506077",
-      "who": "tobi",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - Tesla is expanding its Cybercab/Robotaxi service area across Houston, per a Houston police post Musk amplified",
-      "notes": "https://x.com/elonmusk/status/2115501119296463056",
-      "url": "https://x.com/elonmusk/status/2115501119296463056",
+      "title": "elonmusk - Starship Ship 42 caught by tower arms after a 22+ hour, ~14-orbit flight, a first for the upper stage",
+      "notes": "https://x.com/elonmusk/status/2121759042582589821",
+      "url": "https://x.com/elonmusk/status/2121759042582589821",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Armstrong pitches stablecoins plus x402 for per-article micropayments made by AI agents instead of subscriptions",
-      "notes": "https://x.com/brian_armstrong/status/2115582379951608180",
-      "url": "https://x.com/brian_armstrong/status/2115582379951608180",
-      "who": "brian_armstrong",
+      "title": "elonmusk - Flight 15 booster was lost after slight engine underperformance; Musk says Raptor V3.2 and earlier MECO1 will fix it",
+      "notes": "https://x.com/elonmusk/status/2121648438144024943",
+      "url": "https://x.com/elonmusk/status/2121648438144024943",
+      "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Neuralink shares early speech-restoration data, saying it enables speech-to-text and voice at conversational rates",
-      "notes": "https://x.com/elonmusk/status/2115626951607996734",
-      "url": "https://x.com/elonmusk/status/2115626951607996734",
+      "title": "dwarkesh_sp - Argues AI research is a verifiable domain, so a GPT-3-to-GPT-6-sized jump could fit in one year within months to years",
+      "notes": "https://x.com/dwarkesh_sp/status/2121696412773781549",
+      "url": "https://x.com/dwarkesh_sp/status/2121696412773781549",
+      "who": "dwarkesh_sp",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Promotes Grok Bot's new phone-call feature, citing a user whose bot rebooked a cancelled flight plus hotel and meals",
+      "notes": "https://x.com/elonmusk/status/2121770874885845044",
+      "url": "https://x.com/elonmusk/status/2121770874885845044",
       "who": "elonmusk",
+      "platform": "X"
+    },
+    {
+      "title": "JTLonsdale - On the Jensen Huang fallout, warns a government ban on open-source models could enable censorship",
+      "notes": "https://x.com/JTLonsdale/status/2121708809777512900",
+      "url": "https://x.com/JTLonsdale/status/2121708809777512900",
+      "who": "JTLonsdale",
+      "platform": "X"
+    },
+    {
+      "title": "patrickc - Stripe's Collison asks AI optimists to explain how a post-work society still produces the next Mozart or Dickens",
+      "notes": "https://x.com/patrickc/status/2121771165912064379",
+      "url": "https://x.com/patrickc/status/2121771165912064379",
+      "who": "patrickc",
+      "platform": "X"
+    },
+    {
+      "title": "demishassabis - Shares first Gemini 4 Hydrogen coding results on 2 real repos with 105 replanted bugs to find and fix",
+      "notes": "https://x.com/demishassabis/status/2121743361065550072",
+      "url": "https://x.com/demishassabis/status/2121743361065550072",
+      "who": "demishassabis",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 29 Oct\n• sundarpichai - Gemini 4 Carbon ranks #1 on Artificial Analysis v5.0 at 59, two weeks after Argon; cyber defenders get it first\n• sundarpichai - Alphabet Q3: half-trillion annual run rate, revenue up 25%, Google Cloud up 103%, model APIs at ~32B tokens/min\n• burrytracker - Burry says Anthropic's IPO filing shows $537B in compute obligations against ~$65B revenue, calling AI 'catastrophically vulnerable'\n• tobi - Shopify's Fall 2026 Edition is out: Shop.app becomes Shop.com and Campaign Autopilot opens to all merchants\n• elonmusk - Tesla is expanding its Cybercab/Robotaxi service area across Houston, per a Houston police post Musk amplified"
+  "message": "Daily Brief Sun 15 Nov\n• elonmusk - Starship Ship 42 caught by tower arms after a 22+ hour, ~14-orbit flight, a first for the upper stage\n• elonmusk - Flight 15 booster was lost after slight engine underperformance; Musk says Raptor V3.2 and earlier MECO1 will fix it\n• dwarkesh_sp - Argues AI research is a verifiable domain, so a GPT-3-to-GPT-6-sized jump could fit in one year within months to years\n• elonmusk - Promotes Grok Bot's new phone-call feature, citing a user whose bot rebooked a cancelled flight plus hotel and meals\n• JTLonsdale - On the Jensen Huang fallout, warns a government ban on open-source models could enable censorship"
 }
