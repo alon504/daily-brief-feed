@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T14:48:51+02:00",
-  "overview": "The day was dominated by SpaceX's Starship Flight 15: Ship 42 was caught by the tower arms for the first time, though the booster was lost after running slightly low on fuel. On the AI side, Dwarkesh Patel argued AI research may soon automate itself, Patrick Collison questioned what a post-work society looks like, and Musk pushed Grok Bot's new phone-call feature. The Jensen Huang controversy kept rippling through tech accounts.",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T04:24:17+02:00",
+  "overview": "SpaceX's Starship Flight 15 caught Ship 42 with the launch tower for the first time, and Musk followed with a reuse assessment and Starship V4 specs. AI news included Paul Christiano's forecast ahead of tomorrow's Dwarkesh episode, GPT-6 Astra being used for physics research, and longer context windows in Antigravity. The NVIDIA/Jensen Huang departure saga took up much of the investor timeline.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,54 +10,61 @@
   },
   "top_items": [
     {
-      "title": "elonmusk - Starship Ship 42 caught by tower arms after a 22+ hour, ~14-orbit flight, a first for the upper stage",
-      "notes": "https://x.com/elonmusk/status/2121759042582589821",
-      "url": "https://x.com/elonmusk/status/2121759042582589821",
+      "title": "elonmusk - After inspecting Ship 42 post-catch, Musk says it could be reflown after a few weeks of refurbishment",
+      "notes": "https://x.com/elonmusk/status/2122092374016806969",
+      "url": "https://x.com/elonmusk/status/2122092374016806969",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Flight 15 booster was lost after slight engine underperformance; Musk says Raptor V3.2 and earlier MECO1 will fix it",
-      "notes": "https://x.com/elonmusk/status/2121648438144024943",
-      "url": "https://x.com/elonmusk/status/2121648438144024943",
+      "title": "elonmusk - Starship V4 will be ~70m long with >60% more propellant and 9 engines, adding 3 higher-thrust Raptor-Vacuums",
+      "notes": "https://x.com/elonmusk/status/2122141019894383027",
+      "url": "https://x.com/elonmusk/status/2122141019894383027",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "dwarkesh_sp - Argues AI research is a verifiable domain, so a GPT-3-to-GPT-6-sized jump could fit in one year within months to years",
-      "notes": "https://x.com/dwarkesh_sp/status/2121696412773781549",
-      "url": "https://x.com/dwarkesh_sp/status/2121696412773781549",
+      "title": "dwarkesh_sp - Paul Christiano episode out tomorrow; he puts a 1 in 3 chance on extreme superintelligence within a year",
+      "notes": "https://x.com/dwarkesh_sp/status/2122064955545686119",
+      "url": "https://x.com/dwarkesh_sp/status/2122064955545686119",
       "who": "dwarkesh_sp",
       "platform": "X"
     },
     {
-      "title": "elonmusk - Promotes Grok Bot's new phone-call feature, citing a user whose bot rebooked a cancelled flight plus hotel and meals",
-      "notes": "https://x.com/elonmusk/status/2121770874885845044",
-      "url": "https://x.com/elonmusk/status/2121770874885845044",
+      "title": "chamath - Argues the US government, not China or AMD, may be the biggest beneficiary of Jensen Huang leaving NVIDIA",
+      "notes": "https://x.com/chamath/status/2122095211736375531",
+      "url": "https://x.com/chamath/status/2122095211736375531",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "gdb - OpenAI's new science blog debuts with physicist Nathaniel Craig using GPT-6 Astra on a lattice Standard Model",
+      "notes": "https://x.com/gdb/status/2122126010691060185",
+      "url": "https://x.com/gdb/status/2122126010691060185",
+      "who": "gdb",
+      "platform": "X"
+    },
+    {
+      "title": "demishassabis - Reposts that Antigravity is doubling the context window for its Argon, Carbon and Hydrogen models",
+      "notes": "https://x.com/demishassabis/status/2122138623206441223",
+      "url": "https://x.com/demishassabis/status/2122138623206441223",
+      "who": "demishassabis",
+      "platform": "X"
+    },
+    {
+      "title": "elonmusk - Reposts reports that Samsung will invest $1.9B to expand its Austin, Texas chip plant to make Starlink chips",
+      "notes": "https://x.com/elonmusk/status/2122127355502071854",
+      "url": "https://x.com/elonmusk/status/2122127355502071854",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "JTLonsdale - On the Jensen Huang fallout, warns a government ban on open-source models could enable censorship",
-      "notes": "https://x.com/JTLonsdale/status/2121708809777512900",
-      "url": "https://x.com/JTLonsdale/status/2121708809777512900",
-      "who": "JTLonsdale",
-      "platform": "X"
-    },
-    {
-      "title": "patrickc - Stripe's Collison asks AI optimists to explain how a post-work society still produces the next Mozart or Dickens",
-      "notes": "https://x.com/patrickc/status/2121771165912064379",
-      "url": "https://x.com/patrickc/status/2121771165912064379",
-      "who": "patrickc",
-      "platform": "X"
-    },
-    {
-      "title": "demishassabis - Shares first Gemini 4 Hydrogen coding results on 2 real repos with 105 replanted bugs to find and fix",
-      "notes": "https://x.com/demishassabis/status/2121743361065550072",
-      "url": "https://x.com/demishassabis/status/2121743361065550072",
-      "who": "demishassabis",
+      "title": "elonmusk - Lufthansa's first Starlink-equipped A350-1000 flies Munich–Tokyo Dec 3; group plans ~850 aircraft by 2029",
+      "notes": "https://x.com/elonmusk/status/2122041658426765334",
+      "url": "https://x.com/elonmusk/status/2122041658426765334",
+      "who": "elonmusk",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Sun 15 Nov\n• elonmusk - Starship Ship 42 caught by tower arms after a 22+ hour, ~14-orbit flight, a first for the upper stage\n• elonmusk - Flight 15 booster was lost after slight engine underperformance; Musk says Raptor V3.2 and earlier MECO1 will fix it\n• dwarkesh_sp - Argues AI research is a verifiable domain, so a GPT-3-to-GPT-6-sized jump could fit in one year within months to years\n• elonmusk - Promotes Grok Bot's new phone-call feature, citing a user whose bot rebooked a cancelled flight plus hotel and meals\n• JTLonsdale - On the Jensen Huang fallout, warns a government ban on open-source models could enable censorship"
+  "message": "Daily Brief Mon 16 Nov\n• elonmusk - After inspecting Ship 42 post-catch, Musk says it could be reflown after a few weeks of refurbishment\n• elonmusk - Starship V4 will be ~70m long with >60% more propellant and 9 engines, adding 3 higher-thrust Raptor-Vacuums\n• dwarkesh_sp - Paul Christiano episode out tomorrow; he puts a 1 in 3 chance on extreme superintelligence within a year\n• chamath - Argues the US government, not China or AMD, may be the biggest beneficiary of Jensen Huang leaving NVIDIA\n• gdb - OpenAI's new science blog debuts with physicist Nathaniel Craig using GPT-6 Astra on a lattice Standard Model"
 }
