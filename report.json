@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T04:24:10+02:00",
-  "overview": "13F filing day dominates: Burry, Nvidia, Citadel, Tepper, Druckenmiller, Bridgewater and others disclosed big moves, with SpaceX and chip stocks at the center. This comes as the Mag 7 sit about $4.6T below their highs and talk grows of Jensen Huang returning to Nvidia. Separately, SpaceX caught Starship 42 with the tower for the first time, and AI posts covered open models gaining share and Paul Christiano's stark superintelligence timeline.",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:24:10+02:00",
+  "overview": "The big stories are Jensen Huang saying he would return as Nvidia CEO if the board asks, and OpenAI releasing GPT-6.2 Astra and Sol to mixed reviews. Google made Gemini Tasks free in six countries, Peter Thiel's 13F shows a rotation from utilities into chips, and Tesla unveiled a solid-state transformer for data centers. Your interests file is still the blank template, so this brief is ranked for general tech, AI and investing relevance.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "burrytracker - Burry buys ADBE, MELI (now his largest), LULU, QXO; closes ORCL/CAT puts; trims GOOGL; still holds NVDA before earnings",
-      "notes": "https://x.com/burrytracker/status/2122453757304992244",
-      "url": "https://x.com/burrytracker/status/2122453757304992244",
+      "title": "Jensen Huang - Admits 'serious mistakes', will cooperate with Nvidia board probe, and says he'd return as CEO if the board decides it",
+      "notes": "https://x.com/JensenHuang/status/2122726005219737649",
+      "url": "https://x.com/JensenHuang/status/2122726005219737649",
+      "who": "JensenHuang",
+      "platform": "X"
+    },
+    {
+      "title": "Sam Altman - OpenAI ships GPT-6.2 Sol and Astra, pitched as token-efficient, with Sol ultrafast expanded to Pro 200 plans",
+      "notes": "https://x.com/sama/status/2122798039899263456",
+      "url": "https://x.com/sama/status/2122798039899263456",
+      "who": "sama",
+      "platform": "X"
+    },
+    {
+      "title": "Sundar Pichai - Gemini Tasks goes free in six countries on Gemini 4 Hydrogen; it can call businesses for quotes and pay via Google Pay",
+      "notes": "https://x.com/sundarpichai/status/2122741728247738688",
+      "url": "https://x.com/sundarpichai/status/2122741728247738688",
+      "who": "sundarpichai",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Peter Thiel's Q3 13F shows exits from 5 energy and utility stocks and $161M put into chips via SOXX, plus a new MSFT stake",
+      "notes": "https://x.com/burrytracker/status/2122794883257688114",
+      "url": "https://x.com/burrytracker/status/2122794883257688114",
       "who": "burrytracker",
       "platform": "X"
     },
     {
-      "title": "mansourtarek_ - Gene Munster puts Jensen Huang's return to Nvidia at 51%, up from 10% Friday, while Kalshi prices it at 9%",
-      "notes": "https://x.com/mansourtarek_/status/2122354700150321650",
-      "url": "https://x.com/mansourtarek_/status/2122354700150321650",
-      "who": "mansourtarek_",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Mag 7 are ~$4.6T below all-time highs: Nvidia -32.8%, Alphabet -28.2%, Tesla -21.8%, Meta -19.8%",
-      "notes": "https://x.com/burrytracker/status/2122342681548382629",
-      "url": "https://x.com/burrytracker/status/2122342681548382629",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Nvidia's 13F: SpaceX is now its biggest holding at 40.7% after it sold 25% of its Intel stake",
-      "notes": "https://x.com/burrytracker/status/2122447703003001109",
-      "url": "https://x.com/burrytracker/status/2122447703003001109",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Tepper raised his SpaceX stake over 17x, now his 4th-largest position at 7.4%; swapped AMD/AVGO for ORCL/AMAT",
-      "notes": "https://x.com/burrytracker/status/2122439676384477401",
-      "url": "https://x.com/burrytracker/status/2122439676384477401",
-      "who": "burrytracker",
-      "platform": "X"
-    },
-    {
-      "title": "elonmusk - SpaceX caught Starship 42 with the Mechazilla tower for the first time; NASA chief Isaacman says it 'changes everything'",
-      "notes": "https://x.com/elonmusk/status/2122472344052531640",
-      "url": "https://x.com/elonmusk/status/2122472344052531640",
+      "title": "Elon Musk - Tesla unveils Powercore, a 7.4 MW solid-state medium-voltage transformer, made in America and operating in 2027",
+      "notes": "https://x.com/elonmusk/status/2122733232894468308",
+      "url": "https://x.com/elonmusk/status/2122733232894468308",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "dwarkesh_sp - Paul Christiano puts a 1-in-3 chance on government-toppling superintelligence within a year and urges labs to pause",
-      "notes": "https://x.com/dwarkesh_sp/status/2122391850854088858",
-      "url": "https://x.com/dwarkesh_sp/status/2122391850854088858",
-      "who": "dwarkesh_sp",
+      "title": "Mustafa Suleyman - Microsoft announces MAI Cyber 2 Flash; its earlier model sent 99 human-checked bug reports to open-source maintainers",
+      "notes": "https://x.com/mustafasuleyman/status/2122825980670775693",
+      "url": "https://x.com/mustafasuleyman/status/2122825980670775693",
+      "who": "mustafasuleyman",
       "platform": "X"
     },
     {
-      "title": "alighodsi - Databricks AI Index: open-source models rose from single digits to over 30% of enterprise tokens in six months",
-      "notes": "https://x.com/alighodsi/status/2122380756081426774",
-      "url": "https://x.com/alighodsi/status/2122380756081426774",
-      "who": "alighodsi",
+      "title": "Palmer Luckey - Reveals SLAB, a seastead he started after the Oculus sale, raised at a $1B valuation in 2017 and now being topped up",
+      "notes": "https://x.com/PalmerLuckey/status/2122861334371180795",
+      "url": "https://x.com/PalmerLuckey/status/2122861334371180795",
+      "who": "PalmerLuckey",
+      "platform": "X"
+    },
+    {
+      "title": "Brian Armstrong - Coinbase is building payment rails and a marketplace where AI agents find, hire and pay one another",
+      "notes": "https://x.com/brian_armstrong/status/2122806649450852377",
+      "url": "https://x.com/brian_armstrong/status/2122806649450852377",
+      "who": "brian_armstrong",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Tue 17 Nov\n• burrytracker - Burry buys ADBE, MELI (now his largest), LULU, QXO; closes ORCL/CAT puts; trims GOOGL; still holds NVDA before earnings\n• mansourtarek_ - Gene Munster puts Jensen Huang's return to Nvidia at 51%, up from 10% Friday, while Kalshi prices it at 9%\n• burrytracker - Mag 7 are ~$4.6T below all-time highs: Nvidia -32.8%, Alphabet -28.2%, Tesla -21.8%, Meta -19.8%\n• burrytracker - Nvidia's 13F: SpaceX is now its biggest holding at 40.7% after it sold 25% of its Intel stake\n• burrytracker - Tepper raised his SpaceX stake over 17x, now his 4th-largest position at 7.4%; swapped AMD/AVGO for ORCL/AMAT"
+  "message": "Daily Brief Wed 18 Nov\n• Jensen Huang - Admits 'serious mistakes', will cooperate with Nvidia board probe, and says he'd return as CEO if the board decides it\n• Sam Altman - OpenAI ships GPT-6.2 Sol and Astra, pitched as token-efficient, with Sol ultrafast expanded to Pro 200 plans\n• Sundar Pichai - Gemini Tasks goes free in six countries on Gemini 4 Hydrogen; it can call businesses for quotes and pay via Google Pay\n• burrytracker - Peter Thiel's Q3 13F shows exits from 5 energy and utility stocks and $161M put into chips via SOXX, plus a new MSFT stake\n• Elon Musk - Tesla unveils Powercore, a 7.4 MW solid-state medium-voltage transformer, made in America and operating in 2027"
 }
