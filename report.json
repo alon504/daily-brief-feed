@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T04:24:10+02:00",
-  "overview": "The big stories are Jensen Huang saying he would return as Nvidia CEO if the board asks, and OpenAI releasing GPT-6.2 Astra and Sol to mixed reviews. Google made Gemini Tasks free in six countries, Peter Thiel's 13F shows a rotation from utilities into chips, and Tesla unveiled a solid-state transformer for data centers. Your interests file is still the blank template, so this brief is ranked for general tech, AI and investing relevance.",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:24:13+02:00",
+  "overview": "Google dominated the day with Gemini 4 Neon. It is a fast, cheaper model that Google and its executives say ranks near the top of benchmarks, and Genie 4 world models also went live. On the money side, Bill Ackman says he is still bullish on Microsoft despite share sales shown in his 13F. Anthropic's IPO is drawing fire from AI-safety figures. A new pre-auth NGINX exploit is worth acting on if you run NGINX.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "Jensen Huang - Admits 'serious mistakes', will cooperate with Nvidia board probe, and says he'd return as CEO if the board decides it",
-      "notes": "https://x.com/JensenHuang/status/2122726005219737649",
-      "url": "https://x.com/JensenHuang/status/2122726005219737649",
-      "who": "JensenHuang",
+      "title": "Koray Kavukcuoglu - Google's Gemini 4 Neon launches; Google says #3 on Artificial Analysis and #2 on Vals Index, with a 1M-token context",
+      "notes": "https://x.com/koraykv/status/2123167638050541626",
+      "url": "https://x.com/koraykv/status/2123167638050541626",
+      "who": "koraykv",
       "platform": "X"
     },
     {
-      "title": "Sam Altman - OpenAI ships GPT-6.2 Sol and Astra, pitched as token-efficient, with Sol ultrafast expanded to Pro 200 plans",
-      "notes": "https://x.com/sama/status/2122798039899263456",
-      "url": "https://x.com/sama/status/2122798039899263456",
-      "who": "sama",
+      "title": "Greg Brockman - OpenAI helped find NGINX2Shell, a pre-auth remote code exploit in NGINX 1.31.8, the current mainline release",
+      "notes": "https://x.com/gdb/status/2123190766382075992",
+      "url": "https://x.com/gdb/status/2123190766382075992",
+      "who": "gdb",
       "platform": "X"
     },
     {
-      "title": "Sundar Pichai - Gemini Tasks goes free in six countries on Gemini 4 Hydrogen; it can call businesses for quotes and pay via Google Pay",
-      "notes": "https://x.com/sundarpichai/status/2122741728247738688",
-      "url": "https://x.com/sundarpichai/status/2122741728247738688",
-      "who": "sundarpichai",
+      "title": "Bill Ackman - Pershing sold ~2M MSFT shares but bought 2M deep-in-the-money options at a ~$310 strike, running 2.5 years",
+      "notes": "https://x.com/BillAckman/status/2123153655687791029",
+      "url": "https://x.com/BillAckman/status/2123153655687791029",
+      "who": "BillAckman",
       "platform": "X"
     },
     {
-      "title": "burrytracker - Peter Thiel's Q3 13F shows exits from 5 energy and utility stocks and $161M put into chips via SOXX, plus a new MSFT stake",
-      "notes": "https://x.com/burrytracker/status/2122794883257688114",
-      "url": "https://x.com/burrytracker/status/2122794883257688114",
-      "who": "burrytracker",
+      "title": "David Sacks - Tegmark signs an anti-Anthropic statement on its IPO day, saying the company races toward self-improving AI while warning about it",
+      "notes": "https://x.com/DavidSacks/status/2123163407780323795",
+      "url": "https://x.com/DavidSacks/status/2123163407780323795",
+      "who": "DavidSacks",
       "platform": "X"
     },
     {
-      "title": "Elon Musk - Tesla unveils Powercore, a 7.4 MW solid-state medium-voltage transformer, made in America and operating in 2027",
-      "notes": "https://x.com/elonmusk/status/2122733232894468308",
-      "url": "https://x.com/elonmusk/status/2122733232894468308",
+      "title": "Greg Brockman - OpenAI says its models found up to 14% power/performance/area gains on AMD flagship GPU designs in under 5 months",
+      "notes": "https://x.com/gdb/status/2123130414323888463",
+      "url": "https://x.com/gdb/status/2123130414323888463",
+      "who": "gdb",
+      "platform": "X"
+    },
+    {
+      "title": "Elon Musk - SpaceX catches a Starship upper stage for the first time; Musk calls it the last major piece of full reuse",
+      "notes": "https://x.com/elonmusk/status/2123220899264679988",
+      "url": "https://x.com/elonmusk/status/2123220899264679988",
       "who": "elonmusk",
       "platform": "X"
     },
     {
-      "title": "Mustafa Suleyman - Microsoft announces MAI Cyber 2 Flash; its earlier model sent 99 human-checked bug reports to open-source maintainers",
-      "notes": "https://x.com/mustafasuleyman/status/2122825980670775693",
-      "url": "https://x.com/mustafasuleyman/status/2122825980670775693",
-      "who": "mustafasuleyman",
+      "title": "Google AI - Genie 4 world model goes live in Project Genie, with real-time editing, native audio and a remixable community gallery",
+      "notes": "https://x.com/GoogleAI/status/2123117803775426737",
+      "url": "https://x.com/GoogleAI/status/2123117803775426737",
+      "who": "GoogleAI",
       "platform": "X"
     },
     {
-      "title": "Palmer Luckey - Reveals SLAB, a seastead he started after the Oculus sale, raised at a $1B valuation in 2017 and now being topped up",
-      "notes": "https://x.com/PalmerLuckey/status/2122861334371180795",
-      "url": "https://x.com/PalmerLuckey/status/2122861334371180795",
-      "who": "PalmerLuckey",
-      "platform": "X"
-    },
-    {
-      "title": "Brian Armstrong - Coinbase is building payment rails and a marketplace where AI agents find, hire and pay one another",
-      "notes": "https://x.com/brian_armstrong/status/2122806649450852377",
-      "url": "https://x.com/brian_armstrong/status/2122806649450852377",
-      "who": "brian_armstrong",
+      "title": "Greg Brockman - ChatGPT for Accounting launches, with plugins for QuickBooks, Xero, NetSuite and BILL covering reconciliation and month-end",
+      "notes": "https://x.com/gdb/status/2123225465762542044",
+      "url": "https://x.com/gdb/status/2123225465762542044",
+      "who": "gdb",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Wed 18 Nov\n• Jensen Huang - Admits 'serious mistakes', will cooperate with Nvidia board probe, and says he'd return as CEO if the board decides it\n• Sam Altman - OpenAI ships GPT-6.2 Sol and Astra, pitched as token-efficient, with Sol ultrafast expanded to Pro 200 plans\n• Sundar Pichai - Gemini Tasks goes free in six countries on Gemini 4 Hydrogen; it can call businesses for quotes and pay via Google Pay\n• burrytracker - Peter Thiel's Q3 13F shows exits from 5 energy and utility stocks and $161M put into chips via SOXX, plus a new MSFT stake\n• Elon Musk - Tesla unveils Powercore, a 7.4 MW solid-state medium-voltage transformer, made in America and operating in 2027"
+  "message": "Daily Brief Thu 19 Nov\n• Koray Kavukcuoglu - Google's Gemini 4 Neon launches; Google says #3 on Artificial Analysis and #2 on Vals Index, with a 1M-token context\n• Greg Brockman - OpenAI helped find NGINX2Shell, a pre-auth remote code exploit in NGINX 1.31.8, the current mainline release\n• Bill Ackman - Pershing sold ~2M MSFT shares but bought 2M deep-in-the-money options at a ~$310 strike, running 2.5 years\n• David Sacks - Tegmark signs an anti-Anthropic statement on its IPO day, saying the company races toward self-improving AI while warning about it\n• Greg Brockman - OpenAI says its models found up to 14% power/performance/area gains on AMD flagship GPU designs in under 5 months"
 }
