@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T04:24:13+02:00",
-  "overview": "Google dominated the day with Gemini 4 Neon. It is a fast, cheaper model that Google and its executives say ranks near the top of benchmarks, and Genie 4 world models also went live. On the money side, Bill Ackman says he is still bullish on Microsoft despite share sales shown in his 13F. Anthropic's IPO is drawing fire from AI-safety figures. A new pre-auth NGINX exploit is worth acting on if you run NGINX.",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T04:24:25+02:00",
+  "overview": "Google's new Gemini Neon model dominated the feed, with Hassabis, Pichai, Musk and Matthew Berman all praising it, while Anthropic's IPO is described as happening today, with deep dives from Social Capital and No Priors. On the markets side, Burry's updated holdings show him exiting Alphabet and trimming AI shorts, and Ackman flagged index buying in $PS.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "Koray Kavukcuoglu - Google's Gemini 4 Neon launches; Google says #3 on Artificial Analysis and #2 on Vals Index, with a 1M-token context",
-      "notes": "https://x.com/koraykv/status/2123167638050541626",
-      "url": "https://x.com/koraykv/status/2123167638050541626",
-      "who": "koraykv",
+      "title": "MatthewBerman - Calls Gemini Neon 'very good'; Google's TianfuF says Neon is a small model approaching Fable and Astra",
+      "notes": "https://x.com/MatthewBerman/status/2123503380064792609",
+      "url": "https://x.com/MatthewBerman/status/2123503380064792609",
+      "who": "MatthewBerman",
       "platform": "X"
     },
     {
-      "title": "Greg Brockman - OpenAI helped find NGINX2Shell, a pre-auth remote code exploit in NGINX 1.31.8, the current mainline release",
-      "notes": "https://x.com/gdb/status/2123190766382075992",
-      "url": "https://x.com/gdb/status/2123190766382075992",
-      "who": "gdb",
+      "title": "sundarpichai - Says Gemini Neon is also No. 1 on Cursorbench, replying to Elon Musk calling it 'a banger'",
+      "notes": "https://x.com/sundarpichai/status/2123321095344492961",
+      "url": "https://x.com/sundarpichai/status/2123321095344492961",
+      "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Bill Ackman - Pershing sold ~2M MSFT shares but bought 2M deep-in-the-money options at a ~$310 strike, running 2.5 years",
-      "notes": "https://x.com/BillAckman/status/2123153655687791029",
-      "url": "https://x.com/BillAckman/status/2123153655687791029",
+      "title": "chamath - Recommends Social Capital's 3-month Anthropic deep dive, posted ahead of what it calls tomorrow's IPO",
+      "notes": "https://x.com/chamath/status/2123255479992541691",
+      "url": "https://x.com/chamath/status/2123255479992541691",
+      "who": "chamath",
+      "platform": "X"
+    },
+    {
+      "title": "burrytracker - Burry's updated holdings: exiting Alphabet, puts on NVDA, PLTR, MU and SMH, top longs MELI and Temple & Webster",
+      "notes": "https://x.com/burrytracker/status/2123430684811297120",
+      "url": "https://x.com/burrytracker/status/2123430684811297120",
+      "who": "burrytracker",
+      "platform": "X"
+    },
+    {
+      "title": "steipete - GPT-6.2 Astra/Sol reportedly don't cache top-level instructions, raising API bills; fix landed in OpenClaw",
+      "notes": "https://x.com/steipete/status/2123487048250327497",
+      "url": "https://x.com/steipete/status/2123487048250327497",
+      "who": "steipete",
+      "platform": "X"
+    },
+    {
+      "title": "BillAckman - Says Pershing Square $PS joins the Russell 3000 on Dec 11, requiring an estimated ~5M share purchase by index funds",
+      "notes": "https://x.com/BillAckman/status/2123460497391468962",
+      "url": "https://x.com/BillAckman/status/2123460497391468962",
       "who": "BillAckman",
       "platform": "X"
     },
     {
-      "title": "David Sacks - Tegmark signs an anti-Anthropic statement on its IPO day, saying the company races toward self-improving AI while warning about it",
-      "notes": "https://x.com/DavidSacks/status/2123163407780323795",
-      "url": "https://x.com/DavidSacks/status/2123163407780323795",
-      "who": "DavidSacks",
+      "title": "sundarpichai - Google's Willow chip won the 'impossible' magic square game 98.3% of the time vs. a 88.9% classical limit",
+      "notes": "https://x.com/sundarpichai/status/2123529356089946543",
+      "url": "https://x.com/sundarpichai/status/2123529356089946543",
+      "who": "sundarpichai",
       "platform": "X"
     },
     {
-      "title": "Greg Brockman - OpenAI says its models found up to 14% power/performance/area gains on AMD flagship GPU designs in under 5 months",
-      "notes": "https://x.com/gdb/status/2123130414323888463",
-      "url": "https://x.com/gdb/status/2123130414323888463",
-      "who": "gdb",
-      "platform": "X"
-    },
-    {
-      "title": "Elon Musk - SpaceX catches a Starship upper stage for the first time; Musk calls it the last major piece of full reuse",
-      "notes": "https://x.com/elonmusk/status/2123220899264679988",
-      "url": "https://x.com/elonmusk/status/2123220899264679988",
-      "who": "elonmusk",
-      "platform": "X"
-    },
-    {
-      "title": "Google AI - Genie 4 world model goes live in Project Genie, with real-time editing, native audio and a remixable community gallery",
-      "notes": "https://x.com/GoogleAI/status/2123117803775426737",
-      "url": "https://x.com/GoogleAI/status/2123117803775426737",
-      "who": "GoogleAI",
-      "platform": "X"
-    },
-    {
-      "title": "Greg Brockman - ChatGPT for Accounting launches, with plugins for QuickBooks, Xero, NetSuite and BILL covering reconciliation and month-end",
-      "notes": "https://x.com/gdb/status/2123225465762542044",
-      "url": "https://x.com/gdb/status/2123225465762542044",
-      "who": "gdb",
+      "title": "brian_armstrong - Coinbase crypto options, powered by Deribit, are now live for non-US users, with US access 'coming soon'",
+      "notes": "https://x.com/brian_armstrong/status/2123417174031417841",
+      "url": "https://x.com/brian_armstrong/status/2123417174031417841",
+      "who": "brian_armstrong",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Thu 19 Nov\n• Koray Kavukcuoglu - Google's Gemini 4 Neon launches; Google says #3 on Artificial Analysis and #2 on Vals Index, with a 1M-token context\n• Greg Brockman - OpenAI helped find NGINX2Shell, a pre-auth remote code exploit in NGINX 1.31.8, the current mainline release\n• Bill Ackman - Pershing sold ~2M MSFT shares but bought 2M deep-in-the-money options at a ~$310 strike, running 2.5 years\n• David Sacks - Tegmark signs an anti-Anthropic statement on its IPO day, saying the company races toward self-improving AI while warning about it\n• Greg Brockman - OpenAI says its models found up to 14% power/performance/area gains on AMD flagship GPU designs in under 5 months"
+  "message": "Daily Brief Fri 20 Nov\n• MatthewBerman - Calls Gemini Neon 'very good'; Google's TianfuF says Neon is a small model approaching Fable and Astra\n• sundarpichai - Says Gemini Neon is also No. 1 on Cursorbench, replying to Elon Musk calling it 'a banger'\n• chamath - Recommends Social Capital's 3-month Anthropic deep dive, posted ahead of what it calls tomorrow's IPO\n• burrytracker - Burry's updated holdings: exiting Alphabet, puts on NVDA, PLTR, MU and SMH, top longs MELI and Temple & Webster\n• steipete - GPT-6.2 Astra/Sol reportedly don't cache top-level instructions, raising API bills; fix landed in OpenClaw"
 }
