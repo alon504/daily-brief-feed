@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T04:24:25+02:00",
-  "overview": "Google's new Gemini Neon model dominated the feed, with Hassabis, Pichai, Musk and Matthew Berman all praising it, while Anthropic's IPO is described as happening today, with deep dives from Social Capital and No Priors. On the markets side, Burry's updated holdings show him exiting Alphabet and trimming AI shorts, and Ackman flagged index buying in $PS.",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T04:24:10+02:00",
+  "overview": "A heavy AI-model day: Thinking Machines shipped Inkling 2 Mini, a 26B model that runs on a laptop. Google recapped its Gemini 4 lineup, and OpenAI posted robotics and drug-discovery gains. On markets, burrytracker reports Burry trimmed his Nvidia and semiconductor puts, while the All-In crew covered Anthropic going public and the turmoil at Nvidia.",
   "report_url": "",
   "status": {
     "x": "ok",
@@ -10,61 +10,61 @@
   },
   "top_items": [
     {
-      "title": "MatthewBerman - Calls Gemini Neon 'very good'; Google's TianfuF says Neon is a small model approaching Fable and Astra",
-      "notes": "https://x.com/MatthewBerman/status/2123503380064792609",
-      "url": "https://x.com/MatthewBerman/status/2123503380064792609",
-      "who": "MatthewBerman",
+      "title": "Mira Murati - Thinking Machines' Inkling 2 Mini is a 26B looped transformer that runs on a laptop and scores 20.1 on AA Index",
+      "notes": "https://x.com/miramurati/status/2123872534970208421",
+      "url": "https://x.com/miramurati/status/2123872534970208421",
+      "who": "miramurati",
       "platform": "X"
     },
     {
-      "title": "sundarpichai - Says Gemini Neon is also No. 1 on Cursorbench, replying to Elon Musk calling it 'a banger'",
-      "notes": "https://x.com/sundarpichai/status/2123321095344492961",
-      "url": "https://x.com/sundarpichai/status/2123321095344492961",
-      "who": "sundarpichai",
+      "title": "GoogleAI - Gemini 4 Neon, Hydrogen and Carbon launched alongside Genie 4, Gemini Robotics 2.5 and AlphaGenome 2",
+      "notes": "https://x.com/GoogleAI/status/2123828467124851025",
+      "url": "https://x.com/GoogleAI/status/2123828467124851025",
+      "who": "GoogleAI",
       "platform": "X"
     },
     {
-      "title": "chamath - Recommends Social Capital's 3-month Anthropic deep dive, posted ahead of what it calls tomorrow's IPO",
-      "notes": "https://x.com/chamath/status/2123255479992541691",
-      "url": "https://x.com/chamath/status/2123255479992541691",
-      "who": "chamath",
-      "platform": "X"
-    },
-    {
-      "title": "burrytracker - Burry's updated holdings: exiting Alphabet, puts on NVDA, PLTR, MU and SMH, top longs MELI and Temple & Webster",
-      "notes": "https://x.com/burrytracker/status/2123430684811297120",
-      "url": "https://x.com/burrytracker/status/2123430684811297120",
+      "title": "burrytracker - Burry reportedly sold 50% of his NVDA and SMH puts, kept Nasdaq 100 April 2027 puts, and added 20% to MELI",
+      "notes": "https://x.com/burrytracker/status/2123841050842186173",
+      "url": "https://x.com/burrytracker/status/2123841050842186173",
       "who": "burrytracker",
       "platform": "X"
     },
     {
-      "title": "steipete - GPT-6.2 Astra/Sol reportedly don't cache top-level instructions, raising API bills; fix landed in OpenClaw",
-      "notes": "https://x.com/steipete/status/2123487048250327497",
-      "url": "https://x.com/steipete/status/2123487048250327497",
-      "who": "steipete",
+      "title": "Chamath Palihapitiya - New All-In episode covers Anthropic going public, Nvidia's stock slide and talent crisis, and whether the market has bottomed",
+      "notes": "https://x.com/chamath/status/2123910191771177181",
+      "url": "https://x.com/chamath/status/2123910191771177181",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "BillAckman - Says Pershing Square $PS joins the Russell 3000 on Dec 11, requiring an estimated ~5M share purchase by index funds",
-      "notes": "https://x.com/BillAckman/status/2123460497391468962",
-      "url": "https://x.com/BillAckman/status/2123460497391468962",
-      "who": "BillAckman",
+      "title": "Chamath Palihapitiya - Social Capital says ~79% of Anthropic's 2026 revenue is usage-based and new-model discounts cut ~$600M from Q3",
+      "notes": "https://x.com/chamath/status/2123844947967430666",
+      "url": "https://x.com/chamath/status/2123844947967430666",
+      "who": "chamath",
       "platform": "X"
     },
     {
-      "title": "sundarpichai - Google's Willow chip won the 'impossible' magic square game 98.3% of the time vs. a 88.9% classical limit",
-      "notes": "https://x.com/sundarpichai/status/2123529356089946543",
-      "url": "https://x.com/sundarpichai/status/2123529356089946543",
-      "who": "sundarpichai",
+      "title": "Greg Brockman - Partner xdof says GPT-6.2 Astra scored 41.2% on its Ember-0 robotics benchmark, up from 19.6% for GPT-6 Astra in September",
+      "notes": "https://x.com/gdb/status/2123876651583111322",
+      "url": "https://x.com/gdb/status/2123876651583111322",
+      "who": "gdb",
       "platform": "X"
     },
     {
-      "title": "brian_armstrong - Coinbase crypto options, powered by Deribit, are now live for non-US users, with US access 'coming soon'",
-      "notes": "https://x.com/brian_armstrong/status/2123417174031417841",
-      "url": "https://x.com/brian_armstrong/status/2123417174031417841",
-      "who": "brian_armstrong",
+      "title": "Demis Hassabis - Isomorphic Labs signs a research deal with Merck (MSD) that Hassabis says includes designing a new cancer drug",
+      "notes": "https://x.com/demishassabis/status/2123871861843075099",
+      "url": "https://x.com/demishassabis/status/2123871861843075099",
+      "who": "demishassabis",
+      "platform": "X"
+    },
+    {
+      "title": "Greg Brockman - OpenAI launches MedChemBench, a medicinal-chemistry benchmark Brockman says shows very strong model progress",
+      "notes": "https://x.com/gdb/status/2123859658473668694",
+      "url": "https://x.com/gdb/status/2123859658473668694",
+      "who": "gdb",
       "platform": "X"
     }
   ],
-  "message": "Daily Brief Fri 20 Nov\n• MatthewBerman - Calls Gemini Neon 'very good'; Google's TianfuF says Neon is a small model approaching Fable and Astra\n• sundarpichai - Says Gemini Neon is also No. 1 on Cursorbench, replying to Elon Musk calling it 'a banger'\n• chamath - Recommends Social Capital's 3-month Anthropic deep dive, posted ahead of what it calls tomorrow's IPO\n• burrytracker - Burry's updated holdings: exiting Alphabet, puts on NVDA, PLTR, MU and SMH, top longs MELI and Temple & Webster\n• steipete - GPT-6.2 Astra/Sol reportedly don't cache top-level instructions, raising API bills; fix landed in OpenClaw"
+  "message": "Daily Brief Sat 21 Nov\n• Mira Murati - Thinking Machines' Inkling 2 Mini is a 26B looped transformer that runs on a laptop and scores 20.1 on AA Index\n• GoogleAI - Gemini 4 Neon, Hydrogen and Carbon launched alongside Genie 4, Gemini Robotics 2.5 and AlphaGenome 2\n• burrytracker - Burry reportedly sold 50% of his NVDA and SMH puts, kept Nasdaq 100 April 2027 puts, and added 20% to MELI\n• Chamath Palihapitiya - New All-In episode covers Anthropic going public, Nvidia's stock slide and talent crisis, and whether the market has bottomed\n• Chamath Palihapitiya - Social Capital says ~79% of Anthropic's 2026 revenue is usage-based and new-model discounts cut ~$600M from Q3"
 }
